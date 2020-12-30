@@ -1,0 +1,1249 @@
+SiteID,ParamName,variable,ParamDescription,value,ParamGroup
+10118,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,664,Peak-Flow Statistics
+10118,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,869,Peak-Flow Statistics
+10118,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,481,Peak-Flow Statistics
+10118,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,897,Peak-Flow Statistics
+10118,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,732,Peak-Flow Statistics
+10118,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,600,Peak-Flow Statistics
+10118,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,829,Peak-Flow Statistics
+10118,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,986,Peak-Flow Statistics
+10118,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,422,Flood-Volume Statistics
+10118,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,300,Flood-Volume Statistics
+10118,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,521,Flood-Volume Statistics
+10118,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,3.8,Low-Flow Statistics
+10118,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,3.86,Low-Flow Statistics
+10118,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,2.35,Low-Flow Statistics
+10118,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,140,Flow-Duration Statistics
+10118,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,32.6,Flow-Duration Statistics
+10118,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,9.85,Flow-Duration Statistics
+10118,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,5.26,Flow-Duration Statistics
+10118,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,3.45,Flow-Duration Statistics
+10118,Mean Annual Flow,QA,Mean Annual Flow,41.3,Annual Flow Statistics
+10118,April Mean Flow,Q4,Mean April Flow,15.1,Monthly Flow Statistics
+10118,August Mean Flow,Q8,Mean August Flow,31,Monthly Flow Statistics
+10118,December Mean Flow,Q12,Mean December Flow,7.21,Monthly Flow Statistics
+10118,February Mean Flow,Q2,Mean February Flow,5.79,Monthly Flow Statistics
+10118,January Mean Flow,Q1,Mean January Flow,6.44,Monthly Flow Statistics
+10118,July Mean Flow,Q7,Mean July Flow,87.4,Monthly Flow Statistics
+10118,June Mean Flow,Q6,Mean June Flow,176,Monthly Flow Statistics
+10118,March Mean Flow,Q3,Mean March Flow,6.24,Monthly Flow Statistics
+10118,May Mean Flow,Q5,Mean May Flow,89.3,Monthly Flow Statistics
+10118,November Mean Flow,Q11,Mean November Flow,10.6,Monthly Flow Statistics
+10118,October Mean Flow,Q10,Mean October Flow,15.7,Monthly Flow Statistics
+10118,September Mean Flow,Q9,Mean September Flow,18.3,Monthly Flow Statistics
+10231,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,731,Peak-Flow Statistics
+10231,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1180,Peak-Flow Statistics
+10231,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,410,Peak-Flow Statistics
+10231,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1290,Peak-Flow Statistics
+10231,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,860,Peak-Flow Statistics
+10231,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,596,Peak-Flow Statistics
+10231,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1040,Peak-Flow Statistics
+10231,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,1500,Peak-Flow Statistics
+10231,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,540,Flood-Volume Statistics
+10231,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,299,Flood-Volume Statistics
+10231,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,766,Flood-Volume Statistics
+10231,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,3.82,Low-Flow Statistics
+10231,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,7.36,Low-Flow Statistics
+10231,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,3.79,Low-Flow Statistics
+10231,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,143,Flow-Duration Statistics
+10231,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,45.8,Flow-Duration Statistics
+10231,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,19,Flow-Duration Statistics
+10231,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,11.3,Flow-Duration Statistics
+10231,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,7.62,Flow-Duration Statistics
+10231,Mean Annual Flow,QA,Mean Annual Flow,58.2,Annual Flow Statistics
+10231,April Mean Flow,Q4,Mean April Flow,34.6,Monthly Flow Statistics
+10231,August Mean Flow,Q8,Mean August Flow,36.4,Monthly Flow Statistics
+10231,December Mean Flow,Q12,Mean December Flow,14.1,Monthly Flow Statistics
+10231,February Mean Flow,Q2,Mean February Flow,12.2,Monthly Flow Statistics
+10231,January Mean Flow,Q1,Mean January Flow,13,Monthly Flow Statistics
+10231,July Mean Flow,Q7,Mean July Flow,81.4,Monthly Flow Statistics
+10231,June Mean Flow,Q6,Mean June Flow,255,Monthly Flow Statistics
+10231,March Mean Flow,Q3,Mean March Flow,14.5,Monthly Flow Statistics
+10231,May Mean Flow,Q5,Mean May Flow,167,Monthly Flow Statistics
+10231,November Mean Flow,Q11,Mean November Flow,16.9,Monthly Flow Statistics
+10231,October Mean Flow,Q10,Mean October Flow,21.5,Monthly Flow Statistics
+10231,September Mean Flow,Q9,Mean September Flow,25.2,Monthly Flow Statistics
+10232,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,143,Peak-Flow Statistics
+10232,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,268,Peak-Flow Statistics
+10232,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,68,Peak-Flow Statistics
+10232,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,307,Peak-Flow Statistics
+10232,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,180,Peak-Flow Statistics
+10232,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,110,Peak-Flow Statistics
+10232,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,226,Peak-Flow Statistics
+10232,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,371,Peak-Flow Statistics
+10232,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,103,Flood-Volume Statistics
+10232,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,53.1,Flood-Volume Statistics
+10232,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,157,Flood-Volume Statistics
+10232,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,0.173,Low-Flow Statistics
+10232,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,0.601,Low-Flow Statistics
+10232,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,0.312,Low-Flow Statistics
+10232,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,22.2,Flow-Duration Statistics
+10232,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,7.25,Flow-Duration Statistics
+10232,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,3.42,Flow-Duration Statistics
+10232,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,2.03,Flow-Duration Statistics
+10232,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,1.14,Flow-Duration Statistics
+10232,Mean Annual Flow,QA,Mean Annual Flow,11,Annual Flow Statistics
+10232,April Mean Flow,Q4,Mean April Flow,4.86,Monthly Flow Statistics
+10232,August Mean Flow,Q8,Mean August Flow,6.62,Monthly Flow Statistics
+10232,December Mean Flow,Q12,Mean December Flow,2.45,Monthly Flow Statistics
+10232,February Mean Flow,Q2,Mean February Flow,2.11,Monthly Flow Statistics
+10232,January Mean Flow,Q1,Mean January Flow,2.19,Monthly Flow Statistics
+10232,July Mean Flow,Q7,Mean July Flow,13.4,Monthly Flow Statistics
+10232,June Mean Flow,Q6,Mean June Flow,55.1,Monthly Flow Statistics
+10232,March Mean Flow,Q3,Mean March Flow,2.42,Monthly Flow Statistics
+10232,May Mean Flow,Q5,Mean May Flow,32,Monthly Flow Statistics
+10232,November Mean Flow,Q11,Mean November Flow,2.74,Monthly Flow Statistics
+10232,October Mean Flow,Q10,Mean October Flow,3.3,Monthly Flow Statistics
+10232,September Mean Flow,Q9,Mean September Flow,4.32,Monthly Flow Statistics
+10240,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,2840,Peak-Flow Statistics
+10240,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,4230,Peak-Flow Statistics
+10240,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,1720,Peak-Flow Statistics
+10240,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,4580,Peak-Flow Statistics
+10240,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,3200,Peak-Flow Statistics
+10240,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,2380,Peak-Flow Statistics
+10240,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,3810,Peak-Flow Statistics
+10240,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,5200,Peak-Flow Statistics
+10240,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,2250,Flood-Volume Statistics
+10240,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,1250,Flood-Volume Statistics
+10240,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,3110,Flood-Volume Statistics
+10240,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,36.9,Low-Flow Statistics
+10240,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,53.5,Low-Flow Statistics
+10240,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,28.8,Low-Flow Statistics
+10240,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,670,Flow-Duration Statistics
+10240,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,227,Flow-Duration Statistics
+10240,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,91.5,Flow-Duration Statistics
+10240,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,56.2,Flow-Duration Statistics
+10240,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,44,Flow-Duration Statistics
+10240,Mean Annual Flow,QA,Mean Annual Flow,251,Annual Flow Statistics
+10240,April Mean Flow,Q4,Mean April Flow,213,Monthly Flow Statistics
+10240,August Mean Flow,Q8,Mean August Flow,155,Monthly Flow Statistics
+10240,December Mean Flow,Q12,Mean December Flow,70.1,Monthly Flow Statistics
+10240,February Mean Flow,Q2,Mean February Flow,61.9,Monthly Flow Statistics
+10240,January Mean Flow,Q1,Mean January Flow,66.3,Monthly Flow Statistics
+10240,July Mean Flow,Q7,Mean July Flow,356,Monthly Flow Statistics
+10240,June Mean Flow,Q6,Mean June Flow,985,Monthly Flow Statistics
+10240,March Mean Flow,Q3,Mean March Flow,77.1,Monthly Flow Statistics
+10240,May Mean Flow,Q5,Mean May Flow,754,Monthly Flow Statistics
+10240,November Mean Flow,Q11,Mean November Flow,84.5,Monthly Flow Statistics
+10240,October Mean Flow,Q10,Mean October Flow,109,Monthly Flow Statistics
+10240,September Mean Flow,Q9,Mean September Flow,117,Monthly Flow Statistics
+10267A,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,202,Peak-Flow Statistics
+10267A,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,314,Peak-Flow Statistics
+10267A,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,123,Peak-Flow Statistics
+10267A,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,337,Peak-Flow Statistics
+10267A,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,243,Peak-Flow Statistics
+10267A,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,172,Peak-Flow Statistics
+10267A,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,287,Peak-Flow Statistics
+10267A,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,394,Peak-Flow Statistics
+10267A,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,116,Flood-Volume Statistics
+10267A,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,73.3,Flood-Volume Statistics
+10267A,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,157,Flood-Volume Statistics
+10267A,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,0.546,Low-Flow Statistics
+10267A,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,0.94,Low-Flow Statistics
+10267A,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,0.46,Low-Flow Statistics
+10267A,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,30.8,Flow-Duration Statistics
+10267A,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,7.88,Flow-Duration Statistics
+10267A,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,2.85,Flow-Duration Statistics
+10267A,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,1.55,Flow-Duration Statistics
+10267A,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,0.887,Flow-Duration Statistics
+10267A,Mean Annual Flow,QA,Mean Annual Flow,11.5,Annual Flow Statistics
+10267A,April Mean Flow,Q4,Mean April Flow,3.72,Monthly Flow Statistics
+10267A,August Mean Flow,Q8,Mean August Flow,8.03,Monthly Flow Statistics
+10267A,December Mean Flow,Q12,Mean December Flow,2.03,Monthly Flow Statistics
+10267A,February Mean Flow,Q2,Mean February Flow,1.66,Monthly Flow Statistics
+10267A,January Mean Flow,Q1,Mean January Flow,1.79,Monthly Flow Statistics
+10267A,July Mean Flow,Q7,Mean July Flow,19.7,Monthly Flow Statistics
+10267A,June Mean Flow,Q6,Mean June Flow,55.2,Monthly Flow Statistics
+10267A,March Mean Flow,Q3,Mean March Flow,1.78,Monthly Flow Statistics
+10267A,May Mean Flow,Q5,Mean May Flow,27,Monthly Flow Statistics
+10267A,November Mean Flow,Q11,Mean November Flow,2.69,Monthly Flow Statistics
+10267A,October Mean Flow,Q10,Mean October Flow,3.67,Monthly Flow Statistics
+10267A,September Mean Flow,Q9,Mean September Flow,4.68,Monthly Flow Statistics
+10268B,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,193,Peak-Flow Statistics
+10268B,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,292,Peak-Flow Statistics
+10268B,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,120,Peak-Flow Statistics
+10268B,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,312,Peak-Flow Statistics
+10268B,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,227,Peak-Flow Statistics
+10268B,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,165,Peak-Flow Statistics
+10268B,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,267,Peak-Flow Statistics
+10268B,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,358,Peak-Flow Statistics
+10268B,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,117,Flood-Volume Statistics
+10268B,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,76.5,Flood-Volume Statistics
+10268B,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,156,Flood-Volume Statistics
+10268B,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,0.376,Low-Flow Statistics
+10268B,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,0.644,Low-Flow Statistics
+10268B,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,0.37,Low-Flow Statistics
+10268B,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,32.2,Flow-Duration Statistics
+10268B,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,7.92,Flow-Duration Statistics
+10268B,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,2.74,Flow-Duration Statistics
+10268B,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,1.48,Flow-Duration Statistics
+10268B,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,0.846,Flow-Duration Statistics
+10268B,Mean Annual Flow,QA,Mean Annual Flow,11.5,Annual Flow Statistics
+10268B,April Mean Flow,Q4,Mean April Flow,3.54,Monthly Flow Statistics
+10268B,August Mean Flow,Q8,Mean August Flow,8.21,Monthly Flow Statistics
+10268B,December Mean Flow,Q12,Mean December Flow,1.96,Monthly Flow Statistics
+10268B,February Mean Flow,Q2,Mean February Flow,1.58,Monthly Flow Statistics
+10268B,January Mean Flow,Q1,Mean January Flow,1.72,Monthly Flow Statistics
+10268B,July Mean Flow,Q7,Mean July Flow,20.8,Monthly Flow Statistics
+10268B,June Mean Flow,Q6,Mean June Flow,54.9,Monthly Flow Statistics
+10268B,March Mean Flow,Q3,Mean March Flow,1.68,Monthly Flow Statistics
+10268B,May Mean Flow,Q5,Mean May Flow,26.1,Monthly Flow Statistics
+10268B,November Mean Flow,Q11,Mean November Flow,2.66,Monthly Flow Statistics
+10268B,October Mean Flow,Q10,Mean October Flow,3.7,Monthly Flow Statistics
+10268B,September Mean Flow,Q9,Mean September Flow,4.7,Monthly Flow Statistics
+10283,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1310,Peak-Flow Statistics
+10283,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,2040,Peak-Flow Statistics
+10283,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,758,Peak-Flow Statistics
+10283,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2230,Peak-Flow Statistics
+10283,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1510,Peak-Flow Statistics
+10283,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1080,Peak-Flow Statistics
+10283,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1810,Peak-Flow Statistics
+10283,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2550,Peak-Flow Statistics
+10283,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,1030,Flood-Volume Statistics
+10283,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,569,Flood-Volume Statistics
+10283,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1440,Flood-Volume Statistics
+10283,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,15.3,Low-Flow Statistics
+10283,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,24.2,Low-Flow Statistics
+10283,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,11.3,Low-Flow Statistics
+10283,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,287,Flow-Duration Statistics
+10283,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,94.1,Flow-Duration Statistics
+10283,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,38.6,Flow-Duration Statistics
+10283,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,23.3,Flow-Duration Statistics
+10283,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,16.8,Flow-Duration Statistics
+10283,Mean Annual Flow,QA,Mean Annual Flow,112,Annual Flow Statistics
+10283,April Mean Flow,Q4,Mean April Flow,78.3,Monthly Flow Statistics
+10283,August Mean Flow,Q8,Mean August Flow,69.8,Monthly Flow Statistics
+10283,December Mean Flow,Q12,Mean December Flow,29,Monthly Flow Statistics
+10283,February Mean Flow,Q2,Mean February Flow,25.3,Monthly Flow Statistics
+10283,January Mean Flow,Q1,Mean January Flow,27,Monthly Flow Statistics
+10283,July Mean Flow,Q7,Mean July Flow,158,Monthly Flow Statistics
+10283,June Mean Flow,Q6,Mean June Flow,469,Monthly Flow Statistics
+10283,March Mean Flow,Q3,Mean March Flow,30.7,Monthly Flow Statistics
+10283,May Mean Flow,Q5,Mean May Flow,329,Monthly Flow Statistics
+10283,November Mean Flow,Q11,Mean November Flow,34.9,Monthly Flow Statistics
+10283,October Mean Flow,Q10,Mean October Flow,44.7,Monthly Flow Statistics
+10283,September Mean Flow,Q9,Mean September Flow,50.4,Monthly Flow Statistics
+10322,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1430,Peak-Flow Statistics
+10322,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,2410,Peak-Flow Statistics
+10322,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,739,Peak-Flow Statistics
+10322,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2720,Peak-Flow Statistics
+10322,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1670,Peak-Flow Statistics
+10322,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1120,Peak-Flow Statistics
+10322,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,2070,Peak-Flow Statistics
+10322,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,3160,Peak-Flow Statistics
+10322,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,1240,Flood-Volume Statistics
+10322,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,615,Flood-Volume Statistics
+10322,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1830,Flood-Volume Statistics
+10322,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,10.7,Low-Flow Statistics
+10322,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,23.9,Low-Flow Statistics
+10322,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,12.2,Low-Flow Statistics
+10322,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,315,Flow-Duration Statistics
+10322,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,119,Flow-Duration Statistics
+10322,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,55.7,Flow-Duration Statistics
+10322,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,35.3,Flow-Duration Statistics
+10322,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,25.9,Flow-Duration Statistics
+10322,Mean Annual Flow,QA,Mean Annual Flow,141,Annual Flow Statistics
+10322,April Mean Flow,Q4,Mean April Flow,123,Monthly Flow Statistics
+10322,August Mean Flow,Q8,Mean August Flow,81,Monthly Flow Statistics
+10322,December Mean Flow,Q12,Mean December Flow,42.2,Monthly Flow Statistics
+10322,February Mean Flow,Q2,Mean February Flow,38,Monthly Flow Statistics
+10322,January Mean Flow,Q1,Mean January Flow,39.8,Monthly Flow Statistics
+10322,July Mean Flow,Q7,Mean July Flow,167,Monthly Flow Statistics
+10322,June Mean Flow,Q6,Mean June Flow,591,Monthly Flow Statistics
+10322,March Mean Flow,Q3,Mean March Flow,48.1,Monthly Flow Statistics
+10322,May Mean Flow,Q5,Mean May Flow,466,Monthly Flow Statistics
+10322,November Mean Flow,Q11,Mean November Flow,46.5,Monthly Flow Statistics
+10322,October Mean Flow,Q10,Mean October Flow,55.9,Monthly Flow Statistics
+10322,September Mean Flow,Q9,Mean September Flow,63,Monthly Flow Statistics
+10324,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,955,Peak-Flow Statistics
+10324,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1560,Peak-Flow Statistics
+10324,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,519,Peak-Flow Statistics
+10324,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1730,Peak-Flow Statistics
+10324,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1110,Peak-Flow Statistics
+10324,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,766,Peak-Flow Statistics
+10324,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1360,Peak-Flow Statistics
+10324,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2000,Peak-Flow Statistics
+10324,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,774,Flood-Volume Statistics
+10324,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,412,Flood-Volume Statistics
+10324,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1110,Flood-Volume Statistics
+10324,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,7.55,Low-Flow Statistics
+10324,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,14.5,Low-Flow Statistics
+10324,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,6.99,Low-Flow Statistics
+10324,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,203,Flow-Duration Statistics
+10324,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,69.2,Flow-Duration Statistics
+10324,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,30,Flow-Duration Statistics
+10324,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,18.3,Flow-Duration Statistics
+10324,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,12.8,Flow-Duration Statistics
+10324,Mean Annual Flow,QA,Mean Annual Flow,85.3,Annual Flow Statistics
+10324,April Mean Flow,Q4,Mean April Flow,59.1,Monthly Flow Statistics
+10324,August Mean Flow,Q8,Mean August Flow,51.7,Monthly Flow Statistics
+10324,December Mean Flow,Q12,Mean December Flow,22.4,Monthly Flow Statistics
+10324,February Mean Flow,Q2,Mean February Flow,19.7,Monthly Flow Statistics
+10324,January Mean Flow,Q1,Mean January Flow,20.8,Monthly Flow Statistics
+10324,July Mean Flow,Q7,Mean July Flow,112,Monthly Flow Statistics
+10324,June Mean Flow,Q6,Mean June Flow,366,Monthly Flow Statistics
+10324,March Mean Flow,Q3,Mean March Flow,24,Monthly Flow Statistics
+10324,May Mean Flow,Q5,Mean May Flow,258,Monthly Flow Statistics
+10324,November Mean Flow,Q11,Mean November Flow,26.1,Monthly Flow Statistics
+10324,October Mean Flow,Q10,Mean October Flow,32.6,Monthly Flow Statistics
+10324,September Mean Flow,Q9,Mean September Flow,37.5,Monthly Flow Statistics
+10329,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,142,Peak-Flow Statistics
+10329,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,219,Peak-Flow Statistics
+10329,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,86.8,Peak-Flow Statistics
+10329,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,234,Peak-Flow Statistics
+10329,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,170,Peak-Flow Statistics
+10329,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,121,Peak-Flow Statistics
+10329,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,200,Peak-Flow Statistics
+10329,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,273,Peak-Flow Statistics
+10329,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,80.6,Flood-Volume Statistics
+10329,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,52.6,Flood-Volume Statistics
+10329,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,108,Flood-Volume Statistics
+10329,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,0.714,Low-Flow Statistics
+10329,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,1.05,Low-Flow Statistics
+10329,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,0.402,Low-Flow Statistics
+10329,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,21.5,Flow-Duration Statistics
+10329,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,5.21,Flow-Duration Statistics
+10329,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,1.82,Flow-Duration Statistics
+10329,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,0.975,Flow-Duration Statistics
+10329,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,0.536,Flow-Duration Statistics
+10329,Mean Annual Flow,QA,Mean Annual Flow,7.84,Annual Flow Statistics
+10329,April Mean Flow,Q4,Mean April Flow,2.21,Monthly Flow Statistics
+10329,August Mean Flow,Q8,Mean August Flow,5.62,Monthly Flow Statistics
+10329,December Mean Flow,Q12,Mean December Flow,1.29,Monthly Flow Statistics
+10329,February Mean Flow,Q2,Mean February Flow,1.04,Monthly Flow Statistics
+10329,January Mean Flow,Q1,Mean January Flow,1.12,Monthly Flow Statistics
+10329,July Mean Flow,Q7,Mean July Flow,14.1,Monthly Flow Statistics
+10329,June Mean Flow,Q6,Mean June Flow,38.6,Monthly Flow Statistics
+10329,March Mean Flow,Q3,Mean March Flow,1.09,Monthly Flow Statistics
+10329,May Mean Flow,Q5,Mean May Flow,17.6,Monthly Flow Statistics
+10329,November Mean Flow,Q11,Mean November Flow,1.75,Monthly Flow Statistics
+10329,October Mean Flow,Q10,Mean October Flow,2.42,Monthly Flow Statistics
+10329,September Mean Flow,Q9,Mean September Flow,3.15,Monthly Flow Statistics
+10767B,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,487,Peak-Flow Statistics
+10767B,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1030,Peak-Flow Statistics
+10767B,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,198,Peak-Flow Statistics
+10767B,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1170,Peak-Flow Statistics
+10767B,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,698,Peak-Flow Statistics
+10767B,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,355,Peak-Flow Statistics
+10767B,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,853,Peak-Flow Statistics
+10767B,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,1510,Peak-Flow Statistics
+10767B,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,182,Flood-Volume Statistics
+10767B,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,91.2,Flood-Volume Statistics
+10767B,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,252,Flood-Volume Statistics
+10767B,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,1.34,Low-Flow Statistics
+10767B,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,1.59,Low-Flow Statistics
+10767B,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,2.25,Low-Flow Statistics
+10767B,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,48.6,Flow-Duration Statistics
+10767B,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,17.1,Flow-Duration Statistics
+10767B,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,6.3,Flow-Duration Statistics
+10767B,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,3.11,Flow-Duration Statistics
+10767B,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,2.01,Flow-Duration Statistics
+10767B,Mean Annual Flow,QA,Mean Annual Flow,23.6,Annual Flow Statistics
+10767B,April Mean Flow,Q4,Mean April Flow,17.1,Monthly Flow Statistics
+10767B,August Mean Flow,Q8,Mean August Flow,13.7,Monthly Flow Statistics
+10767B,December Mean Flow,Q12,Mean December Flow,5.14,Monthly Flow Statistics
+10767B,February Mean Flow,Q2,Mean February Flow,4.34,Monthly Flow Statistics
+10767B,January Mean Flow,Q1,Mean January Flow,4.2,Monthly Flow Statistics
+10767B,July Mean Flow,Q7,Mean July Flow,29.7,Monthly Flow Statistics
+10767B,June Mean Flow,Q6,Mean June Flow,65.6,Monthly Flow Statistics
+10767B,March Mean Flow,Q3,Mean March Flow,5.64,Monthly Flow Statistics
+10767B,May Mean Flow,Q5,Mean May Flow,51.1,Monthly Flow Statistics
+10767B,November Mean Flow,Q11,Mean November Flow,7.02,Monthly Flow Statistics
+10767B,October Mean Flow,Q10,Mean October Flow,8.34,Monthly Flow Statistics
+10767B,September Mean Flow,Q9,Mean September Flow,8.21,Monthly Flow Statistics
+10769,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,699,Peak-Flow Statistics
+10769,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1460,Peak-Flow Statistics
+10769,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,289,Peak-Flow Statistics
+10769,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1650,Peak-Flow Statistics
+10769,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,997,Peak-Flow Statistics
+10769,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,513,Peak-Flow Statistics
+10769,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1210,Peak-Flow Statistics
+10769,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2120,Peak-Flow Statistics
+10769,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,274,Flood-Volume Statistics
+10769,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,137,Flood-Volume Statistics
+10769,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,379,Flood-Volume Statistics
+10769,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,2.2,Low-Flow Statistics
+10769,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,2.91,Low-Flow Statistics
+10769,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,3,Low-Flow Statistics
+10769,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,71.1,Flow-Duration Statistics
+10769,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,25.3,Flow-Duration Statistics
+10769,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,9.43,Flow-Duration Statistics
+10769,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,4.67,Flow-Duration Statistics
+10769,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,2.87,Flow-Duration Statistics
+10769,Mean Annual Flow,QA,Mean Annual Flow,34,Annual Flow Statistics
+10769,April Mean Flow,Q4,Mean April Flow,27.7,Monthly Flow Statistics
+10769,August Mean Flow,Q8,Mean August Flow,20.1,Monthly Flow Statistics
+10769,December Mean Flow,Q12,Mean December Flow,7.62,Monthly Flow Statistics
+10769,February Mean Flow,Q2,Mean February Flow,6.82,Monthly Flow Statistics
+10769,January Mean Flow,Q1,Mean January Flow,6.45,Monthly Flow Statistics
+10769,July Mean Flow,Q7,Mean July Flow,41.2,Monthly Flow Statistics
+10769,June Mean Flow,Q6,Mean June Flow,94.8,Monthly Flow Statistics
+10769,March Mean Flow,Q3,Mean March Flow,9,Monthly Flow Statistics
+10769,May Mean Flow,Q5,Mean May Flow,75,Monthly Flow Statistics
+10769,November Mean Flow,Q11,Mean November Flow,10.2,Monthly Flow Statistics
+10769,October Mean Flow,Q10,Mean October Flow,12.7,Monthly Flow Statistics
+10769,September Mean Flow,Q9,Mean September Flow,10.6,Monthly Flow Statistics
+10770A,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1550,Peak-Flow Statistics
+10770A,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,3150,Peak-Flow Statistics
+10770A,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,669,Peak-Flow Statistics
+10770A,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,3520,Peak-Flow Statistics
+10770A,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,2190,Peak-Flow Statistics
+10770A,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1150,Peak-Flow Statistics
+10770A,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,2620,Peak-Flow Statistics
+10770A,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,4540,Peak-Flow Statistics
+10770A,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,914,Flood-Volume Statistics
+10770A,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,491,Flood-Volume Statistics
+10770A,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1200,Flood-Volume Statistics
+10770A,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,7.23,Low-Flow Statistics
+10770A,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,12,Low-Flow Statistics
+10770A,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,5.04,Low-Flow Statistics
+10770A,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,265,Flow-Duration Statistics
+10770A,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,92,Flow-Duration Statistics
+10770A,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,33.5,Flow-Duration Statistics
+10770A,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,17.4,Flow-Duration Statistics
+10770A,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,10.5,Flow-Duration Statistics
+10770A,Mean Annual Flow,QA,Mean Annual Flow,110,Annual Flow Statistics
+10770A,April Mean Flow,Q4,Mean April Flow,118,Monthly Flow Statistics
+10770A,August Mean Flow,Q8,Mean August Flow,67.5,Monthly Flow Statistics
+10770A,December Mean Flow,Q12,Mean December Flow,24.8,Monthly Flow Statistics
+10770A,February Mean Flow,Q2,Mean February Flow,24.3,Monthly Flow Statistics
+10770A,January Mean Flow,Q1,Mean January Flow,22.4,Monthly Flow Statistics
+10770A,July Mean Flow,Q7,Mean July Flow,133,Monthly Flow Statistics
+10770A,June Mean Flow,Q6,Mean June Flow,366,Monthly Flow Statistics
+10770A,March Mean Flow,Q3,Mean March Flow,32.9,Monthly Flow Statistics
+10770A,May Mean Flow,Q5,Mean May Flow,276,Monthly Flow Statistics
+10770A,November Mean Flow,Q11,Mean November Flow,33.1,Monthly Flow Statistics
+10770A,October Mean Flow,Q10,Mean October Flow,46.4,Monthly Flow Statistics
+10770A,September Mean Flow,Q9,Mean September Flow,37.2,Monthly Flow Statistics
+10814,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,785,Peak-Flow Statistics
+10814,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1630,Peak-Flow Statistics
+10814,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,327,Peak-Flow Statistics
+10814,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1840,Peak-Flow Statistics
+10814,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1120,Peak-Flow Statistics
+10814,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,577,Peak-Flow Statistics
+10814,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1350,Peak-Flow Statistics
+10814,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2370,Peak-Flow Statistics
+10814,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,452,Flood-Volume Statistics
+10814,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,249,Flood-Volume Statistics
+10814,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,587,Flood-Volume Statistics
+10814,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.59,Low-Flow Statistics
+10814,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,6.91,Low-Flow Statistics
+10814,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,6.21,Low-Flow Statistics
+10814,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,142,Flow-Duration Statistics
+10814,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,48,Flow-Duration Statistics
+10814,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,16.9,Flow-Duration Statistics
+10814,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,8.85,Flow-Duration Statistics
+10814,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,6,Flow-Duration Statistics
+10814,Mean Annual Flow,QA,Mean Annual Flow,59.9,Annual Flow Statistics
+10814,April Mean Flow,Q4,Mean April Flow,51.7,Monthly Flow Statistics
+10814,August Mean Flow,Q8,Mean August Flow,35.4,Monthly Flow Statistics
+10814,December Mean Flow,Q12,Mean December Flow,12.5,Monthly Flow Statistics
+10814,February Mean Flow,Q2,Mean February Flow,11,Monthly Flow Statistics
+10814,January Mean Flow,Q1,Mean January Flow,10.6,Monthly Flow Statistics
+10814,July Mean Flow,Q7,Mean July Flow,78.7,Monthly Flow Statistics
+10814,June Mean Flow,Q6,Mean June Flow,204,Monthly Flow Statistics
+10814,March Mean Flow,Q3,Mean March Flow,14.4,Monthly Flow Statistics
+10814,May Mean Flow,Q5,Mean May Flow,147,Monthly Flow Statistics
+10814,November Mean Flow,Q11,Mean November Flow,17.5,Monthly Flow Statistics
+10814,October Mean Flow,Q10,Mean October Flow,22.6,Monthly Flow Statistics
+10814,September Mean Flow,Q9,Mean September Flow,26.4,Monthly Flow Statistics
+10815,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,718,Peak-Flow Statistics
+10815,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1490,Peak-Flow Statistics
+10815,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,298,Peak-Flow Statistics
+10815,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1690,Peak-Flow Statistics
+10815,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1020,Peak-Flow Statistics
+10815,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,527,Peak-Flow Statistics
+10815,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1240,Peak-Flow Statistics
+10815,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2180,Peak-Flow Statistics
+10815,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,417,Flood-Volume Statistics
+10815,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,231,Flood-Volume Statistics
+10815,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,540,Flood-Volume Statistics
+10815,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.29,Low-Flow Statistics
+10815,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,6.35,Low-Flow Statistics
+10815,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,6.2,Low-Flow Statistics
+10815,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,134,Flow-Duration Statistics
+10815,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,44.8,Flow-Duration Statistics
+10815,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,15.7,Flow-Duration Statistics
+10815,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,8.24,Flow-Duration Statistics
+10815,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,5.69,Flow-Duration Statistics
+10815,Mean Annual Flow,QA,Mean Annual Flow,56.1,Annual Flow Statistics
+10815,April Mean Flow,Q4,Mean April Flow,47.1,Monthly Flow Statistics
+10815,August Mean Flow,Q8,Mean August Flow,33,Monthly Flow Statistics
+10815,December Mean Flow,Q12,Mean December Flow,11.6,Monthly Flow Statistics
+10815,February Mean Flow,Q2,Mean February Flow,9.99,Monthly Flow Statistics
+10815,January Mean Flow,Q1,Mean January Flow,9.75,Monthly Flow Statistics
+10815,July Mean Flow,Q7,Mean July Flow,74.8,Monthly Flow Statistics
+10815,June Mean Flow,Q6,Mean June Flow,194,Monthly Flow Statistics
+10815,March Mean Flow,Q3,Mean March Flow,13.1,Monthly Flow Statistics
+10815,May Mean Flow,Q5,Mean May Flow,138,Monthly Flow Statistics
+10815,November Mean Flow,Q11,Mean November Flow,16.4,Monthly Flow Statistics
+10815,October Mean Flow,Q10,Mean October Flow,20.8,Monthly Flow Statistics
+10815,September Mean Flow,Q9,Mean September Flow,25.9,Monthly Flow Statistics
+10818,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,179,Peak-Flow Statistics
+10818,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,391,Peak-Flow Statistics
+10818,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,69.5,Peak-Flow Statistics
+10818,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,453,Peak-Flow Statistics
+10818,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,262,Peak-Flow Statistics
+10818,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,129,Peak-Flow Statistics
+10818,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,325,Peak-Flow Statistics
+10818,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,583,Peak-Flow Statistics
+10818,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,62.6,Flood-Volume Statistics
+10818,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,32.1,Flood-Volume Statistics
+10818,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,85.5,Flood-Volume Statistics
+10818,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,0.676,Low-Flow Statistics
+10818,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,0.691,Low-Flow Statistics
+10818,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,3.05,Low-Flow Statistics
+10818,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,18.5,Flow-Duration Statistics
+10818,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,6.25,Flow-Duration Statistics
+10818,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,2.21,Flow-Duration Statistics
+10818,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,1.09,Flow-Duration Statistics
+10818,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,0.825,Flow-Duration Statistics
+10818,Mean Annual Flow,QA,Mean Annual Flow,9.24,Annual Flow Statistics
+10818,April Mean Flow,Q4,Mean April Flow,4.87,Monthly Flow Statistics
+10818,August Mean Flow,Q8,Mean August Flow,5.07,Monthly Flow Statistics
+10818,December Mean Flow,Q12,Mean December Flow,1.82,Monthly Flow Statistics
+10818,February Mean Flow,Q2,Mean February Flow,1.31,Monthly Flow Statistics
+10818,January Mean Flow,Q1,Mean January Flow,1.36,Monthly Flow Statistics
+10818,July Mean Flow,Q7,Mean July Flow,13,Monthly Flow Statistics
+10818,June Mean Flow,Q6,Mean June Flow,26.1,Monthly Flow Statistics
+10818,March Mean Flow,Q3,Mean March Flow,1.63,Monthly Flow Statistics
+10818,May Mean Flow,Q5,Mean May Flow,19.2,Monthly Flow Statistics
+10818,November Mean Flow,Q11,Mean November Flow,2.65,Monthly Flow Statistics
+10818,October Mean Flow,Q10,Mean October Flow,2.77,Monthly Flow Statistics
+10818,September Mean Flow,Q9,Mean September Flow,4.53,Monthly Flow Statistics
+120,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1200,Peak-Flow Statistics
+120,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1880,Peak-Flow Statistics
+120,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,674,Peak-Flow Statistics
+120,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2080,Peak-Flow Statistics
+120,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1370,Peak-Flow Statistics
+120,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,971,Peak-Flow Statistics
+120,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1650,Peak-Flow Statistics
+120,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2360,Peak-Flow Statistics
+120,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,1020,Flood-Volume Statistics
+120,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,558,Flood-Volume Statistics
+120,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1440,Flood-Volume Statistics
+120,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.32,Low-Flow Statistics
+120,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,8.9,Low-Flow Statistics
+120,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,6.11,Low-Flow Statistics
+120,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,281,Flow-Duration Statistics
+120,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,93.6,Flow-Duration Statistics
+120,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,38.9,Flow-Duration Statistics
+120,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,23.6,Flow-Duration Statistics
+120,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,17,Flow-Duration Statistics
+120,Mean Annual Flow,QA,Mean Annual Flow,112,Annual Flow Statistics
+120,April Mean Flow,Q4,Mean April Flow,79.4,Monthly Flow Statistics
+120,August Mean Flow,Q8,Mean August Flow,69,Monthly Flow Statistics
+120,December Mean Flow,Q12,Mean December Flow,29.3,Monthly Flow Statistics
+120,February Mean Flow,Q2,Mean February Flow,25.7,Monthly Flow Statistics
+120,January Mean Flow,Q1,Mean January Flow,27.3,Monthly Flow Statistics
+120,July Mean Flow,Q7,Mean July Flow,155,Monthly Flow Statistics
+120,June Mean Flow,Q6,Mean June Flow,468,Monthly Flow Statistics
+120,March Mean Flow,Q3,Mean March Flow,31.2,Monthly Flow Statistics
+120,May Mean Flow,Q5,Mean May Flow,332,Monthly Flow Statistics
+120,November Mean Flow,Q11,Mean November Flow,34.9,Monthly Flow Statistics
+120,October Mean Flow,Q10,Mean October Flow,44.4,Monthly Flow Statistics
+120,September Mean Flow,Q9,Mean September Flow,50.1,Monthly Flow Statistics
+12554A,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,945,Peak-Flow Statistics
+12554A,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1420,Peak-Flow Statistics
+12554A,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,578,Peak-Flow Statistics
+12554A,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1530,Peak-Flow Statistics
+12554A,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1090,Peak-Flow Statistics
+12554A,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,798,Peak-Flow Statistics
+12554A,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1290,Peak-Flow Statistics
+12554A,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,1750,Peak-Flow Statistics
+12554A,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,663,Flood-Volume Statistics
+12554A,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,391,Flood-Volume Statistics
+12554A,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,901,Flood-Volume Statistics
+12554A,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,5.55,Low-Flow Statistics
+12554A,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,8.67,Low-Flow Statistics
+12554A,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,4.78,Low-Flow Statistics
+12554A,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,190,Flow-Duration Statistics
+12554A,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,56.6,Flow-Duration Statistics
+12554A,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,21.5,Flow-Duration Statistics
+12554A,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,12.5,Flow-Duration Statistics
+12554A,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,8.62,Flow-Duration Statistics
+12554A,Mean Annual Flow,QA,Mean Annual Flow,70.1,Annual Flow Statistics
+12554A,April Mean Flow,Q4,Mean April Flow,39.3,Monthly Flow Statistics
+12554A,August Mean Flow,Q8,Mean August Flow,45.8,Monthly Flow Statistics
+12554A,December Mean Flow,Q12,Mean December Flow,16,Monthly Flow Statistics
+12554A,February Mean Flow,Q2,Mean February Flow,13.6,Monthly Flow Statistics
+12554A,January Mean Flow,Q1,Mean January Flow,14.7,Monthly Flow Statistics
+12554A,July Mean Flow,Q7,Mean July Flow,109,Monthly Flow Statistics
+12554A,June Mean Flow,Q6,Mean June Flow,299,Monthly Flow Statistics
+12554A,March Mean Flow,Q3,Mean March Flow,15.9,Monthly Flow Statistics
+12554A,May Mean Flow,Q5,Mean May Flow,188,Monthly Flow Statistics
+12554A,November Mean Flow,Q11,Mean November Flow,20.3,Monthly Flow Statistics
+12554A,October Mean Flow,Q10,Mean October Flow,26.9,Monthly Flow Statistics
+12554A,September Mean Flow,Q9,Mean September Flow,31,Monthly Flow Statistics
+12554B,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1040,Peak-Flow Statistics
+12554B,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1560,Peak-Flow Statistics
+12554B,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,632,Peak-Flow Statistics
+12554B,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1690,Peak-Flow Statistics
+12554B,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1190,Peak-Flow Statistics
+12554B,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,874,Peak-Flow Statistics
+12554B,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1420,Peak-Flow Statistics
+12554B,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,1930,Peak-Flow Statistics
+12554B,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,742,Flood-Volume Statistics
+12554B,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,434,Flood-Volume Statistics
+12554B,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1010,Flood-Volume Statistics
+12554B,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,6.18,Low-Flow Statistics
+12554B,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,9.8,Low-Flow Statistics
+12554B,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,5.48,Low-Flow Statistics
+12554B,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,213,Flow-Duration Statistics
+12554B,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,64.5,Flow-Duration Statistics
+12554B,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,24.8,Flow-Duration Statistics
+12554B,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,14.5,Flow-Duration Statistics
+12554B,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,10.1,Flow-Duration Statistics
+12554B,Mean Annual Flow,QA,Mean Annual Flow,79,Annual Flow Statistics
+12554B,April Mean Flow,Q4,Mean April Flow,46.3,Monthly Flow Statistics
+12554B,August Mean Flow,Q8,Mean August Flow,51.2,Monthly Flow Statistics
+12554B,December Mean Flow,Q12,Mean December Flow,18.5,Monthly Flow Statistics
+12554B,February Mean Flow,Q2,Mean February Flow,15.8,Monthly Flow Statistics
+12554B,January Mean Flow,Q1,Mean January Flow,17,Monthly Flow Statistics
+12554B,July Mean Flow,Q7,Mean July Flow,121,Monthly Flow Statistics
+12554B,June Mean Flow,Q6,Mean June Flow,334,Monthly Flow Statistics
+12554B,March Mean Flow,Q3,Mean March Flow,18.6,Monthly Flow Statistics
+12554B,May Mean Flow,Q5,Mean May Flow,215,Monthly Flow Statistics
+12554B,November Mean Flow,Q11,Mean November Flow,23.2,Monthly Flow Statistics
+12554B,October Mean Flow,Q10,Mean October Flow,30.6,Monthly Flow Statistics
+12554B,September Mean Flow,Q9,Mean September Flow,35.1,Monthly Flow Statistics
+12555,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,608,Peak-Flow Statistics
+12555,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,919,Peak-Flow Statistics
+12555,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,372,Peak-Flow Statistics
+12555,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,988,Peak-Flow Statistics
+12555,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,706,Peak-Flow Statistics
+12555,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,514,Peak-Flow Statistics
+12555,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,836,Peak-Flow Statistics
+12555,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,1140,Peak-Flow Statistics
+12555,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,406,Flood-Volume Statistics
+12555,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,245,Flood-Volume Statistics
+12555,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,550,Flood-Volume Statistics
+12555,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,3.16,Low-Flow Statistics
+12555,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,4.95,Low-Flow Statistics
+12555,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,2.58,Low-Flow Statistics
+12555,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,115,Flow-Duration Statistics
+12555,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,32.5,Flow-Duration Statistics
+12555,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,12.1,Flow-Duration Statistics
+12555,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,6.93,Flow-Duration Statistics
+12555,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,4.52,Flow-Duration Statistics
+12555,Mean Annual Flow,QA,Mean Annual Flow,42.1,Annual Flow Statistics
+12555,April Mean Flow,Q4,Mean April Flow,20.1,Monthly Flow Statistics
+12555,August Mean Flow,Q8,Mean August Flow,28.1,Monthly Flow Statistics
+12555,December Mean Flow,Q12,Mean December Flow,8.92,Monthly Flow Statistics
+12555,February Mean Flow,Q2,Mean February Flow,7.5,Monthly Flow Statistics
+12555,January Mean Flow,Q1,Mean January Flow,8.08,Monthly Flow Statistics
+12555,July Mean Flow,Q7,Mean July Flow,68,Monthly Flow Statistics
+12555,June Mean Flow,Q6,Mean June Flow,186,Monthly Flow Statistics
+12555,March Mean Flow,Q3,Mean March Flow,8.53,Monthly Flow Statistics
+12555,May Mean Flow,Q5,Mean May Flow,109,Monthly Flow Statistics
+12555,November Mean Flow,Q11,Mean November Flow,11.5,Monthly Flow Statistics
+12555,October Mean Flow,Q10,Mean October Flow,15.4,Monthly Flow Statistics
+12555,September Mean Flow,Q9,Mean September Flow,18.2,Monthly Flow Statistics
+12783B,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,3220,Peak-Flow Statistics
+12783B,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,4520,Peak-Flow Statistics
+12783B,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,2100,Peak-Flow Statistics
+12783B,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,4820,Peak-Flow Statistics
+12783B,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,3550,Peak-Flow Statistics
+12783B,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,2770,Peak-Flow Statistics
+12783B,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,4160,Peak-Flow Statistics
+12783B,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,5370,Peak-Flow Statistics
+12783B,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,2510,Flood-Volume Statistics
+12783B,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,1480,Flood-Volume Statistics
+12783B,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,3330,Flood-Volume Statistics
+12783B,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,49.1,Low-Flow Statistics
+12783B,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,58.5,Low-Flow Statistics
+12783B,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,32.8,Low-Flow Statistics
+12783B,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,799,Flow-Duration Statistics
+12783B,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,252,Flow-Duration Statistics
+12783B,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,93.5,Flow-Duration Statistics
+12783B,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,56.1,Flow-Duration Statistics
+12783B,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,44.4,Flow-Duration Statistics
+12783B,Mean Annual Flow,QA,Mean Annual Flow,274,Annual Flow Statistics
+12783B,April Mean Flow,Q4,Mean April Flow,214,Monthly Flow Statistics
+12783B,August Mean Flow,Q8,Mean August Flow,176,Monthly Flow Statistics
+12783B,December Mean Flow,Q12,Mean December Flow,71.7,Monthly Flow Statistics
+12783B,February Mean Flow,Q2,Mean February Flow,62.2,Monthly Flow Statistics
+12783B,January Mean Flow,Q1,Mean January Flow,67.6,Monthly Flow Statistics
+12783B,July Mean Flow,Q7,Mean July Flow,431,Monthly Flow Statistics
+12783B,June Mean Flow,Q6,Mean June Flow,1050,Monthly Flow Statistics
+12783B,March Mean Flow,Q3,Mean March Flow,76.2,Monthly Flow Statistics
+12783B,May Mean Flow,Q5,Mean May Flow,771,Monthly Flow Statistics
+12783B,November Mean Flow,Q11,Mean November Flow,91,Monthly Flow Statistics
+12783B,October Mean Flow,Q10,Mean October Flow,122,Monthly Flow Statistics
+12783B,September Mean Flow,Q9,Mean September Flow,130,Monthly Flow Statistics
+12786B,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1100,Peak-Flow Statistics
+12786B,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1650,Peak-Flow Statistics
+12786B,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,678,Peak-Flow Statistics
+12786B,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1780,Peak-Flow Statistics
+12786B,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1270,Peak-Flow Statistics
+12786B,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,934,Peak-Flow Statistics
+12786B,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1500,Peak-Flow Statistics
+12786B,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2030,Peak-Flow Statistics
+12786B,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,783,Flood-Volume Statistics
+12786B,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,461,Flood-Volume Statistics
+12786B,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1060,Flood-Volume Statistics
+12786B,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,12.7,Low-Flow Statistics
+12786B,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,17.5,Low-Flow Statistics
+12786B,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,8.06,Low-Flow Statistics
+12786B,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,227,Flow-Duration Statistics
+12786B,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,68.4,Flow-Duration Statistics
+12786B,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,26.1,Flow-Duration Statistics
+12786B,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,15.3,Flow-Duration Statistics
+12786B,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,10.7,Flow-Duration Statistics
+12786B,Mean Annual Flow,QA,Mean Annual Flow,83.3,Annual Flow Statistics
+12786B,April Mean Flow,Q4,Mean April Flow,49,Monthly Flow Statistics
+12786B,August Mean Flow,Q8,Mean August Flow,54.2,Monthly Flow Statistics
+12786B,December Mean Flow,Q12,Mean December Flow,19.5,Monthly Flow Statistics
+12786B,February Mean Flow,Q2,Mean February Flow,16.6,Monthly Flow Statistics
+12786B,January Mean Flow,Q1,Mean January Flow,17.9,Monthly Flow Statistics
+12786B,July Mean Flow,Q7,Mean July Flow,129,Monthly Flow Statistics
+12786B,June Mean Flow,Q6,Mean June Flow,351,Monthly Flow Statistics
+12786B,March Mean Flow,Q3,Mean March Flow,19.6,Monthly Flow Statistics
+12786B,May Mean Flow,Q5,Mean May Flow,226,Monthly Flow Statistics
+12786B,November Mean Flow,Q11,Mean November Flow,24.5,Monthly Flow Statistics
+12786B,October Mean Flow,Q10,Mean October Flow,32.5,Monthly Flow Statistics
+12786B,September Mean Flow,Q9,Mean September Flow,37.1,Monthly Flow Statistics
+12805B,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,5031.16381142452,Peak-Flow Statistics
+12805B,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,7340.45967240255,Peak-Flow Statistics
+12805B,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,3061.2823871297,Peak-Flow Statistics
+12805B,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,7892.66871954642,Peak-Flow Statistics
+12805B,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,5616.85697763288,Peak-Flow Statistics
+12805B,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,4220.9896054713,Peak-Flow Statistics
+12805B,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,6550.57824810772,Peak-Flow Statistics
+12805B,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,8751.2121264635,Peak-Flow Statistics
+12805B,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,4700.52261785967,Flood-Volume Statistics
+12805B,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,2747.49817119773,Flood-Volume Statistics
+12805B,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,6223.89547642807,Flood-Volume Statistics
+12805B,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,19.8093397522325,Low-Flow Statistics
+12805B,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,31.6715707450036,Low-Flow Statistics
+12805B,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,29.0181232019844,Low-Flow Statistics
+12805B,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,1530.17420595322,Flow-Duration Statistics
+12805B,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,498.604889332388,Flow-Duration Statistics
+12805B,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,194.389547642807,Flow-Duration Statistics
+12805B,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,118.575611166549,Flow-Duration Statistics
+12805B,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,94.6512954851878,Flow-Duration Statistics
+12805B,Mean Annual Flow,QA,Mean Annual Flow,509.163079903615,Annual Flow Statistics
+12805B,April Mean Flow,Q4,Mean April Flow,509.697555333806,Monthly Flow Statistics
+12805B,August Mean Flow,Q8,Mean August Flow,300.343580402551,Monthly Flow Statistics
+12805B,December Mean Flow,Q12,Mean December Flow,149.372127047484,Monthly Flow Statistics
+12805B,February Mean Flow,Q2,Mean February Flow,142.953301238838,Monthly Flow Statistics
+12805B,January Mean Flow,Q1,Mean January Flow,143.575611166549,Monthly Flow Statistics
+12805B,July Mean Flow,Q7,Mean July Flow,705.402868255139,Monthly Flow Statistics
+12805B,June Mean Flow,Q6,Mean June Flow,1860.81539951807,Monthly Flow Statistics
+12805B,March Mean Flow,Q3,Mean March Flow,179.174205953225,Monthly Flow Statistics
+12805B,May Mean Flow,Q5,Mean May Flow,1600.6968238129,Monthly Flow Statistics
+12805B,November Mean Flow,Q11,Mean November Flow,187.796515880936,Monthly Flow Statistics
+12805B,October Mean Flow,Q10,Mean October Flow,240.453666999291,Monthly Flow Statistics
+12805B,September Mean Flow,Q9,Mean September Flow,241.180500498937,Monthly Flow Statistics
+12809,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1785.0031490223,Peak-Flow Statistics
+12809,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,2642.27129589895,Peak-Flow Statistics
+12809,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,1073.73122331889,Peak-Flow Statistics
+12809,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2872.27129589895,Peak-Flow Statistics
+12809,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1990.90851835958,Peak-Flow Statistics
+12809,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1485.45740820209,Peak-Flow Statistics
+12809,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,2359.31861123031,Peak-Flow Statistics
+12809,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,3207.04101728675,Peak-Flow Statistics
+12809,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,1530.45425917979,Flood-Volume Statistics
+12809,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,874.591166738188,Flood-Volume Statistics
+12809,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,2083.86120302822,Flood-Volume Statistics
+12809,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,5.88408203457351,Low-Flow Statistics
+12809,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,10.6090851835958,Low-Flow Statistics
+12809,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,8.59459927419936,Low-Flow Statistics
+12809,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,452.229019003277,Flow-Duration Statistics
+12809,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,144.930219631593,Flow-Duration Statistics
+12809,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,56.2729333905508,Flow-Duration Statistics
+12809,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,33.7615139306099,Flow-Duration Statistics
+12809,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,25.2297157880246,Flow-Duration Statistics
+12809,Mean Annual Flow,QA,Mean Annual Flow,165.818926132544,Annual Flow Statistics
+12809,April Mean Flow,Q4,Mean April Flow,121.045425917979,Monthly Flow Statistics
+12809,August Mean Flow,Q8,Mean August Flow,105.034699242945,Monthly Flow Statistics
+12809,December Mean Flow,Q12,Mean December Flow,42.8023972567911,Monthly Flow Statistics
+12809,February Mean Flow,Q2,Mean February Flow,37.3522398056759,Monthly Flow Statistics
+12809,January Mean Flow,Q1,Mean January Flow,40.0432805829723,Monthly Flow Statistics
+12809,July Mean Flow,Q7,Mean July Flow,245.933750536413,Monthly Flow Statistics
+12809,June Mean Flow,Q6,Mean June Flow,662.232168025581,Monthly Flow Statistics
+12809,March Mean Flow,Q3,Mean March Flow,45.3885805400592,Monthly Flow Statistics
+12809,May Mean Flow,Q5,Mean May Flow,475.114194599408,Monthly Flow Statistics
+12809,November Mean Flow,Q11,Mean November Flow,52.9864981854984,Monthly Flow Statistics
+12809,October Mean Flow,Q10,Mean October Flow,69.413879697178,Monthly Flow Statistics
+12809,September Mean Flow,Q9,Mean September Flow,76.2025232176832,Monthly Flow Statistics
+12811,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,3295.02462213517,Peak-Flow Statistics
+12811,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,4811.14750337039,Peak-Flow Statistics
+12811,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,2004.45087044998,Peak-Flow Statistics
+12811,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,5203.20487853891,Peak-Flow Statistics
+12811,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,3663.65981443797,Peak-Flow Statistics
+12811,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,2757.08199730369,Peak-Flow Statistics
+12811,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,4303.37293859538,Peak-Flow Statistics
+12811,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,5784.35238190929,Peak-Flow Statistics
+12811,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,2966.45900134816,Flood-Volume Statistics
+12811,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,1697.48768893241,Flood-Volume Statistics
+12811,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,4003.65981443797,Flood-Volume Statistics
+12811,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,12.9119674764073,Low-Flow Statistics
+12811,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,21.665082456185,Low-Flow Statistics
+12811,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,18.6046650270903,Low-Flow Statistics
+12811,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,909.581567814718,Flow-Duration Statistics
+12811,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,298.210661943886,Flow-Duration Statistics
+12811,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,116.251231106759,Flow-Duration Statistics
+12811,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,70.5598373820365,Flow-Duration Statistics
+12811,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,55.503157928675,Flow-Duration Statistics
+12811,Mean Annual Flow,QA,Mean Annual Flow,319.490580634905,Annual Flow Statistics
+12811,April Mean Flow,Q4,Mean April Flow,283.51434379213,Monthly Flow Statistics
+12811,August Mean Flow,Q8,Mean August Flow,196.564761809071,Monthly Flow Statistics
+12811,December Mean Flow,Q12,Mean December Flow,89.6170092781014,Monthly Flow Statistics
+12811,February Mean Flow,Q2,Mean February Flow,81.4664738865007,Monthly Flow Statistics
+12811,January Mean Flow,Q1,Mean January Flow,85.1021730432681,Monthly Flow Statistics
+12811,July Mean Flow,Q7,Mean July Flow,461.459860326101,Monthly Flow Statistics
+12811,June Mean Flow,Q6,Mean June Flow,1204.12053374202,Monthly Flow Statistics
+12811,March Mean Flow,Q3,Mean March Flow,101.416227665149,Monthly Flow Statistics
+12811,May Mean Flow,Q5,Mean May Flow,963.54303137639,Monthly Flow Statistics
+12811,November Mean Flow,Q11,Mean November Flow,111.074181174166,Monthly Flow Statistics
+12811,October Mean Flow,Q10,Mean October Flow,144.913937247221,Monthly Flow Statistics
+12811,September Mean Flow,Q9,Mean September Flow,151.193855938239,Monthly Flow Statistics
+12815,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1280,Peak-Flow Statistics
+12815,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1820,Peak-Flow Statistics
+12815,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,800,Peak-Flow Statistics
+12815,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1960,Peak-Flow Statistics
+12815,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1410,Peak-Flow Statistics
+12815,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1080,Peak-Flow Statistics
+12815,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1650,Peak-Flow Statistics
+12815,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2170,Peak-Flow Statistics
+12815,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,1040,Flood-Volume Statistics
+12815,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,631,Flood-Volume Statistics
+12815,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1380,Flood-Volume Statistics
+12815,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.74,Low-Flow Statistics
+12815,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,7.42,Low-Flow Statistics
+12815,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,5.67,Low-Flow Statistics
+12815,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,318,Flow-Duration Statistics
+12815,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,93,Flow-Duration Statistics
+12815,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,33.8,Flow-Duration Statistics
+12815,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,19.6,Flow-Duration Statistics
+12815,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,14.1,Flow-Duration Statistics
+12815,Mean Annual Flow,QA,Mean Annual Flow,110,Annual Flow Statistics
+12815,April Mean Flow,Q4,Mean April Flow,65.5,Monthly Flow Statistics
+12815,August Mean Flow,Q8,Mean August Flow,72.9,Monthly Flow Statistics
+12815,December Mean Flow,Q12,Mean December Flow,25.3,Monthly Flow Statistics
+12815,February Mean Flow,Q2,Mean February Flow,21.5,Monthly Flow Statistics
+12815,January Mean Flow,Q1,Mean January Flow,23.4,Monthly Flow Statistics
+12815,July Mean Flow,Q7,Mean July Flow,181,Monthly Flow Statistics
+12815,June Mean Flow,Q6,Mean June Flow,450,Monthly Flow Statistics
+12815,March Mean Flow,Q3,Mean March Flow,25.3,Monthly Flow Statistics
+12815,May Mean Flow,Q5,Mean May Flow,290,Monthly Flow Statistics
+12815,November Mean Flow,Q11,Mean November Flow,32.9,Monthly Flow Statistics
+12815,October Mean Flow,Q10,Mean October Flow,44.6,Monthly Flow Statistics
+12815,September Mean Flow,Q9,Mean September Flow,49.8,Monthly Flow Statistics
+12940,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1200,Peak-Flow Statistics
+12940,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1880,Peak-Flow Statistics
+12940,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,673,Peak-Flow Statistics
+12940,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2080,Peak-Flow Statistics
+12940,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1370,Peak-Flow Statistics
+12940,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,971,Peak-Flow Statistics
+12940,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1650,Peak-Flow Statistics
+12940,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2360,Peak-Flow Statistics
+12940,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,1020,Flood-Volume Statistics
+12940,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,557,Flood-Volume Statistics
+12940,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1440,Flood-Volume Statistics
+12940,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.31,Low-Flow Statistics
+12940,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,8.89,Low-Flow Statistics
+12940,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,6.11,Low-Flow Statistics
+12940,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,281,Flow-Duration Statistics
+12940,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,93.6,Flow-Duration Statistics
+12940,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,39,Flow-Duration Statistics
+12940,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,23.7,Flow-Duration Statistics
+12940,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,17,Flow-Duration Statistics
+12940,Mean Annual Flow,QA,Mean Annual Flow,112,Annual Flow Statistics
+12940,April Mean Flow,Q4,Mean April Flow,79.5,Monthly Flow Statistics
+12940,August Mean Flow,Q8,Mean August Flow,68.9,Monthly Flow Statistics
+12940,December Mean Flow,Q12,Mean December Flow,29.3,Monthly Flow Statistics
+12940,February Mean Flow,Q2,Mean February Flow,25.7,Monthly Flow Statistics
+12940,January Mean Flow,Q1,Mean January Flow,27.3,Monthly Flow Statistics
+12940,July Mean Flow,Q7,Mean July Flow,155,Monthly Flow Statistics
+12940,June Mean Flow,Q6,Mean June Flow,468,Monthly Flow Statistics
+12940,March Mean Flow,Q3,Mean March Flow,31.2,Monthly Flow Statistics
+12940,May Mean Flow,Q5,Mean May Flow,332,Monthly Flow Statistics
+12940,November Mean Flow,Q11,Mean November Flow,34.9,Monthly Flow Statistics
+12940,October Mean Flow,Q10,Mean October Flow,44.3,Monthly Flow Statistics
+12940,September Mean Flow,Q9,Mean September Flow,50.1,Monthly Flow Statistics
+12946,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,994,Peak-Flow Statistics
+12946,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1410,Peak-Flow Statistics
+12946,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,641,Peak-Flow Statistics
+12946,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1500,Peak-Flow Statistics
+12946,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1110,Peak-Flow Statistics
+12946,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,854,Peak-Flow Statistics
+12946,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1300,Peak-Flow Statistics
+12946,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,1680,Peak-Flow Statistics
+12946,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,725,Flood-Volume Statistics
+12946,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,453,Flood-Volume Statistics
+12946,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,951,Flood-Volume Statistics
+12946,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.76,Low-Flow Statistics
+12946,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,6.7,Low-Flow Statistics
+12946,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,4.36,Low-Flow Statistics
+12946,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,222,Flow-Duration Statistics
+12946,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,61.7,Flow-Duration Statistics
+12946,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,21.7,Flow-Duration Statistics
+12946,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,12.4,Flow-Duration Statistics
+12946,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,8.59,Flow-Duration Statistics
+12946,Mean Annual Flow,QA,Mean Annual Flow,75.2,Annual Flow Statistics
+12946,April Mean Flow,Q4,Mean April Flow,39.1,Monthly Flow Statistics
+12946,August Mean Flow,Q8,Mean August Flow,51.2,Monthly Flow Statistics
+12946,December Mean Flow,Q12,Mean December Flow,16.2,Monthly Flow Statistics
+12946,February Mean Flow,Q2,Mean February Flow,13.6,Monthly Flow Statistics
+12946,January Mean Flow,Q1,Mean January Flow,14.8,Monthly Flow Statistics
+12946,July Mean Flow,Q7,Mean July Flow,129,Monthly Flow Statistics
+12946,June Mean Flow,Q6,Mean June Flow,315,Monthly Flow Statistics
+12946,March Mean Flow,Q3,Mean March Flow,15.6,Monthly Flow Statistics
+12946,May Mean Flow,Q5,Mean May Flow,190,Monthly Flow Statistics
+12946,November Mean Flow,Q11,Mean November Flow,21.5,Monthly Flow Statistics
+12946,October Mean Flow,Q10,Mean October Flow,29.5,Monthly Flow Statistics
+12946,September Mean Flow,Q9,Mean September Flow,33.6,Monthly Flow Statistics
+138A,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,888,Peak-Flow Statistics
+138A,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1830,Peak-Flow Statistics
+138A,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,372,Peak-Flow Statistics
+138A,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2070,Peak-Flow Statistics
+138A,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1260,Peak-Flow Statistics
+138A,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,654,Peak-Flow Statistics
+138A,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1530,Peak-Flow Statistics
+138A,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2670,Peak-Flow Statistics
+138A,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,585,Flood-Volume Statistics
+138A,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,332,Flood-Volume Statistics
+138A,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,745,Flood-Volume Statistics
+138A,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,5.37,Low-Flow Statistics
+138A,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,8.31,Low-Flow Statistics
+138A,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,6.03,Low-Flow Statistics
+138A,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,195,Flow-Duration Statistics
+138A,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,64.8,Flow-Duration Statistics
+138A,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,22.5,Flow-Duration Statistics
+138A,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,12,Flow-Duration Statistics
+138A,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,8.28,Flow-Duration Statistics
+138A,Mean Annual Flow,QA,Mean Annual Flow,78.4,Annual Flow Statistics
+138A,April Mean Flow,Q4,Mean April Flow,70.9,Monthly Flow Statistics
+138A,August Mean Flow,Q8,Mean August Flow,46.6,Monthly Flow Statistics
+138A,December Mean Flow,Q12,Mean December Flow,16.2,Monthly Flow Statistics
+138A,February Mean Flow,Q2,Mean February Flow,14.2,Monthly Flow Statistics
+138A,January Mean Flow,Q1,Mean January Flow,13.8,Monthly Flow Statistics
+138A,July Mean Flow,Q7,Mean July Flow,105,Monthly Flow Statistics
+138A,June Mean Flow,Q6,Mean June Flow,286,Monthly Flow Statistics
+138A,March Mean Flow,Q3,Mean March Flow,18.8,Monthly Flow Statistics
+138A,May Mean Flow,Q5,Mean May Flow,200,Monthly Flow Statistics
+138A,November Mean Flow,Q11,Mean November Flow,22.9,Monthly Flow Statistics
+138A,October Mean Flow,Q10,Mean October Flow,30,Monthly Flow Statistics
+138A,September Mean Flow,Q9,Mean September Flow,37.6,Monthly Flow Statistics
+5574,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,2398.54000775566,Peak-Flow Statistics
+5574,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,5176.36688516958,Peak-Flow Statistics
+5574,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,1065.55862917061,Peak-Flow Statistics
+5574,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,6265.17181405011,Peak-Flow Statistics
+5574,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,3247.51405481703,Peak-Flow Statistics
+5574,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1773.44982673843,Peak-Flow Statistics
+5574,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,4176.57266096881,Peak-Flow Statistics
+5574,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,7915.4479790286,Peak-Flow Statistics
+5574,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,1670,Flood-Volume Statistics
+5574,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,903,Flood-Volume Statistics
+5574,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,2340,Flood-Volume Statistics
+5574,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.11,Low-Flow Statistics
+5574,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,9.17,Low-Flow Statistics
+5574,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,8.24,Low-Flow Statistics
+5574,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,474,Flow-Duration Statistics
+5574,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,163,Flow-Duration Statistics
+5574,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,67.8,Flow-Duration Statistics
+5574,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,41.7,Flow-Duration Statistics
+5574,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,31.6,Flow-Duration Statistics
+5574,Mean Annual Flow,QA,Mean Annual Flow,186,Annual Flow Statistics
+5574,April Mean Flow,Q4,Mean April Flow,151,Monthly Flow Statistics
+5574,August Mean Flow,Q8,Mean August Flow,113,Monthly Flow Statistics
+5574,December Mean Flow,Q12,Mean December Flow,51.6,Monthly Flow Statistics
+5574,February Mean Flow,Q2,Mean February Flow,45.6,Monthly Flow Statistics
+5574,January Mean Flow,Q1,Mean January Flow,48.6,Monthly Flow Statistics
+5574,July Mean Flow,Q7,Mean July Flow,254,Monthly Flow Statistics
+5574,June Mean Flow,Q6,Mean June Flow,749,Monthly Flow Statistics
+5574,March Mean Flow,Q3,Mean March Flow,56.6,Monthly Flow Statistics
+5574,May Mean Flow,Q5,Mean May Flow,564,Monthly Flow Statistics
+5574,November Mean Flow,Q11,Mean November Flow,61.1,Monthly Flow Statistics
+5574,October Mean Flow,Q10,Mean October Flow,77.6,Monthly Flow Statistics
+5574,September Mean Flow,Q9,Mean September Flow,85.1,Monthly Flow Statistics
+5577,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1405.95183628843,Peak-Flow Statistics
+5577,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,2824.79195010141,Peak-Flow Statistics
+5577,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,671.692577587799,Peak-Flow Statistics
+5577,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,3349.88670095982,Peak-Flow Statistics
+5577,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1841.65929889962,Peak-Flow Statistics
+5577,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1070,Peak-Flow Statistics
+5577,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,2327.6731173872,Peak-Flow Statistics
+5577,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,4170.62693223028,Peak-Flow Statistics
+5577,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,989,Flood-Volume Statistics
+5577,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,555,Flood-Volume Statistics
+5577,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1370,Flood-Volume Statistics
+5577,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,2.48,Low-Flow Statistics
+5577,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,5.3,Low-Flow Statistics
+5577,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,4.41,Low-Flow Statistics
+5577,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,279,Flow-Duration Statistics
+5577,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,89.9,Flow-Duration Statistics
+5577,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,36.2,Flow-Duration Statistics
+5577,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,21.7,Flow-Duration Statistics
+5577,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,15.6,Flow-Duration Statistics
+5577,Mean Annual Flow,QA,Mean Annual Flow,108,Annual Flow Statistics
+5577,April Mean Flow,Q4,Mean April Flow,72.5,Monthly Flow Statistics
+5577,August Mean Flow,Q8,Mean August Flow,67.5,Monthly Flow Statistics
+5577,December Mean Flow,Q12,Mean December Flow,27.2,Monthly Flow Statistics
+5577,February Mean Flow,Q2,Mean February Flow,23.6,Monthly Flow Statistics
+5577,January Mean Flow,Q1,Mean January Flow,25.3,Monthly Flow Statistics
+5577,July Mean Flow,Q7,Mean July Flow,155,Monthly Flow Statistics
+5577,June Mean Flow,Q6,Mean June Flow,449,Monthly Flow Statistics
+5577,March Mean Flow,Q3,Mean March Flow,28.4,Monthly Flow Statistics
+5577,May Mean Flow,Q5,Mean May Flow,309,Monthly Flow Statistics
+5577,November Mean Flow,Q11,Mean November Flow,33,Monthly Flow Statistics
+5577,October Mean Flow,Q10,Mean October Flow,42.7,Monthly Flow Statistics
+5577,September Mean Flow,Q9,Mean September Flow,48.2,Monthly Flow Statistics
+5580,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,668,Peak-Flow Statistics
+5580,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,983,Peak-Flow Statistics
+5580,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,419,Peak-Flow Statistics
+5580,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1050,Peak-Flow Statistics
+5580,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,764,Peak-Flow Statistics
+5580,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,570,Peak-Flow Statistics
+5580,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,898,Peak-Flow Statistics
+5580,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,1190,Peak-Flow Statistics
+5580,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,462,Flood-Volume Statistics
+5580,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,286,Flood-Volume Statistics
+5580,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,616,Flood-Volume Statistics
+5580,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,2.48,Low-Flow Statistics
+5580,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,3.87,Low-Flow Statistics
+5580,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,2.4,Low-Flow Statistics
+5580,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,135,Flow-Duration Statistics
+5580,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,37.4,Flow-Duration Statistics
+5580,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,13.5,Flow-Duration Statistics
+5580,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,7.64,Flow-Duration Statistics
+5580,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,5.05,Flow-Duration Statistics
+5580,Mean Annual Flow,QA,Mean Annual Flow,47.7,Annual Flow Statistics
+5580,April Mean Flow,Q4,Mean April Flow,22.5,Monthly Flow Statistics
+5580,August Mean Flow,Q8,Mean August Flow,32.4,Monthly Flow Statistics
+5580,December Mean Flow,Q12,Mean December Flow,9.93,Monthly Flow Statistics
+5580,February Mean Flow,Q2,Mean February Flow,8.3,Monthly Flow Statistics
+5580,January Mean Flow,Q1,Mean January Flow,9,Monthly Flow Statistics
+5580,July Mean Flow,Q7,Mean July Flow,80.2,Monthly Flow Statistics
+5580,June Mean Flow,Q6,Mean June Flow,207,Monthly Flow Statistics
+5580,March Mean Flow,Q3,Mean March Flow,9.41,Monthly Flow Statistics
+5580,May Mean Flow,Q5,Mean May Flow,120,Monthly Flow Statistics
+5580,November Mean Flow,Q11,Mean November Flow,13,Monthly Flow Statistics
+5580,October Mean Flow,Q10,Mean October Flow,17.7,Monthly Flow Statistics
+5580,September Mean Flow,Q9,Mean September Flow,20.8,Monthly Flow Statistics
+9240,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,920,Peak-Flow Statistics
+9240,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1900,Peak-Flow Statistics
+9240,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,385,Peak-Flow Statistics
+9240,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2150,Peak-Flow Statistics
+9240,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1310,Peak-Flow Statistics
+9240,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,678,Peak-Flow Statistics
+9240,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1580,Peak-Flow Statistics
+9240,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2770,Peak-Flow Statistics
+9240,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,371,Flood-Volume Statistics
+9240,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,185,Flood-Volume Statistics
+9240,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,513,Flood-Volume Statistics
+9240,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,2.29,Low-Flow Statistics
+9240,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,3.06,Low-Flow Statistics
+9240,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,2.15,Low-Flow Statistics
+9240,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,94.4,Flow-Duration Statistics
+9240,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,33.9,Flow-Duration Statistics
+9240,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,12.7,Flow-Duration Statistics
+9240,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,6.31,Flow-Duration Statistics
+9240,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,3.74,Flow-Duration Statistics
+9240,Mean Annual Flow,QA,Mean Annual Flow,44.5,Annual Flow Statistics
+9240,April Mean Flow,Q4,Mean April Flow,39.6,Monthly Flow Statistics
+9240,August Mean Flow,Q8,Mean August Flow,26.7,Monthly Flow Statistics
+9240,December Mean Flow,Q12,Mean December Flow,10.2,Monthly Flow Statistics
+9240,February Mean Flow,Q2,Mean February Flow,9.56,Monthly Flow Statistics
+9240,January Mean Flow,Q1,Mean January Flow,8.87,Monthly Flow Statistics
+9240,July Mean Flow,Q7,Mean July Flow,52.6,Monthly Flow Statistics
+9240,June Mean Flow,Q6,Mean June Flow,125,Monthly Flow Statistics
+9240,March Mean Flow,Q3,Mean March Flow,12.8,Monthly Flow Statistics
+9240,May Mean Flow,Q5,Mean May Flow,99.9,Monthly Flow Statistics
+9240,November Mean Flow,Q11,Mean November Flow,13.5,Monthly Flow Statistics
+9240,October Mean Flow,Q10,Mean October Flow,17.4,Monthly Flow Statistics
+9240,September Mean Flow,Q9,Mean September Flow,12.9,Monthly Flow Statistics
+9245,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1560,Peak-Flow Statistics
+9245,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,3360,Peak-Flow Statistics
+9245,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,621,Peak-Flow Statistics
+9245,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,3830,Peak-Flow Statistics
+9245,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,2250,Peak-Flow Statistics
+9245,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1130,Peak-Flow Statistics
+9245,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,2750,Peak-Flow Statistics
+9245,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,5010,Peak-Flow Statistics
+9245,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,324,Flood-Volume Statistics
+9245,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,137,Flood-Volume Statistics
+9245,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,494,Flood-Volume Statistics
+9245,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,1.29,Low-Flow Statistics
+9245,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,1.59,Low-Flow Statistics
+9245,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,0.761,Low-Flow Statistics
+9245,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,57.5,Flow-Duration Statistics
+9245,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,23,Flow-Duration Statistics
+9245,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,9.62,Flow-Duration Statistics
+9245,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,4.38,Flow-Duration Statistics
+9245,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,2.05,Flow-Duration Statistics
+9245,Mean Annual Flow,QA,Mean Annual Flow,32.4,Annual Flow Statistics
+9245,April Mean Flow,Q4,Mean April Flow,31.8,Monthly Flow Statistics
+9245,August Mean Flow,Q8,Mean August Flow,20,Monthly Flow Statistics
+9245,December Mean Flow,Q12,Mean December Flow,8.77,Monthly Flow Statistics
+9245,February Mean Flow,Q2,Mean February Flow,9.33,Monthly Flow Statistics
+9245,January Mean Flow,Q1,Mean January Flow,8.01,Monthly Flow Statistics
+9245,July Mean Flow,Q7,Mean July Flow,31.8,Monthly Flow Statistics
+9245,June Mean Flow,Q6,Mean June Flow,66.2,Monthly Flow Statistics
+9245,March Mean Flow,Q3,Mean March Flow,12.9,Monthly Flow Statistics
+9245,May Mean Flow,Q5,Mean May Flow,63.5,Monthly Flow Statistics
+9245,November Mean Flow,Q11,Mean November Flow,10.5,Monthly Flow Statistics
+9245,October Mean Flow,Q10,Mean October Flow,13.8,Monthly Flow Statistics
+9245,September Mean Flow,Q9,Mean September Flow,4.56,Monthly Flow Statistics
+9274,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,809,Peak-Flow Statistics
+9274,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,1680,Peak-Flow Statistics
+9274,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,337,Peak-Flow Statistics
+9274,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,1900,Peak-Flow Statistics
+9274,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1150,Peak-Flow Statistics
+9274,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,595,Peak-Flow Statistics
+9274,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1400,Peak-Flow Statistics
+9274,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,2440,Peak-Flow Statistics
+9274,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,373,Flood-Volume Statistics
+9274,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,193,Flood-Volume Statistics
+9274,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,503,Flood-Volume Statistics
+9274,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,2.59,Low-Flow Statistics
+9274,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,3.52,Low-Flow Statistics
+9274,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,2.79,Low-Flow Statistics
+9274,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,104,Flow-Duration Statistics
+9274,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,36.2,Flow-Duration Statistics
+9274,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,13.2,Flow-Duration Statistics
+9274,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,6.7,Flow-Duration Statistics
+9274,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,4.22,Flow-Duration Statistics
+9274,Mean Annual Flow,QA,Mean Annual Flow,46.8,Annual Flow Statistics
+9274,April Mean Flow,Q4,Mean April Flow,40.3,Monthly Flow Statistics
+9274,August Mean Flow,Q8,Mean August Flow,27.8,Monthly Flow Statistics
+9274,December Mean Flow,Q12,Mean December Flow,10.3,Monthly Flow Statistics
+9274,February Mean Flow,Q2,Mean February Flow,9.31,Monthly Flow Statistics
+9274,January Mean Flow,Q1,Mean January Flow,8.82,Monthly Flow Statistics
+9274,July Mean Flow,Q7,Mean July Flow,58,Monthly Flow Statistics
+9274,June Mean Flow,Q6,Mean June Flow,142,Monthly Flow Statistics
+9274,March Mean Flow,Q3,Mean March Flow,12.3,Monthly Flow Statistics
+9274,May Mean Flow,Q5,Mean May Flow,108,Monthly Flow Statistics
+9274,November Mean Flow,Q11,Mean November Flow,14,Monthly Flow Statistics
+9274,October Mean Flow,Q10,Mean October Flow,17.9,Monthly Flow Statistics
+9274,September Mean Flow,Q9,Mean September Flow,16.2,Monthly Flow Statistics
+9372,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1150,Peak-Flow Statistics
+9372,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,2360,Peak-Flow Statistics
+9372,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,489,Peak-Flow Statistics
+9372,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2650,Peak-Flow Statistics
+9372,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1630,Peak-Flow Statistics
+9372,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,852,Peak-Flow Statistics
+9372,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1960,Peak-Flow Statistics
+9372,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,3420,Peak-Flow Statistics
+9372,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,957,Flood-Volume Statistics
+9372,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,572,Flood-Volume Statistics
+9372,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1180,Flood-Volume Statistics
+9372,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,9.57,Low-Flow Statistics
+9372,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,16.5,Low-Flow Statistics
+9372,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,8.98,Low-Flow Statistics
+9372,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,350,Flow-Duration Statistics
+9372,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,113,Flow-Duration Statistics
+9372,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,38.4,Flow-Duration Statistics
+9372,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,21.1,Flow-Duration Statistics
+9372,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,15,Flow-Duration Statistics
+9372,Mean Annual Flow,QA,Mean Annual Flow,130,Annual Flow Statistics
+9372,April Mean Flow,Q4,Mean April Flow,129,Monthly Flow Statistics
+9372,August Mean Flow,Q8,Mean August Flow,78.2,Monthly Flow Statistics
+9372,December Mean Flow,Q12,Mean December Flow,26.2,Monthly Flow Statistics
+9372,February Mean Flow,Q2,Mean February Flow,23.6,Monthly Flow Statistics
+9372,January Mean Flow,Q1,Mean January Flow,22.8,Monthly Flow Statistics
+9372,July Mean Flow,Q7,Mean July Flow,178,Monthly Flow Statistics
+9372,June Mean Flow,Q6,Mean June Flow,530,Monthly Flow Statistics
+9372,March Mean Flow,Q3,Mean March Flow,31.2,Monthly Flow Statistics
+9372,May Mean Flow,Q5,Mean May Flow,355,Monthly Flow Statistics
+9372,November Mean Flow,Q11,Mean November Flow,37.6,Monthly Flow Statistics
+9372,October Mean Flow,Q10,Mean October Flow,51.5,Monthly Flow Statistics
+9372,September Mean Flow,Q9,Mean September Flow,70.8,Monthly Flow Statistics
+9717,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1500,Peak-Flow Statistics
+9717,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,3130,Peak-Flow Statistics
+9717,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,627,Peak-Flow Statistics
+9717,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,3530,Peak-Flow Statistics
+9717,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,2140,Peak-Flow Statistics
+9717,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,1110,Peak-Flow Statistics
+9717,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,2580,Peak-Flow Statistics
+9717,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,4570,Peak-Flow Statistics
+9717,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,581,Flood-Volume Statistics
+9717,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,283,Flood-Volume Statistics
+9717,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,810,Flood-Volume Statistics
+9717,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,3.26,Low-Flow Statistics
+9717,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,4.71,Low-Flow Statistics
+9717,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,2.08,Low-Flow Statistics
+9717,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,139,Flow-Duration Statistics
+9717,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,50.9,Flow-Duration Statistics
+9717,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,19.6,Flow-Duration Statistics
+9717,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,9.64,Flow-Duration Statistics
+9717,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,5.3,Flow-Duration Statistics
+9717,Mean Annual Flow,QA,Mean Annual Flow,65.1,Annual Flow Statistics
+9717,April Mean Flow,Q4,Mean April Flow,66.7,Monthly Flow Statistics
+9717,August Mean Flow,Q8,Mean August Flow,40,Monthly Flow Statistics
+9717,December Mean Flow,Q12,Mean December Flow,15.7,Monthly Flow Statistics
+9717,February Mean Flow,Q2,Mean February Flow,15.9,Monthly Flow Statistics
+9717,January Mean Flow,Q1,Mean January Flow,14.2,Monthly Flow Statistics
+9717,July Mean Flow,Q7,Mean July Flow,72.7,Monthly Flow Statistics
+9717,June Mean Flow,Q6,Mean June Flow,178,Monthly Flow Statistics
+9717,March Mean Flow,Q3,Mean March Flow,21.6,Monthly Flow Statistics
+9717,May Mean Flow,Q5,Mean May Flow,148,Monthly Flow Statistics
+9717,November Mean Flow,Q11,Mean November Flow,20.2,Monthly Flow Statistics
+9717,October Mean Flow,Q10,Mean October Flow,27.5,Monthly Flow Statistics
+9717,September Mean Flow,Q9,Mean September Flow,15.6,Monthly Flow Statistics
+9853,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1130,Peak-Flow Statistics
+9853,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,2310,Peak-Flow Statistics
+9853,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,477,Peak-Flow Statistics
+9853,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2590,Peak-Flow Statistics
+9853,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1590,Peak-Flow Statistics
+9853,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,832,Peak-Flow Statistics
+9853,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,1920,Peak-Flow Statistics
+9853,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,3340,Peak-Flow Statistics
+9853,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,924,Flood-Volume Statistics
+9853,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,550,Flood-Volume Statistics
+9853,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1140,Flood-Volume Statistics
+9853,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,6.2,Low-Flow Statistics
+9853,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,9.81,Low-Flow Statistics
+9853,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,4.55,Low-Flow Statistics
+9853,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,337,Flow-Duration Statistics
+9853,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,109,Flow-Duration Statistics
+9853,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,37,Flow-Duration Statistics
+9853,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,20.3,Flow-Duration Statistics
+9853,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,14.4,Flow-Duration Statistics
+9853,Mean Annual Flow,QA,Mean Annual Flow,125,Annual Flow Statistics
+9853,April Mean Flow,Q4,Mean April Flow,124,Monthly Flow Statistics
+9853,August Mean Flow,Q8,Mean August Flow,75.4,Monthly Flow Statistics
+9853,December Mean Flow,Q12,Mean December Flow,25.3,Monthly Flow Statistics
+9853,February Mean Flow,Q2,Mean February Flow,22.7,Monthly Flow Statistics
+9853,January Mean Flow,Q1,Mean January Flow,22,Monthly Flow Statistics
+9853,July Mean Flow,Q7,Mean July Flow,172,Monthly Flow Statistics
+9853,June Mean Flow,Q6,Mean June Flow,509,Monthly Flow Statistics
+9853,March Mean Flow,Q3,Mean March Flow,30,Monthly Flow Statistics
+9853,May Mean Flow,Q5,Mean May Flow,341,Monthly Flow Statistics
+9853,November Mean Flow,Q11,Mean November Flow,36.3,Monthly Flow Statistics
+9853,October Mean Flow,Q10,Mean October Flow,49.5,Monthly Flow Statistics
+9853,September Mean Flow,Q9,Mean September Flow,68.1,Monthly Flow Statistics
+9862,10 Year Peak Flood,PK10,Maximum instantaneous flow that occurs on average once in 10 years,1260,Peak-Flow Statistics
+9862,100 Year Peak Flood,PK100,Maximum instantaneous flow that occurs on average once in 100 years,2580,Peak-Flow Statistics
+9862,2 Year Peak Flood,PK2,Maximum instantaneous flow that occurs on average once in 2 years,536,Peak-Flow Statistics
+9862,200 Year Peak Flood,PK200,Maximum instantaneous flow that occurs on average once in 200 years,2890,Peak-Flow Statistics
+9862,25 Year Peak Flood,PK25,Maximum instantaneous flow that occurs on average once in 25 years,1780,Peak-Flow Statistics
+9862,5 Year Peak Flood,PK5,Maximum instantaneous flow that occurs on average once in 5 years,933,Peak-Flow Statistics
+9862,50 Year Peak Flood,PK50,Maximum instantaneous flow that occurs on average once in 50 years,2140,Peak-Flow Statistics
+9862,500 Year Peak Flood,PK500,Maximum instantaneous flow that occurs on average once in 500 years,3730,Peak-Flow Statistics
+9862,7 Day 10 Year Maximum,V7D10Y,7-Day mean maximum flow that occurs on average once in 10 years,811,Flood-Volume Statistics
+9862,7 Day 2 Year Maximum,V7D2Y,7-Day mean maximum flow that occurs on average once in 2 years,451,Flood-Volume Statistics
+9862,7 Day 50 Year Maximum,V7D50Y,7-Day mean maximum flow that occurs on average once in 50 years,1040,Flood-Volume Statistics
+9862,7 Day 10 Year Low Flow,M7D10Y,7-Day mean low-flow that occurs on average once in 10 years,4.87,Low-Flow Statistics
+9862,7 Day 2 Year Low Flow,M7D2Y,7-Day mean low-flow that occurs on average once in 2 years,7.44,Low-Flow Statistics
+9862,7 Day 50 Year Low Flow,M7D50Y,7-Day mean low-flow that occurs on average once in 50 years,3.23,Low-Flow Statistics
+9862,10 Percent Duration,D10,Streamflow exceeded 10 percent of the time,255,Flow-Duration Statistics
+9862,25 Percent Duration,D25,Streamflow exceeded 25 percent of the time,86.3,Flow-Duration Statistics
+9862,50 Percent Duration,D50,Streamflow exceeded 50 percent of the time,30.6,Flow-Duration Statistics
+9862,75 Percent Duration,D75,Streamflow exceeded 75 percent of the time,16.2,Flow-Duration Statistics
+9862,90 Percent Duration,D90,Streamflow exceeded 90 percent of the time,10.5,Flow-Duration Statistics
+9862,Mean Annual Flow,QA,Mean Annual Flow,103,Annual Flow Statistics
+9862,April Mean Flow,Q4,Mean April Flow,104,Monthly Flow Statistics
+9862,August Mean Flow,Q8,Mean August Flow,62.3,Monthly Flow Statistics
+9862,December Mean Flow,Q12,Mean December Flow,22.1,Monthly Flow Statistics
+9862,February Mean Flow,Q2,Mean February Flow,20.7,Monthly Flow Statistics
+9862,January Mean Flow,Q1,Mean January Flow,19.5,Monthly Flow Statistics
+9862,July Mean Flow,Q7,Mean July Flow,131,Monthly Flow Statistics
+9862,June Mean Flow,Q6,Mean June Flow,364,Monthly Flow Statistics
+9862,March Mean Flow,Q3,Mean March Flow,27.8,Monthly Flow Statistics
+9862,May Mean Flow,Q5,Mean May Flow,263,Monthly Flow Statistics
+9862,November Mean Flow,Q11,Mean November Flow,30.4,Monthly Flow Statistics
+9862,October Mean Flow,Q10,Mean October Flow,41.7,Monthly Flow Statistics
+9862,September Mean Flow,Q9,Mean September Flow,41.7,Monthly Flow Statistics

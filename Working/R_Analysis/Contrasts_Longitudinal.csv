@@ -1,0 +1,13 @@
+Level,Undeveloped_C,Undeveloped_N,Undeveloped_P,Undeveloped_NP,Upstream_C,Upstream_N,Upstream_P,Upstream_NP,Downstream_C,Downstream_N,Downstream_P,Downstream_NP
+Undeveloped_C,1,0,0,0,0,0,0,0,0,0,0,0
+Undeveloped_N,0,1,0,0,0,0,0,0,0,0,0,0
+Undeveloped_P,0,0,1,0,0,0,0,0,0,0,0,0
+Undeveloped_NP,0,0,0,1,0,0,0,0,0,0,0,0
+Upstream_C,0,0,0,0,1,0,0,0,0,0,0,0
+Upstream_N,0,0,0,0,0,1,0,0,0,0,0,0
+Upstream_P,0,0,0,0,0,0,1,0,0,0,0,0
+Upstream_NP,0,0,0,0,0,0,0,1,0,0,0,0
+Downstream_C,0,0,0,0,0,0,0,0,1,0,0,0
+Downstream_N,0,0,0,0,0,0,0,0,0,1,0,0
+Downstream_P,0,0,0,0,0,0,0,0,0,0,1,0
+Downstream_NP,0,0,0,0,0,0,0,0,0,0,0,1

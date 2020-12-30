@@ -1,0 +1,33 @@
+variable,varLong
+CanOpen_frac,Canopy Openness
+CatchmentArea_sqKm,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,DO (mg/L)
+Eco3ID,Ecoregion
+Elev_AvgBasinwide_ft,
+Elev_Outlet_ft,Elevation (ft)
+Flow_7dayMax_10yr_cfs,
+Flow_7dayMin_10yr_cfs,
+Flow_AnnualAvg_cfs,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,
+Flow_Peak_10yr_cfs,
+Lat,Latitude
+Long,Longitude
+NH3_mgL,
+NO23_mgL,
+NRR,Nitrogen Response Ratio
+PRR,Phosphorus Response Ratio
+Slope_AvgBasinwide_pct,Avg Basin Slope (%)
+SpecCond_uScm,
+TN_mgL,TN (mg/L)
+TP_mgL,TP (mg/L)
+WaterTemp_C,Water Temperature (C)
+pH,Phosphorus Response Ratio
+Elev_MaxBasinwide_ft,
+Elev_MinBasinwide_ft,
+Precip_AnnualAvgBasinwide_in,Avg Annual Precipitation (in)
+Slope_Streamflow_ftMi,Slope (ft/mi)
+TKN_mgL,

@@ -1,0 +1,224 @@
+---
+title: "Hemispherical Photo Light Analysis"
+author: "Kateri Salk"
+date: "12/30/2020"
+output: pdf_document
+editor_options: 
+  chunk_output_type: console
+---
+
+
+## Setup 
+
+Code and help files for Hemiphot found at https://github.com/naturalis/Hemiphot
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+source("Hemiphot.R") 
+library(jpeg)
+library(tidyverse)
+
+theme_set(theme_classic())
+
+siteyear <- read.csv("../R_DataProcessing/CSVs/SiteYear.csv")
+```
+
+## testing
+This is just to see if the test.hemi function is cropping the circle correctly. Can swap in any photo file into the "test" line.
+
+Note: the function identifies the black part of the circle as part of the circle if the photo has black space above and below. Crop photos to square format so that the function identifies only the photo.
+```{r}
+test <- readJPEG("../../../Source/Received/NDS Hemispherical Photos/Cropped/20140806,_Vallecito Creek, 9372, hemispherical, NDS Harvest 2014, Sampling,HDR.jpg")
+
+test.hemi <- Image2Hemiphot(test)
+
+PlotHemiImage(test.hemi)
+
+```
+
+## Batch Processing
+### Color photos
+
+```{r}
+days = seq(15,360,30)   # roughly each mid of the 12 months
+
+### Location parameters
+location.latitude   = 38 # middle latitude of CO sites. CanOpen and LAI do not use this.
+location.day        = 222 # middle longitude of CO sites. CanOpen and LAI do not use this.
+location.days       = seq(15,360,30)   # roughly each mid of the 12 months
+
+### Image parameters
+## determine in Hemiphot.R and fill in here for batch processing
+location.cx         = 1504             # x coordinate of center
+location.cy         =  975             # y coordinate of center
+location.cr         =  900             # radius of circle
+location.threshold  = 0.65
+
+### atmospheric parameters
+location.tau        = 0.6
+location.uoc        = 0.15
+### We assume colour images
+### in a subdirectory images
+### load all JPG file names in a list
+
+all.images = list.files("../../../Source/Received/NDS Hemispherical Photos/Cropped/",
+                        pattern = ".jpg")
+nr.images = length(all.images); nr.images
+
+## Create data frame to hold all results
+all.data = data.frame(matrix(0, nr.images, 7))
+names(all.data) = c("File", "CanOpen", "LAI",
+                    "DirectAbove", "DiffAbove",
+                    "DirectBelow", "DiffBelow")
+all.data[,1] = all.images
+
+## now the batch can start
+t1 = Sys.time()
+for(i in 1:nr.images){    
+  ## read file
+  image = readJPEG(paste("../../../Source/Received/NDS Hemispherical Photos/Cropped/",
+                         all.images[i],sep = ""), native = F)     
+  #if native = T creates a raster, else an array
+
+  ## conver to Hemi image
+  image = Image2Hemiphot(image)
+
+  ## set cirlce parameters
+  image = SetCircle(image, cx = location.cx, cy = location.cy, cr = location.cr)
+
+  ## select blue channel
+  image = SelectRGB(image, "B")
+
+  #threshold
+  image = ThresholdImage(im = image, th = location.threshold, draw.image = F)
+
+  # canopy openness
+  gap.fractions = CalcGapFractions(image)
+  all.data[i,2] = CalcOpenness(fractions = gap.fractions)
+   
+  ## calculate LAI according to Licor's LAI Analyzer 
+  all.data[i,3] = CalcLAI(fractions = gap.fractions)
+
+  ## Photosynthetic Photon Flux Density (PPDF, umol m-1 s-1) P
+  rad = CalcPAR.Day(im = image,
+                    lat = location.latitude, d = days,
+                    tau = location.tau, uoc = location.uoc, 
+                    draw.tracks = F, full.day = F)
+  all.data[i,4] = rad[1]
+  all.data[i,5] = rad[2]
+  all.data[i,6] = rad[3]
+  all.data[i,7] = rad[4]
+}
+t2 = Sys.time()
+
+##time per image
+(t2 - t1)/nr.images
+
+# process dataset
+hemiphoto.df <- all.data %>%
+  select(File, CanOpen, LAI)%>%
+  separate(File, into = c("Date", "File"), ",_") %>%
+  separate(File, into = c("Site", "File"), ", hemispherical, NDS ") %>%
+  separate(File, into = c("Junk" , "Replicate"), "2014, ") %>%
+  separate(Replicate, into = c("Replicate", "Junk2"), ".jpg") %>%
+  separate(Site, into = c("Site", "SiteCode"), ", ") %>%
+  select(-Junk, -Junk2)
+
+hemiphoto.df$Date <- as.Date(hemiphoto.df$Date, "%Y%m%d")
+
+## save data
+write.csv(hemiphoto.df, "./Output/HemiPhotoOutput.csv", row.names = FALSE)
+```
+
+### Black and white photos
+
+```{r}
+days = seq(15,360,30)   # roughly each mid of the 12 months
+
+### Location parameters
+location.latitude   = 38 # middle latitude of CO sites. CanOpen and LAI do not use this.
+location.day        = 222 # middle longitude of CO sites. CanOpen and LAI do not use this.
+location.days       = seq(15,360,30)   # roughly each mid of the 12 months
+
+### Image parameters
+## determine in Hemiphot.R and fill in here for batch processing
+location.cx         = 1504             # x coordinate of center
+location.cy         =  975             # y coordinate of center
+location.cr         =  900             # radius of circle
+location.threshold  = 0.65
+
+### atmospheric parameters
+location.tau        = 0.6
+location.uoc        = 0.15
+### We assume colour images
+### in a subdirectory images
+### load all JPG file names in a list
+
+all.images.bw = list.files("../../../Source/Received/NDS Hemispherical Photos/BW/Cropped/",
+                           pattern = ".jpg")
+nr.images.bw = length(all.images.bw); nr.images.bw
+
+## Create data frame to hold all results
+all.data.bw = data.frame(matrix(0, nr.images.bw, 7))
+names(all.data.bw) = c("File", "CanOpen", "LAI",
+                    "DirectAbove", "DiffAbove",
+                    "DirectBelow", "DiffBelow")
+all.data.bw[,1] = all.images.bw
+
+## now the batch can start
+t1 = Sys.time()
+for(i in 1:nr.images.bw){    
+  ## read file
+  image = readJPEG(paste("../../../Source/Received/NDS Hemispherical Photos/BW/Cropped/",
+                         all.images.bw[i],sep = ""), native = F)     
+  #if native = T creates a raster, else an array
+
+  ## conver to Hemi image
+  image = Image2Hemiphot(image)
+
+  ## set cirlce parameters
+  image = SetCircle(image, cx = location.cx, cy = location.cy, cr = location.cr)
+
+  ## select blue channel
+  image = SelectRGB(image, "B")
+
+  #threshold
+  image = ThresholdImage(im = image, th = location.threshold, draw.image = F)
+
+  # canopy openness
+  gap.fractions = CalcGapFractions(image)
+  all.data.bw[i,2] = CalcOpenness(fractions = gap.fractions)
+   
+  ## calculate LAI according to Licor's LAI Analyzer 
+  all.data.bw[i,3] = CalcLAI(fractions = gap.fractions)
+
+  ## Photosynthetic Photon Flux Density (PPDF, umol m-1 s-1) P
+  rad = CalcPAR.Day(im = image,
+                    lat = location.latitude, d = days,
+                    tau = location.tau, uoc = location.uoc, 
+                    draw.tracks = F, full.day = F)
+  all.data.bw[i,4] = rad[1]
+  all.data.bw[i,5] = rad[2]
+  all.data.bw[i,6] = rad[3]
+  all.data.bw[i,7] = rad[4]
+}
+t2 = Sys.time()
+
+##time per image
+(t2 - t1)/nr.images.bw
+
+# R didn't like the name of this site, so the name of the file was set to "test.jpg" and fixed here.
+all.data.bw$File[all.data.bw$File == "test.jpg"] <- "20140812_Cochetopa Creek @ Sillsville, 10322, hemispherical, NDS Harvest 2014, Sampling-Clipped.jpg"
+hemiphoto.df.bw <- all.data.bw %>%
+  select(File, CanOpen, LAI) %>%
+  separate(File, into = c("Date", "File"), "_") %>%
+  separate(File, into = c("Site", "File"), ", hemispherical, NDS") %>%
+  separate(Site, into = c("Site", "SiteCode"), ", ") %>%
+  select(-File)
+
+hemiphoto.df.bw$Date <- as.Date(hemiphoto.df.bw$Date, "%Y%m%d")
+
+## save data
+write.csv(hemiphoto.df.bw, "./Output/HemiPhotoOutput_BW.csv", row.names = FALSE)
+```

@@ -1,0 +1,1163 @@
+variable,SiteID,SiteType,StreamID,HUC08,Year,value,varLong
+CanOpen_frac,10118,,East River,14020001,2014,0.0549991608448885,Canopy Openness
+CatchmentArea_sqKm,10118,,East River,14020001,2014,44.02983,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10118,,East River,14020001,2014,17.6915384908973,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10118,,East River,14020001,2014,43.991603373917,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10118,,East River,14020001,2014,27.4523873134613,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10118,,East River,14020001,2014,25.2155261249571,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10118,,East River,14020001,2014,7.61,DO (mg/L)
+Eco3ID,10118,,East River,14020001,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10118,,East River,14020001,2014,11084,
+Elev_Outlet_ft,10118,,East River,14020001,2014,9553,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10118,,East River,14020001,2014,422,
+Flow_7dayMin_10yr_cfs,10118,,East River,14020001,2014,3.8,
+Flow_AnnualAvg_cfs,10118,,East River,14020001,2014,41.3,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10118,,East River,14020001,2014,869,
+Flow_Peak_10yr_cfs,10118,,East River,14020001,2014,664,
+Lat,10118,,East River,14020001,2014,38.963317,Latitude
+Long,10118,,East River,14020001,2014,-106.994384,Longitude
+NH3_mgL,10118,,East River,14020001,2014,0.0155,
+NO23_mgL,10118,,East River,14020001,2014,0.025,
+NRR,10118,,East River,14020001,2014,1.15292496893946,Nitrogen Response Ratio
+PRR,10118,,East River,14020001,2014,1.12334242291968,Phosphorus Response Ratio
+Slope_AvgBasinwide_pct,10118,,East River,14020001,2014,45,
+SpecCond_uScm,10118,,East River,14020001,2014,197.9,
+TN_mgL,10118,,East River,14020001,2014,0.113,TN (mg/L)
+TP_mgL,10118,,East River,14020001,2014,0.0076,TP (mg/L)
+WaterTemp_C,10118,,East River,14020001,2014,14.5,Water Temperature (C)
+pH,10118,,East River,14020001,2014,8.26,Phosphorus Response Ratio
+CanOpen_frac,10231,,Blue Creek,14020002,2014,0.0194643039173143,Canopy Openness
+CatchmentArea_sqKm,10231,,Blue Creek,14020002,2014,237.502083,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10231,,Blue Creek,14020002,2014,29.4181138124499,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10231,,Blue Creek,14020002,2014,82.4249456127629,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10231,,Blue Creek,14020002,2014,88.7966108163811,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10231,,Blue Creek,14020002,2014,18.7082935765811,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10231,,Blue Creek,14020002,2014,7.17,DO (mg/L)
+Eco3ID,10231,,Blue Creek,14020002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10231,,Blue Creek,14020002,2014,10315,
+Elev_MaxBasinwide_ft,10231,,Blue Creek,14020002,2014,14300,
+Elev_MinBasinwide_ft,10231,,Blue Creek,14020002,2014,8170,
+Elev_Outlet_ft,10231,,Blue Creek,14020002,2014,8172,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10231,,Blue Creek,14020002,2014,540,
+Flow_7dayMin_10yr_cfs,10231,,Blue Creek,14020002,2014,3.82,
+Flow_AnnualAvg_cfs,10231,,Blue Creek,14020002,2014,58.2,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10231,,Blue Creek,14020002,2014,1180,
+Flow_Peak_10yr_cfs,10231,,Blue Creek,14020002,2014,731,
+Lat,10231,,Blue Creek,14020002,2014,38.405278,Latitude
+Long,10231,,Blue Creek,14020002,2014,-107.408333,Longitude
+NH3_mgL,10231,,Blue Creek,14020002,2014,0.019,
+NO23_mgL,10231,,Blue Creek,14020002,2014,0.025,
+NRR,10231,,Blue Creek,14020002,2014,1.32668985656375,Nitrogen Response Ratio
+PRR,10231,,Blue Creek,14020002,2014,0.866145537782936,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10231,,Blue Creek,14020002,2014,23.62,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10231,,Blue Creek,14020002,2014,29,
+Slope_Streamflow_ftMi,10231,,Blue Creek,14020002,2014,107.7,Slope (ft/mi)
+SpecCond_uScm,10231,,Blue Creek,14020002,2014,67.28,
+TN_mgL,10231,,Blue Creek,14020002,2014,0.1525,TN (mg/L)
+TP_mgL,10231,,Blue Creek,14020002,2014,0.076,TP (mg/L)
+WaterTemp_C,10231,,Blue Creek,14020002,2014,17.65,Water Temperature (C)
+pH,10231,,Blue Creek,14020002,2014,8.235,Phosphorus Response Ratio
+CanOpen_frac,10232,,Pine Creek,14020002,2014,0.000770903284769874,Canopy Openness
+CatchmentArea_sqKm,10232,,Pine Creek,14020002,2014,70.188729,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10232,,Pine Creek,14020002,2014,28.6047097439029,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10232,,Pine Creek,14020002,2014,61.140872485783,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10232,,Pine Creek,14020002,2014,62.5643296057403,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10232,,Pine Creek,14020002,2014,17.6237548185184,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10232,,Pine Creek,14020002,2014,7.925,DO (mg/L)
+Eco3ID,10232,,Pine Creek,14020002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10232,,Pine Creek,14020002,2014,9172,
+Elev_MaxBasinwide_ft,10232,,Pine Creek,14020002,2014,11100,
+Elev_MinBasinwide_ft,10232,,Pine Creek,14020002,2014,7470,
+Elev_Outlet_ft,10232,,Pine Creek,14020002,2014,7470,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10232,,Pine Creek,14020002,2014,103,
+Flow_7dayMin_10yr_cfs,10232,,Pine Creek,14020002,2014,0.173,
+Flow_AnnualAvg_cfs,10232,,Pine Creek,14020002,2014,11,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10232,,Pine Creek,14020002,2014,268,
+Flow_Peak_10yr_cfs,10232,,Pine Creek,14020002,2014,143,
+Lat,10232,,Pine Creek,14020002,2014,38.44651,Latitude
+Long,10232,,Pine Creek,14020002,2014,-107.344228,Longitude
+NH3_mgL,10232,,Pine Creek,14020002,2014,0.018,
+NO23_mgL,10232,,Pine Creek,14020002,2014,0.053,
+NRR,10232,,Pine Creek,14020002,2014,1.23337028845952,Nitrogen Response Ratio
+PRR,10232,,Pine Creek,14020002,2014,0.855579730368008,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10232,,Pine Creek,14020002,2014,16.64,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10232,,Pine Creek,14020002,2014,15,
+Slope_Streamflow_ftMi,10232,,Pine Creek,14020002,2014,138.8,Slope (ft/mi)
+SpecCond_uScm,10232,,Pine Creek,14020002,2014,106.4,
+TN_mgL,10232,,Pine Creek,14020002,2014,0.18,TN (mg/L)
+TP_mgL,10232,,Pine Creek,14020002,2014,0.115,TP (mg/L)
+WaterTemp_C,10232,,Pine Creek,14020002,2014,14.4,Water Temperature (C)
+pH,10232,,Pine Creek,14020002,2014,8.08,Phosphorus Response Ratio
+CanOpen_frac,10240,,Lake Fork Gunnison River,14020002,2014,0,Canopy Openness
+CatchmentArea_sqKm,10240,,Lake Fork Gunnison River,14020002,2014,960.88629,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10240,,Lake Fork Gunnison River,14020002,2014,15.7935956642876,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10240,,Lake Fork Gunnison River,14020002,2014,66.7126903553299,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10240,,Lake Fork Gunnison River,14020002,2014,72.0540437387886,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10240,,Lake Fork Gunnison River,14020002,2014,12.201061028205,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10240,,Lake Fork Gunnison River,14020002,2014,7.73,DO (mg/L)
+Eco3ID,10240,,Lake Fork Gunnison River,14020002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10240,,Lake Fork Gunnison River,14020002,2014,10736,
+Elev_MaxBasinwide_ft,10240,,Lake Fork Gunnison River,14020002,2014,14200,
+Elev_MinBasinwide_ft,10240,,Lake Fork Gunnison River,14020002,2014,7650,
+Elev_Outlet_ft,10240,,Lake Fork Gunnison River,14020002,2014,7649,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10240,,Lake Fork Gunnison River,14020002,2014,2250,
+Flow_7dayMin_10yr_cfs,10240,,Lake Fork Gunnison River,14020002,2014,36.9,
+Flow_AnnualAvg_cfs,10240,,Lake Fork Gunnison River,14020002,2014,251,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10240,,Lake Fork Gunnison River,14020002,2014,4230,
+Flow_Peak_10yr_cfs,10240,,Lake Fork Gunnison River,14020002,2014,2840,
+Lat,10240,,Lake Fork Gunnison River,14020002,2014,38.351807,Latitude
+Long,10240,,Lake Fork Gunnison River,14020002,2014,-107.236365,Longitude
+NH3_mgL,10240,,Lake Fork Gunnison River,14020002,2014,0.018,
+NO23_mgL,10240,,Lake Fork Gunnison River,14020002,2014,0.025,
+NRR,10240,,Lake Fork Gunnison River,14020002,2014,1.55001066772035,Nitrogen Response Ratio
+PRR,10240,,Lake Fork Gunnison River,14020002,2014,0.906478772305857,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10240,,Lake Fork Gunnison River,14020002,2014,27.05,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10240,,Lake Fork Gunnison River,14020002,2014,41,
+Slope_Streamflow_ftMi,10240,,Lake Fork Gunnison River,14020002,2014,52.2,Slope (ft/mi)
+SpecCond_uScm,10240,,Lake Fork Gunnison River,14020002,2014,129.15,
+TN_mgL,10240,,Lake Fork Gunnison River,14020002,2014,0.105,TN (mg/L)
+TP_mgL,10240,,Lake Fork Gunnison River,14020002,2014,0.0235,TP (mg/L)
+WaterTemp_C,10240,,Lake Fork Gunnison River,14020002,2014,15.97,Water Temperature (C)
+pH,10240,,Lake Fork Gunnison River,14020002,2014,8.085,Phosphorus Response Ratio
+CanOpen_frac,10267A,,Mill Creek,14020002,2014,0.0128550219178195,Canopy Openness
+CatchmentArea_sqKm,10267A,,Mill Creek,14020002,2014,24.4495056,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10267A,,Mill Creek,14020002,2014,7.38842028930194,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10267A,,Mill Creek,14020002,2014,40.9413381168658,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10267A,,Mill Creek,14020002,2014,56.3960154192588,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10267A,,Mill Creek,14020002,2014,6.37166520361818,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10267A,,Mill Creek,14020002,2014,8.34,DO (mg/L)
+Eco3ID,10267A,,Mill Creek,14020002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10267A,,Mill Creek,14020002,2014,10737,
+Elev_MaxBasinwide_ft,10267A,,Mill Creek,14020002,2014,13000,
+Elev_MinBasinwide_ft,10267A,,Mill Creek,14020002,2014,8980,
+Elev_Outlet_ft,10267A,,Mill Creek,14020002,2014,8977,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10267A,,Mill Creek,14020002,2014,116,
+Flow_7dayMin_10yr_cfs,10267A,,Mill Creek,14020002,2014,0.546,
+Flow_AnnualAvg_cfs,10267A,,Mill Creek,14020002,2014,11.5,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10267A,,Mill Creek,14020002,2014,314,
+Flow_Peak_10yr_cfs,10267A,,Mill Creek,14020002,2014,202,
+Lat,10267A,,Mill Creek,14020002,2014,38.695605,Latitude
+Long,10267A,,Mill Creek,14020002,2014,-107.0714,Longitude
+NH3_mgL,10267A,,Mill Creek,14020002,2014,0.02175,
+NO23_mgL,10267A,,Mill Creek,14020002,2014,0.025,
+NRR,10267A,,Mill Creek,14020002,2014,2.01628600560026,Nitrogen Response Ratio
+PRR,10267A,,Mill Creek,14020002,2014,0.925970264847454,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10267A,,Mill Creek,14020002,2014,29.45,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10267A,,Mill Creek,14020002,2014,54,
+Slope_Streamflow_ftMi,10267A,,Mill Creek,14020002,2014,413.6,Slope (ft/mi)
+SpecCond_uScm,10267A,,Mill Creek,14020002,2014,53.92,
+TN_mgL,10267A,,Mill Creek,14020002,2014,0.1305,TN (mg/L)
+TP_mgL,10267A,,Mill Creek,14020002,2014,0.0525,TP (mg/L)
+WaterTemp_C,10267A,,Mill Creek,14020002,2014,10.975,Water Temperature (C)
+pH,10267A,,Mill Creek,14020002,2014,7.735,Phosphorus Response Ratio
+CanOpen_frac,10268B,,Ohio Creek,14020002,2014,0.0669590842018918,Canopy Openness
+CatchmentArea_sqKm,10268B,,Ohio Creek,14020002,2014,20.6163204,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10268B,,Ohio Creek,14020002,2014,13.895652837678,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10268B,,Ohio Creek,14020002,2014,80.9337048204267,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10268B,,Ohio Creek,14020002,2014,62.2931949162246,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10268B,,Ohio Creek,14020002,2014,13.014465096752,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10268B,,Ohio Creek,14020002,2014,7.675,DO (mg/L)
+Eco3ID,10268B,,Ohio Creek,14020002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10268B,,Ohio Creek,14020002,2014,10205,
+Elev_MaxBasinwide_ft,10268B,,Ohio Creek,14020002,2014,12100,
+Elev_MinBasinwide_ft,10268B,,Ohio Creek,14020002,2014,8910,
+Elev_Outlet_ft,10268B,,Ohio Creek,14020002,2014,8909,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10268B,,Ohio Creek,14020002,2014,117,
+Flow_7dayMin_10yr_cfs,10268B,,Ohio Creek,14020002,2014,0.376,
+Flow_AnnualAvg_cfs,10268B,,Ohio Creek,14020002,2014,11.5,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10268B,,Ohio Creek,14020002,2014,292,
+Flow_Peak_10yr_cfs,10268B,,Ohio Creek,14020002,2014,193,
+Lat,10268B,,Ohio Creek,14020002,2014,38.795644,Latitude
+Long,10268B,,Ohio Creek,14020002,2014,-107.087673,Longitude
+NH3_mgL,10268B,,Ohio Creek,14020002,2014,0.0195,
+NO23_mgL,10268B,,Ohio Creek,14020002,2014,0.025,
+NRR,10268B,,Ohio Creek,14020002,2014,1.57010556303368,Nitrogen Response Ratio
+PRR,10268B,,Ohio Creek,14020002,2014,0.975104421847542,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10268B,,Ohio Creek,14020002,2014,32.14,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10268B,,Ohio Creek,14020002,2014,34,
+Slope_Streamflow_ftMi,10268B,,Ohio Creek,14020002,2014,470,Slope (ft/mi)
+SpecCond_uScm,10268B,,Ohio Creek,14020002,2014,50.26,
+TN_mgL,10268B,,Ohio Creek,14020002,2014,0.1205,TN (mg/L)
+TP_mgL,10268B,,Ohio Creek,14020002,2014,0.0135,TP (mg/L)
+WaterTemp_C,10268B,,Ohio Creek,14020002,2014,13.95,Water Temperature (C)
+pH,10268B,,Ohio Creek,14020002,2014,7.62,Phosphorus Response Ratio
+CanOpen_frac,10283,,Cebolla Creek,14020002,2014,0.150564464515351,Canopy Openness
+CatchmentArea_sqKm,10283,,Cebolla Creek,14020002,2014,442.88829,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10283,,Cebolla Creek,14020002,2014,38.1848021067898,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10283,,Cebolla Creek,14020002,2014,66.9928628678295,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10283,,Cebolla Creek,14020002,2014,60.4121980077096,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10283,,Cebolla Creek,14020002,2014,20.0639670241594,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10283,,Cebolla Creek,14020002,2014,8.115,DO (mg/L)
+Eco3ID,10283,,Cebolla Creek,14020002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10283,,Cebolla Creek,14020002,2014,11051,
+Elev_MaxBasinwide_ft,10283,,Cebolla Creek,14020002,2014,14000,
+Elev_MinBasinwide_ft,10283,,Cebolla Creek,14020002,2014,8820,
+Elev_Outlet_ft,10283,,Cebolla Creek,14020002,2014,8824,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10283,,Cebolla Creek,14020002,2014,1030,
+Flow_7dayMin_10yr_cfs,10283,,Cebolla Creek,14020002,2014,15.3,
+Flow_AnnualAvg_cfs,10283,,Cebolla Creek,14020002,2014,112,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10283,,Cebolla Creek,14020002,2014,2040,
+Flow_Peak_10yr_cfs,10283,,Cebolla Creek,14020002,2014,1310,
+Lat,10283,,Cebolla Creek,14020002,2014,38.106759,Latitude
+Long,10283,,Cebolla Creek,14020002,2014,-107.034974,Longitude
+NH3_mgL,10283,,Cebolla Creek,14020002,2014,0.0195,
+NO23_mgL,10283,,Cebolla Creek,14020002,2014,0.0485,
+NRR,10283,,Cebolla Creek,14020002,2014,1.12594682590108,Nitrogen Response Ratio
+PRR,10283,,Cebolla Creek,14020002,2014,0.82332928162548,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10283,,Cebolla Creek,14020002,2014,25.15,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10283,,Cebolla Creek,14020002,2014,28,
+Slope_Streamflow_ftMi,10283,,Cebolla Creek,14020002,2014,120,Slope (ft/mi)
+SpecCond_uScm,10283,,Cebolla Creek,14020002,2014,107.8,
+TN_mgL,10283,,Cebolla Creek,14020002,2014,0.1555,TN (mg/L)
+TP_mgL,10283,,Cebolla Creek,14020002,2014,0.0655,TP (mg/L)
+WaterTemp_C,10283,,Cebolla Creek,14020002,2014,13.125,Water Temperature (C)
+pH,10283,,Cebolla Creek,14020002,2014,7.675,Phosphorus Response Ratio
+CanOpen_frac,10322,,Cochetopa Creek,14020003,2014,0.0209657275559061,Canopy Openness
+CatchmentArea_sqKm,10322,,Cochetopa Creek,14020003,2014,981.60621,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10322,,Cochetopa Creek,14020003,2014,34.4341055684898,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10322,,Cochetopa Creek,14020003,2014,64.7334071218656,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10322,,Cochetopa Creek,14020003,2014,66.7669172932331,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10322,,Cochetopa Creek,14020003,2014,18.77607724896,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10322,,Cochetopa Creek,14020003,2014,7.045,DO (mg/L)
+Eco3ID,10322,,Cochetopa Creek,14020003,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10322,,Cochetopa Creek,14020003,2014,10045,
+Elev_MaxBasinwide_ft,10322,,Cochetopa Creek,14020003,2014,14000,
+Elev_MinBasinwide_ft,10322,,Cochetopa Creek,14020003,2014,8000,
+Elev_Outlet_ft,10322,,Cochetopa Creek,14020003,2014,7998,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10322,,Cochetopa Creek,14020003,2014,1240,
+Flow_7dayMin_10yr_cfs,10322,,Cochetopa Creek,14020003,2014,10.7,
+Flow_AnnualAvg_cfs,10322,,Cochetopa Creek,14020003,2014,141,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10322,,Cochetopa Creek,14020003,2014,2410,
+Flow_Peak_10yr_cfs,10322,,Cochetopa Creek,14020003,2014,1430,
+Lat,10322,,Cochetopa Creek,14020003,2014,38.43725,Latitude
+Long,10322,,Cochetopa Creek,14020003,2014,-106.7625,Longitude
+NH3_mgL,10322,,Cochetopa Creek,14020003,2014,0.021,
+NO23_mgL,10322,,Cochetopa Creek,14020003,2014,0.025,
+NRR,10322,,Cochetopa Creek,14020003,2014,1.18710124431566,Nitrogen Response Ratio
+PRR,10322,,Cochetopa Creek,14020003,2014,0.82863639469016,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10322,,Cochetopa Creek,14020003,2014,19.09,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10322,,Cochetopa Creek,14020003,2014,19,
+Slope_Streamflow_ftMi,10322,,Cochetopa Creek,14020003,2014,57.5,Slope (ft/mi)
+SpecCond_uScm,10322,,Cochetopa Creek,14020003,2014,183.155,
+TN_mgL,10322,,Cochetopa Creek,14020003,2014,0.235,TN (mg/L)
+TP_mgL,10322,,Cochetopa Creek,14020003,2014,0.135,TP (mg/L)
+WaterTemp_C,10322,,Cochetopa Creek,14020003,2014,19.915,Water Temperature (C)
+pH,10322,,Cochetopa Creek,14020003,2014,8.285,Phosphorus Response Ratio
+CanOpen_frac,10324,,Cochetopa Creek,14020003,2014,0.189563865687343,Canopy Openness
+CatchmentArea_sqKm,10324,,Cochetopa Creek,14020003,2014,419.57838,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10324,,Cochetopa Creek,14020003,2014,31.1804892943018,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10324,,Cochetopa Creek,14020003,2014,152.089614900195,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10324,,Cochetopa Creek,14020003,2014,171.718636693256,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10324,,Cochetopa Creek,14020003,2014,19.9961833517805,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10324,,Cochetopa Creek,14020003,2014,7.905,DO (mg/L)
+Eco3ID,10324,,Cochetopa Creek,14020003,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10324,,Cochetopa Creek,14020003,2014,10539,
+Elev_Outlet_ft,10324,,Cochetopa Creek,14020003,2014,9019,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10324,,Cochetopa Creek,14020003,2014,774,
+Flow_7dayMin_10yr_cfs,10324,,Cochetopa Creek,14020003,2014,7.55,
+Flow_AnnualAvg_cfs,10324,,Cochetopa Creek,14020003,2014,85.3,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10324,,Cochetopa Creek,14020003,2014,1560,
+Flow_Peak_10yr_cfs,10324,,Cochetopa Creek,14020003,2014,955,
+Lat,10324,,Cochetopa Creek,14020003,2014,38.22389,Latitude
+Long,10324,,Cochetopa Creek,14020003,2014,-106.743961,Longitude
+NH3_mgL,10324,,Cochetopa Creek,14020003,2014,0.0235,
+NO23_mgL,10324,,Cochetopa Creek,14020003,2014,0.025,
+NRR,10324,,Cochetopa Creek,14020003,2014,1.49597896393777,Nitrogen Response Ratio
+PRR,10324,,Cochetopa Creek,14020003,2014,0.87084944051098,Phosphorus Response Ratio
+Slope_AvgBasinwide_pct,10324,,Cochetopa Creek,14020003,2014,20,
+SpecCond_uScm,10324,,Cochetopa Creek,14020003,2014,133.55,
+TN_mgL,10324,,Cochetopa Creek,14020003,2014,0.1555,TN (mg/L)
+TP_mgL,10324,,Cochetopa Creek,14020003,2014,0.125,TP (mg/L)
+WaterTemp_C,10324,,Cochetopa Creek,14020003,2014,21.025,Water Temperature (C)
+pH,10324,,Cochetopa Creek,14020003,2014,8.8,Phosphorus Response Ratio
+CanOpen_frac,10329,,Stewart Creek,14020003,2014,0.0198698477530817,Canopy Openness
+CatchmentArea_sqKm,10329,,Stewart Creek,14020003,2014,14.4003444,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10329,,Stewart Creek,14020003,2014,41.3819319873287,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10329,,Stewart Creek,14020003,2014,56.5315827640166,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10329,,Stewart Creek,14020003,2014,58.0228235563528,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10329,,Stewart Creek,14020003,2014,34.5018892408687,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10329,,Stewart Creek,14020003,2014,7.67,DO (mg/L)
+Eco3ID,10329,,Stewart Creek,14020003,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10329,,Stewart Creek,14020003,2014,11986,
+Elev_MaxBasinwide_ft,10329,,Stewart Creek,14020003,2014,13800,
+Elev_MinBasinwide_ft,10329,,Stewart Creek,14020003,2014,10400,
+Elev_Outlet_ft,10329,,Stewart Creek,14020003,2014,10427,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10329,,Stewart Creek,14020003,2014,80.6,
+Flow_7dayMin_10yr_cfs,10329,,Stewart Creek,14020003,2014,0.714,
+Flow_AnnualAvg_cfs,10329,,Stewart Creek,14020003,2014,7.84,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10329,,Stewart Creek,14020003,2014,219,
+Flow_Peak_10yr_cfs,10329,,Stewart Creek,14020003,2014,142,
+Lat,10329,,Stewart Creek,14020003,2014,38.023889,Latitude
+Long,10329,,Stewart Creek,14020003,2014,-106.841944,Longitude
+NH3_mgL,10329,,Stewart Creek,14020003,2014,0.0205,
+NO23_mgL,10329,,Stewart Creek,14020003,2014,0.0915,
+NRR,10329,,Stewart Creek,14020003,2014,1.09078866852709,Nitrogen Response Ratio
+PRR,10329,,Stewart Creek,14020003,2014,0.95115823832258,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10329,,Stewart Creek,14020003,2014,30.93,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10329,,Stewart Creek,14020003,2014,43,
+Slope_Streamflow_ftMi,10329,,Stewart Creek,14020003,2014,390.4,Slope (ft/mi)
+SpecCond_uScm,10329,,Stewart Creek,14020003,2014,65.25,
+TN_mgL,10329,,Stewart Creek,14020003,2014,0.2025,TN (mg/L)
+TP_mgL,10329,,Stewart Creek,14020003,2014,0.0765,TP (mg/L)
+WaterTemp_C,10329,,Stewart Creek,14020003,2014,12.895,Water Temperature (C)
+pH,10329,,Stewart Creek,14020003,2014,7.825,Phosphorus Response Ratio
+CanOpen_frac,10767B,,Roaring Forks Creek,14030002,2014,0.0287733074865466,Canopy Openness
+CatchmentArea_sqKm,10767B,,Roaring Forks Creek,14030002,2014,50.763804,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10767B,,Roaring Forks Creek,14030002,2014,12.3027365367734,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10767B,,Roaring Forks Creek,14030002,2014,151.665966947826,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10767B,,Roaring Forks Creek,14030002,2014,89.9489332468226,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10767B,,Roaring Forks Creek,14030002,2014,11.7604671577421,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10767B,,Roaring Forks Creek,14030002,2014,6.78,DO (mg/L)
+Eco3ID,10767B,,Roaring Forks Creek,14030002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10767B,,Roaring Forks Creek,14030002,2014,10143,
+Elev_Outlet_ft,10767B,,Roaring Forks Creek,14030002,2014,8173,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10767B,,Roaring Forks Creek,14030002,2014,182,
+Flow_7dayMin_10yr_cfs,10767B,,Roaring Forks Creek,14030002,2014,1.34,
+Flow_AnnualAvg_cfs,10767B,,Roaring Forks Creek,14030002,2014,23.6,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10767B,,Roaring Forks Creek,14030002,2014,1030,
+Flow_Peak_10yr_cfs,10767B,,Roaring Forks Creek,14030002,2014,487,
+Lat,10767B,,Roaring Forks Creek,14030002,2014,37.598635,Latitude
+Long,10767B,,Roaring Forks Creek,14030002,2014,-108.112647,Longitude
+NH3_mgL,10767B,,Roaring Forks Creek,14030002,2014,0.0185,
+NO23_mgL,10767B,,Roaring Forks Creek,14030002,2014,0.025,
+NRR,10767B,,Roaring Forks Creek,14030002,2014,1.79265406165648,Nitrogen Response Ratio
+PRR,10767B,,Roaring Forks Creek,14030002,2014,0.982039340103945,Phosphorus Response Ratio
+Slope_AvgBasinwide_pct,10767B,,Roaring Forks Creek,14030002,2014,36,
+SpecCond_uScm,10767B,,Roaring Forks Creek,14030002,2014,224.95,
+TN_mgL,10767B,,Roaring Forks Creek,14030002,2014,0.1585,TN (mg/L)
+TP_mgL,10767B,,Roaring Forks Creek,14030002,2014,0.0155,TP (mg/L)
+WaterTemp_C,10767B,,Roaring Forks Creek,14030002,2014,19.37,Water Temperature (C)
+pH,10767B,,Roaring Forks Creek,14030002,2014,8.62,Phosphorus Response Ratio
+CanOpen_frac,10769,,Fish Creek,14030002,2014,0.0533283440892991,Canopy Openness
+CatchmentArea_sqKm,10769,,Fish Creek,14030002,2014,91.944645,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10769,,Fish Creek,14030002,2014,31.0110301133545,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10769,,Fish Creek,14030002,2014,38.1283157131407,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10769,,Fish Creek,14030002,2014,33.8918361894584,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10769,,Fish Creek,14030002,2014,15.7032174344491,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10769,,Fish Creek,14030002,2014,7.25,DO (mg/L)
+Eco3ID,10769,,Fish Creek,14030002,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,10769,,Fish Creek,14030002,2014,10152,
+Elev_MaxBasinwide_ft,10769,,Fish Creek,14030002,2014,13300,
+Elev_MinBasinwide_ft,10769,,Fish Creek,14030002,2014,8240,
+Elev_Outlet_ft,10769,,Fish Creek,14030002,2014,8244,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10769,,Fish Creek,14030002,2014,274,
+Flow_7dayMin_10yr_cfs,10769,,Fish Creek,14030002,2014,2.2,
+Flow_AnnualAvg_cfs,10769,,Fish Creek,14030002,2014,34,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10769,,Fish Creek,14030002,2014,1460,
+Flow_Peak_10yr_cfs,10769,,Fish Creek,14030002,2014,699,
+Lat,10769,,Fish Creek,14030002,2014,37.7463,Latitude
+Long,10769,,Fish Creek,14030002,2014,-108.2362,Longitude
+NH3_mgL,10769,,Fish Creek,14030002,2014,0.016,
+NO23_mgL,10769,,Fish Creek,14030002,2014,0.025,
+NRR,10769,,Fish Creek,14030002,2014,1.02586556292312,Nitrogen Response Ratio
+PRR,10769,,Fish Creek,14030002,2014,0.801860985502412,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10769,,Fish Creek,14030002,2014,32.13,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10769,,Fish Creek,14030002,2014,31,
+Slope_Streamflow_ftMi,10769,,Fish Creek,14030002,2014,209.4,Slope (ft/mi)
+SpecCond_uScm,10769,,Fish Creek,14030002,2014,157.25,
+TN_mgL,10769,,Fish Creek,14030002,2014,0.1375,TN (mg/L)
+TP_mgL,10769,,Fish Creek,14030002,2014,0.0115,TP (mg/L)
+WaterTemp_C,10769,,Fish Creek,14030002,2014,15.76,Water Temperature (C)
+pH,10769,,Fish Creek,14030002,2014,8.035,Phosphorus Response Ratio
+CatchmentArea_sqKm,10814,Downstream,San Miguel River,14030003,2013,111.110571,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10814,Downstream,San Miguel River,14030003,2013,55.4131521697645,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10814,Downstream,San Miguel River,14030003,2013,68.8682111369795,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10814,Downstream,San Miguel River,14030003,2013,75.7143620472501,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10814,Downstream,San Miguel River,14030003,2013,49.8887828708828,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10814,Downstream,San Miguel River,14030003,2013,7.34,DO (mg/L)
+Eco3ID,10814,Downstream,San Miguel River,14030003,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,10814,Downstream,San Miguel River,14030003,2013,11174,
+Elev_MaxBasinwide_ft,10814,Downstream,San Miguel River,14030003,2013,13800,
+Elev_MinBasinwide_ft,10814,Downstream,San Miguel River,14030003,2013,8620,
+Elev_Outlet_ft,10814,Downstream,San Miguel River,14030003,2013,8639,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10814,Downstream,San Miguel River,14030003,2013,452,
+Flow_7dayMin_10yr_cfs,10814,Downstream,San Miguel River,14030003,2013,4.59,
+Flow_AnnualAvg_cfs,10814,Downstream,San Miguel River,14030003,2013,59.9,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10814,Downstream,San Miguel River,14030003,2013,1630,
+Flow_Peak_10yr_cfs,10814,Downstream,San Miguel River,14030003,2013,785,
+Lat,10814,Downstream,San Miguel River,14030003,2013,37.948209,Latitude
+Long,10814,Downstream,San Miguel River,14030003,2013,-107.877067,Longitude
+NH3_mgL,10814,Downstream,San Miguel River,14030003,2013,0.01225,
+NO23_mgL,10814,Downstream,San Miguel River,14030003,2013,0.76,
+NRR,10814,Downstream,San Miguel River,14030003,2013,1.07774972026863,Nitrogen Response Ratio
+PRR,10814,Downstream,San Miguel River,14030003,2013,0.973841700669315,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10814,Downstream,San Miguel River,14030003,2013,36.67,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10814,Downstream,San Miguel River,14030003,2013,53,
+Slope_Streamflow_ftMi,10814,Downstream,San Miguel River,14030003,2013,386.7,Slope (ft/mi)
+SpecCond_uScm,10814,Downstream,San Miguel River,14030003,2013,228.45,
+TKN_mgL,10814,Downstream,San Miguel River,14030003,2013,0.215,
+TN_mgL,10814,Downstream,San Miguel River,14030003,2013,0.975,TN (mg/L)
+TP_mgL,10814,Downstream,San Miguel River,14030003,2013,0.13,TP (mg/L)
+WaterTemp_C,10814,Downstream,San Miguel River,14030003,2013,16.715,Water Temperature (C)
+pH,10814,Downstream,San Miguel River,14030003,2013,7.595,Phosphorus Response Ratio
+CatchmentArea_sqKm,10815,Upstream,San Miguel River,14030003,2013,96.088629,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10815,Upstream,San Miguel River,14030003,2013,21.0807221098431,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10815,Upstream,San Miguel River,14030003,2013,24.7410404183046,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10815,Upstream,San Miguel River,14030003,2013,32.2650280523644,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10815,Upstream,San Miguel River,14030003,2013,7.99847334071219,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10815,Upstream,San Miguel River,14030003,2013,7.295,DO (mg/L)
+Eco3ID,10815,Upstream,San Miguel River,14030003,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,10815,Upstream,San Miguel River,14030003,2013,11291,
+Elev_MaxBasinwide_ft,10815,Upstream,San Miguel River,14030003,2013,13800,
+Elev_MinBasinwide_ft,10815,Upstream,San Miguel River,14030003,2013,8640,
+Elev_Outlet_ft,10815,Upstream,San Miguel River,14030003,2013,8638,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10815,Upstream,San Miguel River,14030003,2013,417,
+Flow_7dayMin_10yr_cfs,10815,Upstream,San Miguel River,14030003,2013,4.29,
+Flow_AnnualAvg_cfs,10815,Upstream,San Miguel River,14030003,2013,56.1,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10815,Upstream,San Miguel River,14030003,2013,1490,
+Flow_Peak_10yr_cfs,10815,Upstream,San Miguel River,14030003,2013,718,
+Lat,10815,Upstream,San Miguel River,14030003,2013,37.94972,Latitude
+Long,10815,Upstream,San Miguel River,14030003,2013,-107.86861,Longitude
+NH3_mgL,10815,Upstream,San Miguel River,14030003,2013,0.00925,
+NO23_mgL,10815,Upstream,San Miguel River,14030003,2013,0.15,
+NRR,10815,Upstream,San Miguel River,14030003,2013,1.13962428474343,Nitrogen Response Ratio
+PRR,10815,Upstream,San Miguel River,14030003,2013,0.682088528791288,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10815,Upstream,San Miguel River,14030003,2013,37.52,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10815,Upstream,San Miguel River,14030003,2013,55,
+Slope_Streamflow_ftMi,10815,Upstream,San Miguel River,14030003,2013,405.7,Slope (ft/mi)
+SpecCond_uScm,10815,Upstream,San Miguel River,14030003,2013,219.8,
+TKN_mgL,10815,Upstream,San Miguel River,14030003,2013,0.05,
+TN_mgL,10815,Upstream,San Miguel River,14030003,2013,0.2,TN (mg/L)
+TP_mgL,10815,Upstream,San Miguel River,14030003,2013,0.018,TP (mg/L)
+WaterTemp_C,10815,Upstream,San Miguel River,14030003,2013,16.495,Water Temperature (C)
+pH,10815,Upstream,San Miguel River,14030003,2013,7.645,Phosphorus Response Ratio
+CatchmentArea_sqKm,10818,Undisturbed,San Miguel River,14030003,2013,9.8937618,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,10818,Undisturbed,San Miguel River,14030003,2013,8.54074271974352,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,10818,Undisturbed,San Miguel River,14030003,2013,11.7265753215526,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,10818,Undisturbed,San Miguel River,14030003,2013,13.1500324415099,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,10818,Undisturbed,San Miguel River,14030003,2013,5.2193427731766,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,10818,Undisturbed,San Miguel River,14030003,2013,7.58,DO (mg/L)
+Eco3ID,10818,Undisturbed,San Miguel River,14030003,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,10818,Undisturbed,San Miguel River,14030003,2013,12007,
+Elev_MaxBasinwide_ft,10818,Undisturbed,San Miguel River,14030003,2013,13500,
+Elev_MinBasinwide_ft,10818,Undisturbed,San Miguel River,14030003,2013,8980,
+Elev_Outlet_ft,10818,Undisturbed,San Miguel River,14030003,2013,8981,Elevation (ft)
+Flow_7dayMax_10yr_cfs,10818,Undisturbed,San Miguel River,14030003,2013,62.6,
+Flow_7dayMin_10yr_cfs,10818,Undisturbed,San Miguel River,14030003,2013,0.676,
+Flow_AnnualAvg_cfs,10818,Undisturbed,San Miguel River,14030003,2013,9.24,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,10818,Undisturbed,San Miguel River,14030003,2013,391,
+Flow_Peak_10yr_cfs,10818,Undisturbed,San Miguel River,14030003,2013,179,
+Lat,10818,Undisturbed,San Miguel River,14030003,2013,37.93111,Latitude
+Long,10818,Undisturbed,San Miguel River,14030003,2013,-107.77889,Longitude
+NH3_mgL,10818,Undisturbed,San Miguel River,14030003,2013,0.00775,
+NO23_mgL,10818,Undisturbed,San Miguel River,14030003,2013,0.14,
+NRR,10818,Undisturbed,San Miguel River,14030003,2013,1.20121531103147,Nitrogen Response Ratio
+PRR,10818,Undisturbed,San Miguel River,14030003,2013,0.770390959558736,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,10818,Undisturbed,San Miguel River,14030003,2013,41.01,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,10818,Undisturbed,San Miguel River,14030003,2013,59,
+Slope_Streamflow_ftMi,10818,Undisturbed,San Miguel River,14030003,2013,1109.1,Slope (ft/mi)
+SpecCond_uScm,10818,Undisturbed,San Miguel River,14030003,2013,199,
+TKN_mgL,10818,Undisturbed,San Miguel River,14030003,2013,0.215,
+TN_mgL,10818,Undisturbed,San Miguel River,14030003,2013,0.355,TN (mg/L)
+TP_mgL,10818,Undisturbed,San Miguel River,14030003,2013,0.0093,TP (mg/L)
+WaterTemp_C,10818,Undisturbed,San Miguel River,14030003,2013,11.61,Water Temperature (C)
+pH,10818,Undisturbed,San Miguel River,14030003,2013,7.39,Phosphorus Response Ratio
+CatchmentArea_sqKm,120,Upstream,Michigan River,10180001,2013,471.37818,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,120,Upstream,Michigan River,10180001,2013,89.4744475401702,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,120,Upstream,Michigan River,10180001,2013,168.781344223503,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,120,Upstream,Michigan River,10180001,2013,129.466814243731,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,120,Upstream,Michigan River,10180001,2013,58.6328766077631,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,120,Upstream,Michigan River,10180001,2013,9.69,DO (mg/L)
+Eco3ID,120,Upstream,Michigan River,10180001,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,120,Upstream,Michigan River,10180001,2013,9275,
+Elev_MaxBasinwide_ft,120,Upstream,Michigan River,10180001,2013,12900,
+Elev_MinBasinwide_ft,120,Upstream,Michigan River,10180001,2013,8050,
+Elev_Outlet_ft,120,Upstream,Michigan River,10180001,2013,8053,Elevation (ft)
+Flow_7dayMax_10yr_cfs,120,Upstream,Michigan River,10180001,2013,1020,
+Flow_7dayMin_10yr_cfs,120,Upstream,Michigan River,10180001,2013,4.32,
+Flow_AnnualAvg_cfs,120,Upstream,Michigan River,10180001,2013,112,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,120,Upstream,Michigan River,10180001,2013,1880,
+Flow_Peak_10yr_cfs,120,Upstream,Michigan River,10180001,2013,1200,
+Lat,120,Upstream,Michigan River,10180001,2013,40.74101,Latitude
+Long,120,Upstream,Michigan River,10180001,2013,-106.28196,Longitude
+NH3_mgL,120,Upstream,Michigan River,10180001,2013,0.00925,
+NO23_mgL,120,Upstream,Michigan River,10180001,2013,0.025,
+NRR,120,Upstream,Michigan River,10180001,2013,1.08221525652458,Nitrogen Response Ratio
+PRR,120,Upstream,Michigan River,10180001,2013,0.905949728241447,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,120,Upstream,Michigan River,10180001,2013,24.32,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,120,Upstream,Michigan River,10180001,2013,16,
+Slope_Streamflow_ftMi,120,Upstream,Michigan River,10180001,2013,30.7,Slope (ft/mi)
+SpecCond_uScm,120,Upstream,Michigan River,10180001,2013,175.5,
+TKN_mgL,120,Upstream,Michigan River,10180001,2013,0.37,
+TN_mgL,120,Upstream,Michigan River,10180001,2013,0.395,TN (mg/L)
+TP_mgL,120,Upstream,Michigan River,10180001,2013,0.029,TP (mg/L)
+WaterTemp_C,120,Upstream,Michigan River,10180001,2013,17.175,Water Temperature (C)
+pH,120,Upstream,Michigan River,10180001,2013,8.115,Phosphorus Response Ratio
+CatchmentArea_sqKm,12554A,Upstream,Gore Creek,14010003,2013,199.42923,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12554A,Upstream,Gore Creek,14010003,2013,31.6888668371436,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12554A,Upstream,Gore Creek,14010003,2013,208.434792565169,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12554A,Upstream,Gore Creek,14010003,2013,80.5495973436128,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12554A,Upstream,Gore Creek,14010003,2013,64.394488759971,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12554A,Upstream,Gore Creek,14010003,2013,8.58,DO (mg/L)
+Eco3ID,12554A,Upstream,Gore Creek,14010003,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12554A,Upstream,Gore Creek,14010003,2013,10514,
+Elev_MaxBasinwide_ft,12554A,Upstream,Gore Creek,14010003,2013,13300,
+Elev_MinBasinwide_ft,12554A,Upstream,Gore Creek,14010003,2013,8070,
+Elev_Outlet_ft,12554A,Upstream,Gore Creek,14010003,2013,8080,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12554A,Upstream,Gore Creek,14010003,2013,663,
+Flow_7dayMin_10yr_cfs,12554A,Upstream,Gore Creek,14010003,2013,5.55,
+Flow_AnnualAvg_cfs,12554A,Upstream,Gore Creek,14010003,2013,70.1,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12554A,Upstream,Gore Creek,14010003,2013,1420,
+Flow_Peak_10yr_cfs,12554A,Upstream,Gore Creek,14010003,2013,945,
+Lat,12554A,Upstream,Gore Creek,14010003,2013,39.64097,Latitude
+Long,12554A,Upstream,Gore Creek,14010003,2013,-106.39436,Longitude
+NH3_mgL,12554A,Upstream,Gore Creek,14010003,2013,0.00725,
+NO23_mgL,12554A,Upstream,Gore Creek,14010003,2013,0.1105,
+NRR,12554A,Upstream,Gore Creek,14010003,2013,1.26994127062607,Nitrogen Response Ratio
+PRR,12554A,Upstream,Gore Creek,14010003,2013,1.20517063993824,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12554A,Upstream,Gore Creek,14010003,2013,28.8,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12554A,Upstream,Gore Creek,14010003,2013,42,
+Slope_Streamflow_ftMi,12554A,Upstream,Gore Creek,14010003,2013,165,Slope (ft/mi)
+SpecCond_uScm,12554A,Upstream,Gore Creek,14010003,2013,211.6,
+TKN_mgL,12554A,Upstream,Gore Creek,14010003,2013,0.165,
+TN_mgL,12554A,Upstream,Gore Creek,14010003,2013,0.2755,TN (mg/L)
+TP_mgL,12554A,Upstream,Gore Creek,14010003,2013,0.0046,TP (mg/L)
+WaterTemp_C,12554A,Upstream,Gore Creek,14010003,2013,13.71,Water Temperature (C)
+pH,12554A,Upstream,Gore Creek,14010003,2013,8.35,Phosphorus Response Ratio
+CatchmentArea_sqKm,12554B,Downstream,Gore Creek,14010003,2013,236.207088,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12554B,Downstream,Gore Creek,14010003,2013,23.8598526773787,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12554B,Downstream,Gore Creek,14010003,2013,31.4516239838174,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12554B,Downstream,Gore Creek,14010003,2013,20.402885386054,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12554B,Downstream,Gore Creek,14010003,2013,23.0464486088317,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12554B,Downstream,Gore Creek,14010003,2013,8.6,DO (mg/L)
+Eco3ID,12554B,Downstream,Gore Creek,14010003,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12554B,Downstream,Gore Creek,14010003,2013,10431,
+Elev_MaxBasinwide_ft,12554B,Downstream,Gore Creek,14010003,2013,13300,
+Elev_MinBasinwide_ft,12554B,Downstream,Gore Creek,14010003,2013,8040,
+Elev_Outlet_ft,12554B,Downstream,Gore Creek,14010003,2013,8058,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12554B,Downstream,Gore Creek,14010003,2013,742,
+Flow_7dayMin_10yr_cfs,12554B,Downstream,Gore Creek,14010003,2013,6.18,
+Flow_AnnualAvg_cfs,12554B,Downstream,Gore Creek,14010003,2013,79,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12554B,Downstream,Gore Creek,14010003,2013,1560,
+Flow_Peak_10yr_cfs,12554B,Downstream,Gore Creek,14010003,2013,1040,
+Lat,12554B,Downstream,Gore Creek,14010003,2013,39.640194,Latitude
+Long,12554B,Downstream,Gore Creek,14010003,2013,-106.399546,Longitude
+NH3_mgL,12554B,Downstream,Gore Creek,14010003,2013,0.0195,
+NO23_mgL,12554B,Downstream,Gore Creek,14010003,2013,0.605,
+NRR,12554B,Downstream,Gore Creek,14010003,2013,0.950658518717726,Nitrogen Response Ratio
+PRR,12554B,Downstream,Gore Creek,14010003,2013,0.989065762517359,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12554B,Downstream,Gore Creek,14010003,2013,28.32,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12554B,Downstream,Gore Creek,14010003,2013,40,
+Slope_Streamflow_ftMi,12554B,Downstream,Gore Creek,14010003,2013,163.9,Slope (ft/mi)
+SpecCond_uScm,12554B,Downstream,Gore Creek,14010003,2013,223.7,
+TKN_mgL,12554B,Downstream,Gore Creek,14010003,2013,0.275,
+TN_mgL,12554B,Downstream,Gore Creek,14010003,2013,0.88,TN (mg/L)
+TP_mgL,12554B,Downstream,Gore Creek,14010003,2013,0.065,TP (mg/L)
+WaterTemp_C,12554B,Downstream,Gore Creek,14010003,2013,12.675,Water Temperature (C)
+pH,12554B,Downstream,Gore Creek,14010003,2013,8.245,Phosphorus Response Ratio
+CatchmentArea_sqKm,12555,Undisturbed,Gore Creek,14010003,2013,108.261582,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12555,Undisturbed,Gore Creek,14010003,2013,7.21896110835464,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12555,Undisturbed,Gore Creek,14010003,2013,52.3967787489027,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12555,Undisturbed,Gore Creek,14010003,2013,24.7749322544941,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12555,Undisturbed,Gore Creek,14010003,2013,19.5555894813175,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12555,Undisturbed,Gore Creek,14010003,2013,7.625,DO (mg/L)
+Eco3ID,12555,Undisturbed,Gore Creek,14010003,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12555,Undisturbed,Gore Creek,14010003,2013,10710,
+Elev_MaxBasinwide_ft,12555,Undisturbed,Gore Creek,14010003,2013,13300,
+Elev_MinBasinwide_ft,12555,Undisturbed,Gore Creek,14010003,2013,8380,
+Elev_Outlet_ft,12555,Undisturbed,Gore Creek,14010003,2013,8377,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12555,Undisturbed,Gore Creek,14010003,2013,406,
+Flow_7dayMin_10yr_cfs,12555,Undisturbed,Gore Creek,14010003,2013,3.16,
+Flow_AnnualAvg_cfs,12555,Undisturbed,Gore Creek,14010003,2013,42.1,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12555,Undisturbed,Gore Creek,14010003,2013,919,
+Flow_Peak_10yr_cfs,12555,Undisturbed,Gore Creek,14010003,2013,608,
+Lat,12555,Undisturbed,Gore Creek,14010003,2013,39.64167,Latitude
+Long,12555,Undisturbed,Gore Creek,14010003,2013,-106.30667,Longitude
+NH3_mgL,12555,Undisturbed,Gore Creek,14010003,2013,0.00775,
+NO23_mgL,12555,Undisturbed,Gore Creek,14010003,2013,0.08,
+NRR,12555,Undisturbed,Gore Creek,14010003,2013,1.62382475827903,Nitrogen Response Ratio
+PRR,12555,Undisturbed,Gore Creek,14010003,2013,1.50414556033393,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12555,Undisturbed,Gore Creek,14010003,2013,29.28,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12555,Undisturbed,Gore Creek,14010003,2013,42,
+Slope_Streamflow_ftMi,12555,Undisturbed,Gore Creek,14010003,2013,229.4,Slope (ft/mi)
+SpecCond_uScm,12555,Undisturbed,Gore Creek,14010003,2013,111.415,
+TKN_mgL,12555,Undisturbed,Gore Creek,14010003,2013,0.12,
+TN_mgL,12555,Undisturbed,Gore Creek,14010003,2013,0.2,TN (mg/L)
+TP_mgL,12555,Undisturbed,Gore Creek,14010003,2013,0.0082,TP (mg/L)
+WaterTemp_C,12555,Undisturbed,Gore Creek,14010003,2013,14.12,Water Temperature (C)
+pH,12555,Undisturbed,Gore Creek,14010003,2013,8.15,Phosphorus Response Ratio
+CatchmentArea_sqKm,12783B,Upstream,Roaring Fork River,14010004,2013,745.91712,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12783B,Upstream,Roaring Fork River,14010004,2013,23.2497996259685,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12783B,Upstream,Roaring Fork River,14010004,2013,47.4485706652418,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12783B,Upstream,Roaring Fork River,14010004,2013,31.8583260180909,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12783B,Upstream,Roaring Fork River,14010004,2013,20.8095874203275,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12783B,Upstream,Roaring Fork River,14010004,2013,8.225,DO (mg/L)
+Eco3ID,12783B,Upstream,Roaring Fork River,14010004,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12783B,Upstream,Roaring Fork River,14010004,2013,11010,
+Elev_MaxBasinwide_ft,12783B,Upstream,Roaring Fork River,14010004,2013,14300,
+Elev_MinBasinwide_ft,12783B,Upstream,Roaring Fork River,14010004,2013,7610,
+Elev_Outlet_ft,12783B,Upstream,Roaring Fork River,14010004,2013,7607,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12783B,Upstream,Roaring Fork River,14010004,2013,2510,
+Flow_7dayMin_10yr_cfs,12783B,Upstream,Roaring Fork River,14010004,2013,49.1,
+Flow_AnnualAvg_cfs,12783B,Upstream,Roaring Fork River,14010004,2013,274,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12783B,Upstream,Roaring Fork River,14010004,2013,4520,
+Flow_Peak_10yr_cfs,12783B,Upstream,Roaring Fork River,14010004,2013,3220,
+Lat,12783B,Upstream,Roaring Fork River,14010004,2013,39.21797,Latitude
+Long,12783B,Upstream,Roaring Fork River,14010004,2013,-106.854638,Longitude
+NH3_mgL,12783B,Upstream,Roaring Fork River,14010004,2013,0.00925,
+NO23_mgL,12783B,Upstream,Roaring Fork River,14010004,2013,0.0885,
+NRR,12783B,Upstream,Roaring Fork River,14010004,2013,1.10011842372793,Nitrogen Response Ratio
+PRR,12783B,Upstream,Roaring Fork River,14010004,2013,0.964757708278966,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12783B,Upstream,Roaring Fork River,14010004,2013,32.43,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12783B,Upstream,Roaring Fork River,14010004,2013,45,
+Slope_Streamflow_ftMi,12783B,Upstream,Roaring Fork River,14010004,2013,133.7,Slope (ft/mi)
+SpecCond_uScm,12783B,Upstream,Roaring Fork River,14010004,2013,282.45,
+TKN_mgL,12783B,Upstream,Roaring Fork River,14010004,2013,0.145,
+TN_mgL,12783B,Upstream,Roaring Fork River,14010004,2013,0.2335,TN (mg/L)
+TP_mgL,12783B,Upstream,Roaring Fork River,14010004,2013,0.00775,TP (mg/L)
+WaterTemp_C,12783B,Upstream,Roaring Fork River,14010004,2013,12.08,Water Temperature (C)
+pH,12783B,Upstream,Roaring Fork River,14010004,2013,7.98,Phosphorus Response Ratio
+CatchmentArea_sqKm,12786B,Undisturbed,Roaring Fork River,14010004,2013,240.86907,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12786B,Undisturbed,Roaring Fork River,14010004,2013,8.4729590473646,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12786B,Undisturbed,Roaring Fork River,14010004,2013,31.7227586733331,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12786B,Undisturbed,Roaring Fork River,14010004,2013,28.7402770886607,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12786B,Undisturbed,Roaring Fork River,14010004,2013,6.0327468417236,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12786B,Undisturbed,Roaring Fork River,14010004,2013,7.76,DO (mg/L)
+Eco3ID,12786B,Undisturbed,Roaring Fork River,14010004,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12786B,Undisturbed,Roaring Fork River,14010004,2013,11422,
+Elev_MaxBasinwide_ft,12786B,Undisturbed,Roaring Fork River,14010004,2013,14000,
+Elev_MinBasinwide_ft,12786B,Undisturbed,Roaring Fork River,14010004,2013,8080,
+Elev_Outlet_ft,12786B,Undisturbed,Roaring Fork River,14010004,2013,8078,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12786B,Undisturbed,Roaring Fork River,14010004,2013,783,
+Flow_7dayMin_10yr_cfs,12786B,Undisturbed,Roaring Fork River,14010004,2013,12.7,
+Flow_AnnualAvg_cfs,12786B,Undisturbed,Roaring Fork River,14010004,2013,83.3,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12786B,Undisturbed,Roaring Fork River,14010004,2013,1650,
+Flow_Peak_10yr_cfs,12786B,Undisturbed,Roaring Fork River,14010004,2013,1100,
+Lat,12786B,Undisturbed,Roaring Fork River,14010004,2013,39.1482,Latitude
+Long,12786B,Undisturbed,Roaring Fork River,14010004,2013,-106.7828,Longitude
+NH3_mgL,12786B,Undisturbed,Roaring Fork River,14010004,2013,0.01075,
+NO23_mgL,12786B,Undisturbed,Roaring Fork River,14010004,2013,0.025,
+NRR,12786B,Undisturbed,Roaring Fork River,14010004,2013,1.57159027648794,Nitrogen Response Ratio
+PRR,12786B,Undisturbed,Roaring Fork River,14010004,2013,0.841040489525398,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12786B,Undisturbed,Roaring Fork River,14010004,2013,28.91,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12786B,Undisturbed,Roaring Fork River,14010004,2013,43,
+Slope_Streamflow_ftMi,12786B,Undisturbed,Roaring Fork River,14010004,2013,173.3,Slope (ft/mi)
+SpecCond_uScm,12786B,Undisturbed,Roaring Fork River,14010004,2013,58,
+TKN_mgL,12786B,Undisturbed,Roaring Fork River,14010004,2013,0.15,
+TN_mgL,12786B,Undisturbed,Roaring Fork River,14010004,2013,0.175,TN (mg/L)
+TP_mgL,12786B,Undisturbed,Roaring Fork River,14010004,2013,0.0083,TP (mg/L)
+WaterTemp_C,12786B,Undisturbed,Roaring Fork River,14010004,2013,12.83,Water Temperature (C)
+pH,12786B,Undisturbed,Roaring Fork River,14010004,2013,7.705,Phosphorus Response Ratio
+CatchmentArea_sqKm,12805B,Downstream,Yampa River,14050001,2013,1642.05366,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12805B,Downstream,Yampa River,14050001,2013,246.732567459257,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12805B,Downstream,Yampa River,14050001,2013,236.395557421473,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12805B,Downstream,Yampa River,14050001,2013,208.773710927064,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12805B,Downstream,Yampa River,14050001,2013,116.248998129842,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12805B,Downstream,Yampa River,14050001,2013,13.74,DO (mg/L)
+Eco3ID,12805B,Downstream,Yampa River,14050001,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12805B,Downstream,Yampa River,14050001,2013,8688,
+Elev_MaxBasinwide_ft,12805B,Downstream,Yampa River,14050001,2013,12300,
+Elev_MinBasinwide_ft,12805B,Downstream,Yampa River,14050001,2013,6540,
+Elev_Outlet_ft,12805B,Downstream,Yampa River,14050001,2013,6545,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12805B,Downstream,Yampa River,14050001,2013,4700.52261785967,
+Flow_7dayMin_10yr_cfs,12805B,Downstream,Yampa River,14050001,2013,19.8093397522325,
+Flow_AnnualAvg_cfs,12805B,Downstream,Yampa River,14050001,2013,509.163079903615,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12805B,Downstream,Yampa River,14050001,2013,7340.45967240255,
+Flow_Peak_10yr_cfs,12805B,Downstream,Yampa River,14050001,2013,5031.16381142452,
+Lat,12805B,Downstream,Yampa River,14050001,2013,40.491508,Latitude
+Long,12805B,Downstream,Yampa River,14050001,2013,-106.94801,Longitude
+NH3_mgL,12805B,Downstream,Yampa River,14050001,2013,0.019,
+NO23_mgL,12805B,Downstream,Yampa River,14050001,2013,0.195,
+NRR,12805B,Downstream,Yampa River,14050001,2013,0.969672325000604,Nitrogen Response Ratio
+PRR,12805B,Downstream,Yampa River,14050001,2013,0.863375285625725,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12805B,Downstream,Yampa River,14050001,2013,31.52,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12805B,Downstream,Yampa River,14050001,2013,21,
+Slope_Streamflow_ftMi,12805B,Downstream,Yampa River,14050001,2013,49.8,Slope (ft/mi)
+SpecCond_uScm,12805B,Downstream,Yampa River,14050001,2013,305.85,
+TKN_mgL,12805B,Downstream,Yampa River,14050001,2013,0.53,
+TN_mgL,12805B,Downstream,Yampa River,14050001,2013,0.725,TN (mg/L)
+TP_mgL,12805B,Downstream,Yampa River,14050001,2013,0.14,TP (mg/L)
+WaterTemp_C,12805B,Downstream,Yampa River,14050001,2013,22.16,Water Temperature (C)
+pH,12805B,Downstream,Yampa River,14050001,2013,9.095,Phosphorus Response Ratio
+CatchmentArea_sqKm,12809,,Yampa River,14050001,2013,538.71792,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12809,,Yampa River,14050001,2013,47.6519216823786,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12809,,Yampa River,14050001,2013,181.321323613603,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12809,,Yampa River,14050001,2013,104.217396282585,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12809,,Yampa River,14050001,2013,51.2614022365559,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12809,,Yampa River,14050001,2013,10.55,DO (mg/L)
+Eco3ID,12809,,Yampa River,14050001,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12809,,Yampa River,14050001,2013,8994,
+Elev_MaxBasinwide_ft,12809,,Yampa River,14050001,2013,12300,
+Elev_MinBasinwide_ft,12809,,Yampa River,14050001,2013,7200,
+Elev_Outlet_ft,12809,,Yampa River,14050001,2013,7195,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12809,,Yampa River,14050001,2013,1530.45425917979,
+Flow_7dayMin_10yr_cfs,12809,,Yampa River,14050001,2013,5.88408203457351,
+Flow_AnnualAvg_cfs,12809,,Yampa River,14050001,2013,165.818926132544,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12809,,Yampa River,14050001,2013,2642.27129589895,
+Flow_Peak_10yr_cfs,12809,,Yampa River,14050001,2013,1785.0031490223,
+Lat,12809,,Yampa River,14050001,2013,40.26933,Latitude
+Long,12809,,Yampa River,14050001,2013,-106.88116,Longitude
+NH3_mgL,12809,,Yampa River,14050001,2013,0.01125,
+NO23_mgL,12809,,Yampa River,14050001,2013,0.025,
+NRR,12809,,Yampa River,14050001,2013,1.20252891071965,Nitrogen Response Ratio
+PRR,12809,,Yampa River,14050001,2013,1.01889662871657,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12809,,Yampa River,14050001,2013,28.67,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12809,,Yampa River,14050001,2013,18,
+Slope_Streamflow_ftMi,12809,,Yampa River,14050001,2013,99,Slope (ft/mi)
+SpecCond_uScm,12809,,Yampa River,14050001,2013,407.25,
+TKN_mgL,12809,,Yampa River,14050001,2013,0.435,
+TN_mgL,12809,,Yampa River,14050001,2013,0.46,TN (mg/L)
+TP_mgL,12809,,Yampa River,14050001,2013,0.0775,TP (mg/L)
+WaterTemp_C,12809,,Yampa River,14050001,2013,17.285,Water Temperature (C)
+pH,12809,,Yampa River,14050001,2013,8.33,Phosphorus Response Ratio
+CatchmentArea_sqKm,12811,Upstream,Yampa River,14050001,2013,1064.48589,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12811,Upstream,Yampa River,14050001,2013,52.4306705850922,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12811,Upstream,Yampa River,14050001,2013,157.597038280982,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12811,Upstream,Yampa River,14050001,2013,116.113430785085,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12811,Upstream,Yampa River,14050001,2013,36.1286973779627,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12811,Upstream,Yampa River,14050001,2013,10.815,DO (mg/L)
+Eco3ID,12811,Upstream,Yampa River,14050001,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12811,Upstream,Yampa River,14050001,2013,8862,
+Elev_MaxBasinwide_ft,12811,Upstream,Yampa River,14050001,2013,12300,
+Elev_MinBasinwide_ft,12811,Upstream,Yampa River,14050001,2013,6800,
+Elev_Outlet_ft,12811,Upstream,Yampa River,14050001,2013,6804,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12811,Upstream,Yampa River,14050001,2013,2966.45900134816,
+Flow_7dayMin_10yr_cfs,12811,Upstream,Yampa River,14050001,2013,12.9119674764073,
+Flow_AnnualAvg_cfs,12811,Upstream,Yampa River,14050001,2013,319.490580634905,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12811,Upstream,Yampa River,14050001,2013,4811.14750337039,
+Flow_Peak_10yr_cfs,12811,Upstream,Yampa River,14050001,2013,3295.02462213517,
+Lat,12811,Upstream,Yampa River,14050001,2013,40.39889,Latitude
+Long,12811,Upstream,Yampa River,14050001,2013,-106.83417,Longitude
+NH3_mgL,12811,Upstream,Yampa River,14050001,2013,0.0141,
+NO23_mgL,12811,Upstream,Yampa River,14050001,2013,0.025,
+NRR,12811,Upstream,Yampa River,14050001,2013,1.20080249718936,Nitrogen Response Ratio
+PRR,12811,Upstream,Yampa River,14050001,2013,0.905946452064946,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12811,Upstream,Yampa River,14050001,2013,29.97,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12811,Upstream,Yampa River,14050001,2013,21,
+Slope_Streamflow_ftMi,12811,Upstream,Yampa River,14050001,2013,65.1,Slope (ft/mi)
+SpecCond_uScm,12811,Upstream,Yampa River,14050001,2013,241.55,
+TKN_mgL,12811,Upstream,Yampa River,14050001,2013,0.47,
+TN_mgL,12811,Upstream,Yampa River,14050001,2013,0.495,TN (mg/L)
+TP_mgL,12811,Upstream,Yampa River,14050001,2013,0.0565,TP (mg/L)
+WaterTemp_C,12811,Upstream,Yampa River,14050001,2013,21.055,Water Temperature (C)
+pH,12811,Upstream,Yampa River,14050001,2013,9.04,Phosphorus Response Ratio
+CatchmentArea_sqKm,12815,Undisturbed,Yampa River,14050001,2013,261.58899,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12815,Undisturbed,Yampa River,14050001,2013,37.5521544979199,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12815,Undisturbed,Yampa River,14050001,2013,106.928743177741,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12815,Undisturbed,Yampa River,14050001,2013,78.7985191404908,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12815,Undisturbed,Yampa River,14050001,2013,30.5026525705126,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12815,Undisturbed,Yampa River,14050001,2013,8.87,DO (mg/L)
+Eco3ID,12815,Undisturbed,Yampa River,14050001,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12815,Undisturbed,Yampa River,14050001,2013,9460,
+Elev_MaxBasinwide_ft,12815,Undisturbed,Yampa River,14050001,2013,12300,
+Elev_MinBasinwide_ft,12815,Undisturbed,Yampa River,14050001,2013,7670,
+Elev_Outlet_ft,12815,Undisturbed,Yampa River,14050001,2013,7673,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12815,Undisturbed,Yampa River,14050001,2013,1040,
+Flow_7dayMin_10yr_cfs,12815,Undisturbed,Yampa River,14050001,2013,4.74,
+Flow_AnnualAvg_cfs,12815,Undisturbed,Yampa River,14050001,2013,110,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12815,Undisturbed,Yampa River,14050001,2013,1820,
+Flow_Peak_10yr_cfs,12815,Undisturbed,Yampa River,14050001,2013,1280,
+Lat,12815,Undisturbed,Yampa River,14050001,2013,40.183,Latitude
+Long,12815,Undisturbed,Yampa River,14050001,2013,-106.91533,Longitude
+NH3_mgL,12815,Undisturbed,Yampa River,14050001,2013,0.014,
+NO23_mgL,12815,Undisturbed,Yampa River,14050001,2013,0.025,
+NRR,12815,Undisturbed,Yampa River,14050001,2013,1.2044176749836,Nitrogen Response Ratio
+PRR,12815,Undisturbed,Yampa River,14050001,2013,0.94265511751213,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12815,Undisturbed,Yampa River,14050001,2013,32.53,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12815,Undisturbed,Yampa River,14050001,2013,18,
+Slope_Streamflow_ftMi,12815,Undisturbed,Yampa River,14050001,2013,130.9,Slope (ft/mi)
+SpecCond_uScm,12815,Undisturbed,Yampa River,14050001,2013,315.35,
+TKN_mgL,12815,Undisturbed,Yampa River,14050001,2013,0.375,
+TN_mgL,12815,Undisturbed,Yampa River,14050001,2013,0.4,TN (mg/L)
+TP_mgL,12815,Undisturbed,Yampa River,14050001,2013,0.087,TP (mg/L)
+WaterTemp_C,12815,Undisturbed,Yampa River,14050001,2013,13.745,Water Temperature (C)
+pH,12815,Undisturbed,Yampa River,14050001,2013,7.995,Phosphorus Response Ratio
+CatchmentArea_sqKm,12940,Downstream,Michigan River,10180001,2013,473.96817,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12940,Downstream,Michigan River,10180001,2013,62.4287622609824,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12940,Downstream,Michigan River,10180001,2013,117.265753215526,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12940,Downstream,Michigan River,10180001,2013,124.213579634365,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12940,Downstream,Michigan River,10180001,2013,32.4005953971222,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12940,Downstream,Michigan River,10180001,2013,9.82,DO (mg/L)
+Eco3ID,12940,Downstream,Michigan River,10180001,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12940,Downstream,Michigan River,10180001,2013,9270,
+Elev_MaxBasinwide_ft,12940,Downstream,Michigan River,10180001,2013,12900,
+Elev_MinBasinwide_ft,12940,Downstream,Michigan River,10180001,2013,8030,
+Elev_Outlet_ft,12940,Downstream,Michigan River,10180001,2013,8030,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12940,Downstream,Michigan River,10180001,2013,1020,
+Flow_7dayMin_10yr_cfs,12940,Downstream,Michigan River,10180001,2013,4.31,
+Flow_AnnualAvg_cfs,12940,Downstream,Michigan River,10180001,2013,112,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12940,Downstream,Michigan River,10180001,2013,1880,
+Flow_Peak_10yr_cfs,12940,Downstream,Michigan River,10180001,2013,1200,
+Lat,12940,Downstream,Michigan River,10180001,2013,40.745373,Latitude
+Long,12940,Downstream,Michigan River,10180001,2013,-106.29673,Longitude
+NH3_mgL,12940,Downstream,Michigan River,10180001,2013,0.01415,
+NO23_mgL,12940,Downstream,Michigan River,10180001,2013,0.0625,
+NRR,12940,Downstream,Michigan River,10180001,2013,1.16641801004391,Nitrogen Response Ratio
+PRR,12940,Downstream,Michigan River,10180001,2013,0.841353371399354,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12940,Downstream,Michigan River,10180001,2013,24.27,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12940,Downstream,Michigan River,10180001,2013,16,
+Slope_Streamflow_ftMi,12940,Downstream,Michigan River,10180001,2013,30.3,Slope (ft/mi)
+SpecCond_uScm,12940,Downstream,Michigan River,10180001,2013,185.25,
+TKN_mgL,12940,Downstream,Michigan River,10180001,2013,0.43,
+TN_mgL,12940,Downstream,Michigan River,10180001,2013,0.4925,TN (mg/L)
+TP_mgL,12940,Downstream,Michigan River,10180001,2013,0.056,TP (mg/L)
+WaterTemp_C,12940,Downstream,Michigan River,10180001,2013,18.115,Water Temperature (C)
+pH,12940,Downstream,Michigan River,10180001,2013,8.16,Phosphorus Response Ratio
+CatchmentArea_sqKm,12946,Undisturbed,Michigan River,10180001,2013,155.917398,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,12946,Undisturbed,Michigan River,10180001,2013,6.16831418648143,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,12946,Undisturbed,Michigan River,10180001,2013,71.1050723254838,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,12946,Undisturbed,Michigan River,10180001,2013,61.8864928819511,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,12946,Undisturbed,Michigan River,10180001,2013,8.0662570130911,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,12946,Undisturbed,Michigan River,10180001,2013,8.055,DO (mg/L)
+Eco3ID,12946,Undisturbed,Michigan River,10180001,2013,21,Ecoregion
+Elev_AvgBasinwide_ft,12946,Undisturbed,Michigan River,10180001,2013,10175,
+Elev_MaxBasinwide_ft,12946,Undisturbed,Michigan River,10180001,2013,12900,
+Elev_MinBasinwide_ft,12946,Undisturbed,Michigan River,10180001,2013,8750,
+Elev_Outlet_ft,12946,Undisturbed,Michigan River,10180001,2013,8745,Elevation (ft)
+Flow_7dayMax_10yr_cfs,12946,Undisturbed,Michigan River,10180001,2013,725,
+Flow_7dayMin_10yr_cfs,12946,Undisturbed,Michigan River,10180001,2013,4.76,
+Flow_AnnualAvg_cfs,12946,Undisturbed,Michigan River,10180001,2013,75.2,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,12946,Undisturbed,Michigan River,10180001,2013,1410,
+Flow_Peak_10yr_cfs,12946,Undisturbed,Michigan River,10180001,2013,994,
+Lat,12946,Undisturbed,Michigan River,10180001,2013,40.55343,Latitude
+Long,12946,Undisturbed,Michigan River,10180001,2013,-106.04337,Longitude
+NH3_mgL,12946,Undisturbed,Michigan River,10180001,2013,0.00875,
+NO23_mgL,12946,Undisturbed,Michigan River,10180001,2013,0.025,
+NRR,12946,Undisturbed,Michigan River,10180001,2013,2.26736504540694,Nitrogen Response Ratio
+PRR,12946,Undisturbed,Michigan River,10180001,2013,1.14744433108975,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,12946,Undisturbed,Michigan River,10180001,2013,34.06,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,12946,Undisturbed,Michigan River,10180001,2013,30,
+Slope_Streamflow_ftMi,12946,Undisturbed,Michigan River,10180001,2013,103.8,Slope (ft/mi)
+SpecCond_uScm,12946,Undisturbed,Michigan River,10180001,2013,125.1,
+TKN_mgL,12946,Undisturbed,Michigan River,10180001,2013,0.22,
+TN_mgL,12946,Undisturbed,Michigan River,10180001,2013,0.245,TN (mg/L)
+TP_mgL,12946,Undisturbed,Michigan River,10180001,2013,0.01565,TP (mg/L)
+WaterTemp_C,12946,Undisturbed,Michigan River,10180001,2013,16.12,Water Temperature (C)
+pH,12946,Undisturbed,Michigan River,10180001,2013,7.565,Phosphorus Response Ratio
+CanOpen_frac,138A,,Florida River,14080104,2014,0.0137718537180401,Canopy Openness
+CatchmentArea_sqKm,138A,,Florida River,14080104,2014,135.974475,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,138A,,Florida River,14080104,2014,10.3370100377848,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,138A,,Florida River,14080104,2014,31.6888668371436,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,138A,,Florida River,14080104,2014,44.1610625548643,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,138A,,Florida River,14080104,2014,3.66031830846151,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,138A,,Florida River,14080104,2014,7.31,DO (mg/L)
+Eco3ID,138A,,Florida River,14080104,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,138A,,Florida River,14080104,2014,10949,
+Elev_MaxBasinwide_ft,138A,,Florida River,14080104,2014,13300,
+Elev_MinBasinwide_ft,138A,,Florida River,14080104,2014,8130,
+Elev_Outlet_ft,138A,,Florida River,14080104,2014,8137,Elevation (ft)
+Flow_7dayMax_10yr_cfs,138A,,Florida River,14080104,2014,585,
+Flow_7dayMin_10yr_cfs,138A,,Florida River,14080104,2014,5.37,
+Flow_AnnualAvg_cfs,138A,,Florida River,14080104,2014,78.4,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,138A,,Florida River,14080104,2014,1830,
+Flow_Peak_10yr_cfs,138A,,Florida River,14080104,2014,888,
+Lat,138A,,Florida River,14080104,2014,37.4277,Latitude
+Long,138A,,Florida River,14080104,2014,-107.6752,Longitude
+NH3_mgL,138A,,Florida River,14080104,2014,0.00825,
+NO23_mgL,138A,,Florida River,14080104,2014,0.025,
+NRR,138A,,Florida River,14080104,2014,1.62169531091237,Nitrogen Response Ratio
+PRR,138A,,Florida River,14080104,2014,0.555522147271106,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,138A,,Florida River,14080104,2014,37.74,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,138A,,Florida River,14080104,2014,33,
+Slope_Streamflow_ftMi,138A,,Florida River,14080104,2014,258.8,Slope (ft/mi)
+SpecCond_uScm,138A,,Florida River,14080104,2014,111.395,
+TN_mgL,138A,,Florida River,14080104,2014,0.152,TN (mg/L)
+TP_mgL,138A,,Florida River,14080104,2014,0.0015,TP (mg/L)
+WaterTemp_C,138A,,Florida River,14080104,2014,15.65,Water Temperature (C)
+pH,138A,,Florida River,14080104,2014,8.4,Phosphorus Response Ratio
+CatchmentArea_sqKm,5574,,Boulder Creek,10190005,2012,802.8969,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,5574,,Boulder Creek,10190005,2012,139.389743825257,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,5574,,Boulder Creek,10190005,2012,67.1888468098628,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,5574,,Boulder Creek,10190005,2012,129.915562462149,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,5574,,Boulder Creek,10190005,2012,75.9377563406667,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,5574,,Boulder Creek,10190005,2012,8.115,DO (mg/L)
+Eco3ID,5574,,Boulder Creek,10190005,2012,25,Ecoregion
+Elev_AvgBasinwide_ft,5574,,Boulder Creek,10190005,2012,8372,
+Elev_MaxBasinwide_ft,5574,,Boulder Creek,10190005,2012,13500,
+Elev_MinBasinwide_ft,5574,,Boulder Creek,10190005,2012,5070,
+Elev_Outlet_ft,5574,,Boulder Creek,10190005,2012,5068,Elevation (ft)
+Flow_7dayMax_10yr_cfs,5574,,Boulder Creek,10190005,2012,1670,
+Flow_7dayMin_10yr_cfs,5574,,Boulder Creek,10190005,2012,4.11,
+Flow_AnnualAvg_cfs,5574,,Boulder Creek,10190005,2012,186,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,5574,,Boulder Creek,10190005,2012,5176.36688516958,
+Flow_Peak_10yr_cfs,5574,,Boulder Creek,10190005,2012,2398.54000775566,
+Lat,5574,,Boulder Creek,10190005,2012,40.049793,Latitude
+Long,5574,,Boulder Creek,10190005,2012,-105.145877,Longitude
+NH3_mgL,5574,,Boulder Creek,10190005,2012,0.036,
+NO23_mgL,5574,,Boulder Creek,10190005,2012,2.8,
+NRR,5574,,Boulder Creek,10190005,2012,0.985743306301891,Nitrogen Response Ratio
+PRR,5574,,Boulder Creek,10190005,2012,0.876984764809485,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,5574,,Boulder Creek,10190005,2012,24.86,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,5574,,Boulder Creek,10190005,2012,28,
+Slope_Streamflow_ftMi,5574,,Boulder Creek,10190005,2012,104.6,Slope (ft/mi)
+SpecCond_uScm,5574,,Boulder Creek,10190005,2012,254.95,
+TKN_mgL,5574,,Boulder Creek,10190005,2012,0.655,
+TN_mgL,5574,,Boulder Creek,10190005,2012,3.455,TN (mg/L)
+TP_mgL,5574,,Boulder Creek,10190005,2012,0.94,TP (mg/L)
+WaterTemp_C,5574,,Boulder Creek,10190005,2012,21.86,Water Temperature (C)
+pH,5574,,Boulder Creek,10190005,2012,7.885,Phosphorus Response Ratio
+CatchmentArea_sqKm,5577,,Boulder Creek,10190005,2012,393.67848,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,5577,,Boulder Creek,10190005,2012,68.2604681080226,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,5577,,Boulder Creek,10190005,2012,111.454913059236,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,5577,,Boulder Creek,10190005,2012,101.894505372979,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,5577,,Boulder Creek,10190005,2012,66.2799079193193,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,5577,,Boulder Creek,10190005,2012,7.985,DO (mg/L)
+Eco3ID,5577,,Boulder Creek,10190005,2012,25,Ecoregion
+Elev_AvgBasinwide_ft,5577,,Boulder Creek,10190005,2012,8658,
+Elev_MaxBasinwide_ft,5577,,Boulder Creek,10190005,2012,13500,
+Elev_MinBasinwide_ft,5577,,Boulder Creek,10190005,2012,5190,
+Elev_Outlet_ft,5577,,Boulder Creek,10190005,2012,5193,Elevation (ft)
+Flow_7dayMax_10yr_cfs,5577,,Boulder Creek,10190005,2012,989,
+Flow_7dayMin_10yr_cfs,5577,,Boulder Creek,10190005,2012,2.48,
+Flow_AnnualAvg_cfs,5577,,Boulder Creek,10190005,2012,108,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,5577,,Boulder Creek,10190005,2012,2824.79195010141,
+Flow_Peak_10yr_cfs,5577,,Boulder Creek,10190005,2012,1405.95183628843,
+Lat,5577,,Boulder Creek,10190005,2012,40.027139,Latitude
+Long,5577,,Boulder Creek,10190005,2012,-105.224334,Longitude
+NH3_mgL,5577,,Boulder Creek,10190005,2012,0.021,
+NO23_mgL,5577,,Boulder Creek,10190005,2012,0.19,
+NRR,5577,,Boulder Creek,10190005,2012,1.09485575123091,Nitrogen Response Ratio
+PRR,5577,,Boulder Creek,10190005,2012,0.993028252042623,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,5577,,Boulder Creek,10190005,2012,26.05,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,5577,,Boulder Creek,10190005,2012,31,
+Slope_Streamflow_ftMi,5577,,Boulder Creek,10190005,2012,167.1,Slope (ft/mi)
+SpecCond_uScm,5577,,Boulder Creek,10190005,2012,201.3,
+TKN_mgL,5577,,Boulder Creek,10190005,2012,0.225,
+TN_mgL,5577,,Boulder Creek,10190005,2012,0.44,TN (mg/L)
+TP_mgL,5577,,Boulder Creek,10190005,2012,0.017,TP (mg/L)
+WaterTemp_C,5577,,Boulder Creek,10190005,2012,17.895,Water Temperature (C)
+pH,5577,,Boulder Creek,10190005,2012,7.805,Phosphorus Response Ratio
+CatchmentArea_sqKm,5580,,Boulder Creek,10190005,2012,106.707588,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,5580,,Boulder Creek,10190005,2012,28.2163041191631,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,5580,,Boulder Creek,10190005,2012,47.599768835834,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,5580,,Boulder Creek,10190005,2012,34.8546955979983,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,5580,,Boulder Creek,10190005,2012,12.3822493405777,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,5580,,Boulder Creek,10190005,2012,7.88,DO (mg/L)
+Eco3ID,5580,,Boulder Creek,10190005,2012,21,Ecoregion
+Elev_AvgBasinwide_ft,5580,,Boulder Creek,10190005,2012,10122,
+Elev_MaxBasinwide_ft,5580,,Boulder Creek,10190005,2012,13400,
+Elev_MinBasinwide_ft,5580,,Boulder Creek,10190005,2012,7750,
+Elev_Outlet_ft,5580,,Boulder Creek,10190005,2012,7749,Elevation (ft)
+Flow_7dayMax_10yr_cfs,5580,,Boulder Creek,10190005,2012,462,
+Flow_7dayMin_10yr_cfs,5580,,Boulder Creek,10190005,2012,2.48,
+Flow_AnnualAvg_cfs,5580,,Boulder Creek,10190005,2012,47.7,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,5580,,Boulder Creek,10190005,2012,983,
+Flow_Peak_10yr_cfs,5580,,Boulder Creek,10190005,2012,668,
+Lat,5580,,Boulder Creek,10190005,2012,39.980605,Latitude
+Long,5580,,Boulder Creek,10190005,2012,-105.454816,Longitude
+NH3_mgL,5580,,Boulder Creek,10190005,2012,0.011,
+NO23_mgL,5580,,Boulder Creek,10190005,2012,0.1,
+NRR,5580,,Boulder Creek,10190005,2012,1.06326174323115,Nitrogen Response Ratio
+PRR,5580,,Boulder Creek,10190005,2012,0.753395001044693,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,5580,,Boulder Creek,10190005,2012,31.72,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,5580,,Boulder Creek,10190005,2012,34,
+Slope_Streamflow_ftMi,5580,,Boulder Creek,10190005,2012,190.4,Slope (ft/mi)
+SpecCond_uScm,5580,,Boulder Creek,10190005,2012,53.985,
+TKN_mgL,5580,,Boulder Creek,10190005,2012,0.05,
+TN_mgL,5580,,Boulder Creek,10190005,2012,0.2,TN (mg/L)
+TP_mgL,5580,,Boulder Creek,10190005,2012,0.0092,TP (mg/L)
+WaterTemp_C,5580,,Boulder Creek,10190005,2012,12.88,Water Temperature (C)
+pH,5580,,Boulder Creek,10190005,2012,7.51,Phosphorus Response Ratio
+CanOpen_frac,9240,,First Fork,14080102,2014,0.00554013109387537,Canopy Openness
+CatchmentArea_sqKm,9240,,First Fork,14080102,2014,142.967448,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,9240,,First Fork,14080102,2014,10.1675508568375,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,9240,,First Fork,14080102,2014,16.6069997328346,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,9240,,First Fork,14080102,2014,25.6900118316095,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,9240,,First Fork,14080102,2014,12.7433304072364,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,9240,,First Fork,14080102,2014,7.765,DO (mg/L)
+Eco3ID,9240,,First Fork,14080102,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,9240,,First Fork,14080102,2014,9325,
+Elev_MaxBasinwide_ft,9240,,First Fork,14080102,2014,12500,
+Elev_MinBasinwide_ft,9240,,First Fork,14080102,2014,7080,
+Elev_Outlet_ft,9240,,First Fork,14080102,2014,7083,Elevation (ft)
+Flow_7dayMax_10yr_cfs,9240,,First Fork,14080102,2014,371,
+Flow_7dayMin_10yr_cfs,9240,,First Fork,14080102,2014,2.29,
+Flow_AnnualAvg_cfs,9240,,First Fork,14080102,2014,44.5,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,9240,,First Fork,14080102,2014,1900,
+Flow_Peak_10yr_cfs,9240,,First Fork,14080102,2014,920,
+Lat,9240,,First Fork,14080102,2014,37.35503,Latitude
+Long,9240,,First Fork,14080102,2014,-107.325398,Longitude
+NH3_mgL,9240,,First Fork,14080102,2014,0.016,
+NO23_mgL,9240,,First Fork,14080102,2014,0.025,
+NRR,9240,,First Fork,14080102,2014,1.39966383544676,Nitrogen Response Ratio
+PRR,9240,,First Fork,14080102,2014,1.09736397734203,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,9240,,First Fork,14080102,2014,30.73,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,9240,,First Fork,14080102,2014,30,
+Slope_Streamflow_ftMi,9240,,First Fork,14080102,2014,296.6,Slope (ft/mi)
+SpecCond_uScm,9240,,First Fork,14080102,2014,417.15,
+TN_mgL,9240,,First Fork,14080102,2014,0.176,TN (mg/L)
+TP_mgL,9240,,First Fork,14080102,2014,0.011,TP (mg/L)
+WaterTemp_C,9240,,First Fork,14080102,2014,14.36,Water Temperature (C)
+pH,9240,,First Fork,14080102,2014,8.325,Phosphorus Response Ratio
+CanOpen_frac,9245,,Stollsteimer Creek,14080102,2014,0.114736869687467,Canopy Openness
+CatchmentArea_sqKm,9245,,Stollsteimer Creek,14080102,2014,277.12893,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,9245,,Stollsteimer Creek,14080102,2014,54.7014236097859,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,9245,,Stollsteimer Creek,14080102,2014,15.1835426128774,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,9245,,Stollsteimer Creek,14080102,2014,21.216289454601,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,9245,,Stollsteimer Creek,14080102,2014,9.55749780542727,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,9245,,Stollsteimer Creek,14080102,2014,6.525,DO (mg/L)
+Eco3ID,9245,,Stollsteimer Creek,14080102,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,9245,,Stollsteimer Creek,14080102,2014,7591,
+Elev_MaxBasinwide_ft,9245,,Stollsteimer Creek,14080102,2014,11000,
+Elev_MinBasinwide_ft,9245,,Stollsteimer Creek,14080102,2014,6530,
+Elev_Outlet_ft,9245,,Stollsteimer Creek,14080102,2014,6531,Elevation (ft)
+Flow_7dayMax_10yr_cfs,9245,,Stollsteimer Creek,14080102,2014,324,
+Flow_7dayMin_10yr_cfs,9245,,Stollsteimer Creek,14080102,2014,1.29,
+Flow_AnnualAvg_cfs,9245,,Stollsteimer Creek,14080102,2014,32.4,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,9245,,Stollsteimer Creek,14080102,2014,3360,
+Flow_Peak_10yr_cfs,9245,,Stollsteimer Creek,14080102,2014,1560,
+Lat,9245,,Stollsteimer Creek,14080102,2014,37.172523,Latitude
+Long,9245,,Stollsteimer Creek,14080102,2014,-107.295287,Longitude
+NH3_mgL,9245,,Stollsteimer Creek,14080102,2014,0.0765,
+NO23_mgL,9245,,Stollsteimer Creek,14080102,2014,0.765,
+NRR,9245,,Stollsteimer Creek,14080102,2014,0.763331690656295,Nitrogen Response Ratio
+PRR,9245,,Stollsteimer Creek,14080102,2014,0.564065005916062,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,9245,,Stollsteimer Creek,14080102,2014,22.56,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,9245,,Stollsteimer Creek,14080102,2014,18,
+Slope_Streamflow_ftMi,9245,,Stollsteimer Creek,14080102,2014,60.6,Slope (ft/mi)
+SpecCond_uScm,9245,,Stollsteimer Creek,14080102,2014,619.3,
+TN_mgL,9245,,Stollsteimer Creek,14080102,2014,0.9985,TN (mg/L)
+TP_mgL,9245,,Stollsteimer Creek,14080102,2014,0.665,TP (mg/L)
+WaterTemp_C,9245,,Stollsteimer Creek,14080102,2014,17.59,Water Temperature (C)
+pH,9245,,Stollsteimer Creek,14080102,2014,8.015,Phosphorus Response Ratio
+CanOpen_frac,9274,,Williams Creek,14080102,2014,0.999762138677405,Canopy Openness
+CatchmentArea_sqKm,9274,,Williams Creek,14080102,2014,116.808549,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,9274,,Williams Creek,14080102,2014,30.2767069959162,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,9274,,Williams Creek,14080102,2014,69.9866417312316,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,9274,,Williams Creek,14080102,2014,120.587153162093,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,9274,,Williams Creek,14080102,2014,12.1163314377314,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,9274,,Williams Creek,14080102,2014,6.48,DO (mg/L)
+Eco3ID,9274,,Williams Creek,14080102,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,9274,,Williams Creek,14080102,2014,9853,
+Elev_MaxBasinwide_ft,9274,,Williams Creek,14080102,2014,12700,
+Elev_MinBasinwide_ft,9274,,Williams Creek,14080102,2014,7780,
+Elev_Outlet_ft,9274,,Williams Creek,14080102,2014,7778,Elevation (ft)
+Flow_7dayMax_10yr_cfs,9274,,Williams Creek,14080102,2014,373,
+Flow_7dayMin_10yr_cfs,9274,,Williams Creek,14080102,2014,2.59,
+Flow_AnnualAvg_cfs,9274,,Williams Creek,14080102,2014,46.8,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,9274,,Williams Creek,14080102,2014,1680,
+Flow_Peak_10yr_cfs,9274,,Williams Creek,14080102,2014,809,
+Lat,9274,,Williams Creek,14080102,2014,37.455877,Latitude
+Long,9274,,Williams Creek,14080102,2014,-107.198972,Longitude
+NH3_mgL,9274,,Williams Creek,14080102,2014,0.021,
+NO23_mgL,9274,,Williams Creek,14080102,2014,0.025,
+NRR,9274,,Williams Creek,14080102,2014,1.40523185744554,Nitrogen Response Ratio
+PRR,9274,,Williams Creek,14080102,2014,0.731459608715735,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,9274,,Williams Creek,14080102,2014,33.26,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,9274,,Williams Creek,14080102,2014,40,
+Slope_Streamflow_ftMi,9274,,Williams Creek,14080102,2014,158.2,Slope (ft/mi)
+SpecCond_uScm,9274,,Williams Creek,14080102,2014,64.21,
+TN_mgL,9274,,Williams Creek,14080102,2014,0.1875,TN (mg/L)
+TP_mgL,9274,,Williams Creek,14080102,2014,0.0465,TP (mg/L)
+WaterTemp_C,9274,,Williams Creek,14080102,2014,22.175,Water Temperature (C)
+pH,9274,,Williams Creek,14080102,2014,8.715,Phosphorus Response Ratio
+CanOpen_frac,9372,,Vallecito Creek,14080101,2014,0.0410997094479302,Canopy Openness
+CatchmentArea_sqKm,9372,,Vallecito Creek,14080101,2014,208.494195,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,9372,,Vallecito Creek,14080101,2014,37.4504789893516,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,9372,,Vallecito Creek,14080101,2014,40.1618258845082,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,9372,,Vallecito Creek,14080101,2014,42.7037135987176,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,9372,,Vallecito Creek,14080101,2014,21.5778023739552,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,9372,,Vallecito Creek,14080101,2014,7.465,DO (mg/L)
+Eco3ID,9372,,Vallecito Creek,14080101,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,9372,,Vallecito Creek,14080101,2014,11267,
+Elev_MaxBasinwide_ft,9372,,Vallecito Creek,14080101,2014,14100,
+Elev_MinBasinwide_ft,9372,,Vallecito Creek,14080101,2014,7880,
+Elev_Outlet_ft,9372,,Vallecito Creek,14080101,2014,7877,Elevation (ft)
+Flow_7dayMax_10yr_cfs,9372,,Vallecito Creek,14080101,2014,957,
+Flow_7dayMin_10yr_cfs,9372,,Vallecito Creek,14080101,2014,9.57,
+Flow_AnnualAvg_cfs,9372,,Vallecito Creek,14080101,2014,130,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,9372,,Vallecito Creek,14080101,2014,2360,
+Flow_Peak_10yr_cfs,9372,,Vallecito Creek,14080101,2014,1150,
+Lat,9372,,Vallecito Creek,14080101,2014,37.473985,Latitude
+Long,9372,,Vallecito Creek,14080101,2014,-107.546542,Longitude
+NH3_mgL,9372,,Vallecito Creek,14080101,2014,0.014,
+NO23_mgL,9372,,Vallecito Creek,14080101,2014,0.0955,
+NRR,9372,,Vallecito Creek,14080101,2014,1.03623121156103,Nitrogen Response Ratio
+PRR,9372,,Vallecito Creek,14080101,2014,0.847819096314088,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,9372,,Vallecito Creek,14080101,2014,39.25,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,9372,,Vallecito Creek,14080101,2014,57,
+Slope_Streamflow_ftMi,9372,,Vallecito Creek,14080101,2014,193.9,Slope (ft/mi)
+SpecCond_uScm,9372,,Vallecito Creek,14080101,2014,45.59,
+TN_mgL,9372,,Vallecito Creek,14080101,2014,0.1905,TN (mg/L)
+TP_mgL,9372,,Vallecito Creek,14080101,2014,0.01035,TP (mg/L)
+WaterTemp_C,9372,,Vallecito Creek,14080101,2014,13.1,Water Temperature (C)
+pH,9372,,Vallecito Creek,14080101,2014,7.7,Phosphorus Response Ratio
+CanOpen_frac,9717,,Mancos River,14080107,2014,0.115413050735611,Canopy Openness
+CatchmentArea_sqKm,9717,,Mancos River,14080107,2014,297.84885,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,9717,,Mancos River,14080107,2014,57.0060684706691,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,9717,,Mancos River,14080107,2014,181.321323613603,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,9717,,Mancos River,14080107,2014,175.2207930995,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,9717,,Mancos River,14080107,2014,18.1999160337392,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,9717,,Mancos River,14080107,2014,7.995,DO (mg/L)
+Eco3ID,9717,,Mancos River,14080107,2014,20,Ecoregion
+Elev_AvgBasinwide_ft,9717,,Mancos River,14080107,2014,8793,
+Elev_Outlet_ft,9717,,Mancos River,14080107,2014,6595,Elevation (ft)
+Flow_7dayMax_10yr_cfs,9717,,Mancos River,14080107,2014,581,
+Flow_7dayMin_10yr_cfs,9717,,Mancos River,14080107,2014,3.26,
+Flow_AnnualAvg_cfs,9717,,Mancos River,14080107,2014,65.1,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,9717,,Mancos River,14080107,2014,3130,
+Flow_Peak_10yr_cfs,9717,,Mancos River,14080107,2014,1500,
+Lat,9717,,Mancos River,14080107,2014,37.304149,Latitude
+Long,9717,,Mancos River,14080107,2014,-108.357838,Longitude
+NH3_mgL,9717,,Mancos River,14080107,2014,0.0335,
+NO23_mgL,9717,,Mancos River,14080107,2014,0.025,
+NRR,9717,,Mancos River,14080107,2014,1.27772577844087,Nitrogen Response Ratio
+PRR,9717,,Mancos River,14080107,2014,0.717611623577708,Phosphorus Response Ratio
+Slope_AvgBasinwide_pct,9717,,Mancos River,14080107,2014,22,
+SpecCond_uScm,9717,,Mancos River,14080107,2014,692.61,
+TN_mgL,9717,,Mancos River,14080107,2014,0.3075,TN (mg/L)
+TP_mgL,9717,,Mancos River,14080107,2014,0.0175,TP (mg/L)
+WaterTemp_C,9717,,Mancos River,14080107,2014,22.515,Water Temperature (C)
+pH,9717,,Mancos River,14080107,2014,7.795,Phosphorus Response Ratio
+CanOpen_frac,9853,,Navajo River,14080101,2014,0.00919581488771662,Canopy Openness
+CatchmentArea_sqKm,9853,,Navajo River,14080101,2014,200.465226,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,9853,,Navajo River,14080101,2014,18.1321323613603,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,9853,,Navajo River,14080101,2014,120.316018472577,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,9853,,Navajo River,14080101,2014,128.788977519942,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,9853,,Navajo River,14080101,2014,6.4394488759971,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,9853,,Navajo River,14080101,2014,6.835,DO (mg/L)
+Eco3ID,9853,,Navajo River,14080101,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,9853,,Navajo River,14080101,2014,10171,
+Elev_MaxBasinwide_ft,9853,,Navajo River,14080101,2014,12800,
+Elev_MinBasinwide_ft,9853,,Navajo River,14080101,2014,7840,
+Elev_Outlet_ft,9853,,Navajo River,14080101,2014,7844,Elevation (ft)
+Flow_7dayMax_10yr_cfs,9853,,Navajo River,14080101,2014,924,
+Flow_7dayMin_10yr_cfs,9853,,Navajo River,14080101,2014,6.2,
+Flow_AnnualAvg_cfs,9853,,Navajo River,14080101,2014,125,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,9853,,Navajo River,14080101,2014,2310,
+Flow_Peak_10yr_cfs,9853,,Navajo River,14080101,2014,1130,
+Lat,9853,,Navajo River,14080101,2014,37.060503,Latitude
+Long,9853,,Navajo River,14080101,2014,-106.693152,Longitude
+NH3_mgL,9853,,Navajo River,14080101,2014,0.025,
+NO23_mgL,9853,,Navajo River,14080101,2014,0.025,
+NRR,9853,,Navajo River,14080101,2014,1.67657083865139,Nitrogen Response Ratio
+PRR,9853,,Navajo River,14080101,2014,0.642734649000108,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,9853,,Navajo River,14080101,2014,39.25,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,9853,,Navajo River,14080101,2014,42,
+Slope_Streamflow_ftMi,9853,,Navajo River,14080101,2014,195,Slope (ft/mi)
+SpecCond_uScm,9853,,Navajo River,14080101,2014,120.15,
+TN_mgL,9853,,Navajo River,14080101,2014,0.1055,TN (mg/L)
+TP_mgL,9853,,Navajo River,14080101,2014,0.059,TP (mg/L)
+WaterTemp_C,9853,,Navajo River,14080101,2014,16.43,Water Temperature (C)
+pH,9853,,Navajo River,14080101,2014,7.76,Phosphorus Response Ratio
+CanOpen_frac,9862,,Rio Blanco River,14080101,2014,0.00673832720567645,Canopy Openness
+CatchmentArea_sqKm,9862,,Rio Blanco River,14080101,2014,240.351072,Catchment Area (sq/km)
+Chla_C_Avg_mgM2,9862,,Rio Blanco River,14080101,2014,32.3667035609328,"Chlorophyll a, Control (mg/m2)"
+Chla_NP_Avg_mgM2,9862,,Rio Blanco River,14080101,2014,71.6247471470555,"Chlorophyll a, N+P (mg/m2)"
+Chla_N_Avg_mgM2,9862,,Rio Blanco River,14080101,2014,72.1218274111675,"Chlorophyll a, Nitrogen (mg/m2)"
+Chla_P_Avg_mgM2,9862,,Rio Blanco River,14080101,2014,16.6069997328346,"Chlorophyll a, Phosphorus (mg/m2)"
+DO_mgL,9862,,Rio Blanco River,14080101,2014,6.28,DO (mg/L)
+Eco3ID,9862,,Rio Blanco River,14080101,2014,21,Ecoregion
+Elev_AvgBasinwide_ft,9862,,Rio Blanco River,14080101,2014,9530,
+Elev_MaxBasinwide_ft,9862,,Rio Blanco River,14080101,2014,12800,
+Elev_MinBasinwide_ft,9862,,Rio Blanco River,14080101,2014,7240,
+Elev_Outlet_ft,9862,,Rio Blanco River,14080101,2014,7244,Elevation (ft)
+Flow_7dayMax_10yr_cfs,9862,,Rio Blanco River,14080101,2014,811,
+Flow_7dayMin_10yr_cfs,9862,,Rio Blanco River,14080101,2014,4.87,
+Flow_AnnualAvg_cfs,9862,,Rio Blanco River,14080101,2014,103,Avg Annual Flow (cfs)
+Flow_Peak_100yr_cfs,9862,,Rio Blanco River,14080101,2014,2580,
+Flow_Peak_10yr_cfs,9862,,Rio Blanco River,14080101,2014,1260,
+Lat,9862,,Rio Blanco River,14080101,2014,37.143698,Latitude
+Long,9862,,Rio Blanco River,14080101,2014,-106.885506,Longitude
+NH3_mgL,9862,,Rio Blanco River,14080101,2014,0.0175,
+NO23_mgL,9862,,Rio Blanco River,14080101,2014,0.025,
+NRR,9862,,Rio Blanco River,14080101,2014,1.23042752436232,Nitrogen Response Ratio
+PRR,9862,,Rio Blanco River,14080101,2014,0.808087156388955,Phosphorus Response Ratio
+Precip_AnnualAvgBasinwide_in,9862,,Rio Blanco River,14080101,2014,34.73,Avg Annual Precipitation (in)
+Slope_AvgBasinwide_pct,9862,,Rio Blanco River,14080101,2014,37,
+Slope_Streamflow_ftMi,9862,,Rio Blanco River,14080101,2014,110.8,Slope (ft/mi)
+SpecCond_uScm,9862,,Rio Blanco River,14080101,2014,124.3,
+TN_mgL,9862,,Rio Blanco River,14080101,2014,0.17,TN (mg/L)
+TP_mgL,9862,,Rio Blanco River,14080101,2014,0.084,TP (mg/L)
+WaterTemp_C,9862,,Rio Blanco River,14080101,2014,22.06,Water Temperature (C)
+pH,9862,,Rio Blanco River,14080101,2014,8.305,Phosphorus Response Ratio

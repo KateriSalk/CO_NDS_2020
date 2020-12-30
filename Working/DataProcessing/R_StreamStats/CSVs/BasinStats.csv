@@ -1,0 +1,1366 @@
+SiteID,ParamName,ParamDescription,variable,Unit,value
+10118,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,45
+10118,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,
+10118,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,17
+10118,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10118,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11084
+10118,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,
+10118,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,
+10118,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,
+10118,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,
+10118,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,
+10118,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.963295
+10118,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,
+10118,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,
+10118,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,
+10118,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,
+10118,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,
+10118,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,
+10118,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,
+10118,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,
+10118,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,
+10118,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,
+10118,LFP length,Length of longest flow path,LFPLENGTH,miles,8.48
+10118,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.994398
+10118,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,
+10118,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,9553
+10118,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,
+10118,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,
+10118,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,
+10118,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,
+10118,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,
+10118,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,
+10118,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,
+10118,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,
+10118,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,
+10118,Time of concentration in hours,Time of concentration in hours,TOC,hours,
+10231,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,29
+10231,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,107.7
+10231,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,91.7
+10231,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10231,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10315
+10231,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14300
+10231,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.17
+10231,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.49
+10231,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.02
+10231,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.87
+10231,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.405244
+10231,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,4.1
+10231,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.1
+10231,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.1
+10231,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,69
+10231,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,19.1
+10231,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.8
+10231,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,3.3
+10231,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10231,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+10231,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.5
+10231,LFP length,Length of longest flow path,LFPLENGTH,miles,30.1
+10231,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.40804
+10231,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8170
+10231,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8172
+10231,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,23.62
+10231,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,68.03
+10231,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.42
+10231,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,5.63
+10231,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,18.6
+10231,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,70.1
+10231,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,3.27
+10231,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,29.75
+10231,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.1
+10231,Time of concentration in hours,Time of concentration in hours,TOC,hours,7.99
+10232,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,15
+10232,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,138.8
+10232,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,27.1
+10232,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,99
+10232,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9172
+10232,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,11100
+10232,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,2.57
+10232,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.21
+10232,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.72
+10232,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.76
+10232,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.446545
+10232,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,0
+10232,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+10232,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.3
+10232,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,51.3
+10232,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,12.9
+10232,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.8
+10232,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,33.3
+10232,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10232,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+10232,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,0.2
+10232,LFP length,Length of longest flow path,LFPLENGTH,miles,17.7
+10232,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.344219
+10232,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7470
+10232,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7470
+10232,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,16.64
+10232,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,75.26
+10232,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.4
+10232,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+10232,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0
+10232,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,94
+10232,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,5.95
+10232,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,35.62
+10232,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.1
+10232,Time of concentration in hours,Time of concentration in hours,TOC,hours,5.93
+10240,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,41
+10240,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,52.2
+10240,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,371
+10240,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10240,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10736
+10240,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14200
+10240,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.27
+10240,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.54
+10240,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.11
+10240,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.89
+10240,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.351785
+10240,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,13.6
+10240,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.2
+10240,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.5
+10240,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,52.3
+10240,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,24.7
+10240,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.5
+10240,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,6.8
+10240,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10240,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.2
+10240,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.3
+10240,LFP length,Length of longest flow path,LFPLENGTH,miles,56.6
+10240,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.236574
+10240,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7650
+10240,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7649
+10240,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,27.05
+10240,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,71.93
+10240,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.38
+10240,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,6.35
+10240,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,19.3
+10240,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,32
+10240,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,36.8
+10240,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,23.11
+10240,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.2
+10240,Time of concentration in hours,Time of concentration in hours,TOC,hours,10
+10267A,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,54
+10267A,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,413.6
+10267A,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,9.44
+10267A,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10267A,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10737
+10267A,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13000
+10267A,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.44
+10267A,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.65
+10267A,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.94
+10267A,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.95
+10267A,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.695609
+10267A,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,12.7
+10267A,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+10267A,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+10267A,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,60.4
+10267A,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,22.6
+10267A,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,0.2
+10267A,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0
+10267A,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10267A,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+10267A,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,2.3
+10267A,LFP length,Length of longest flow path,LFPLENGTH,miles,7.65
+10267A,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.071333
+10267A,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8980
+10267A,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8977
+10267A,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,29.45
+10267A,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,74.16
+10267A,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.4
+10267A,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+10267A,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,20
+10267A,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,19.3
+10267A,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,56.9
+10267A,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,14.64
+10267A,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0
+10267A,Time of concentration in hours,Time of concentration in hours,TOC,hours,1.65
+10268B,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,34
+10268B,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,470
+10268B,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,7.96
+10268B,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10268B,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10205
+10268B,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12100
+10268B,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.51
+10268B,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.66
+10268B,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.81
+10268B,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.92
+10268B,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.795782
+10268B,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,3.9
+10268B,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+10268B,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+10268B,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,77.2
+10268B,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,16.4
+10268B,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.2
+10268B,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.1
+10268B,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10268B,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+10268B,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.1
+10268B,LFP length,Length of longest flow path,LFPLENGTH,miles,5.32
+10268B,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.087817
+10268B,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8910
+10268B,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8909
+10268B,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,32.14
+10268B,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,64.74
+10268B,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.44
+10268B,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,10.2
+10268B,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,41.9
+10268B,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,4.63
+10268B,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,38.3
+10268B,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,27.15
+10268B,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.1
+10268B,Time of concentration in hours,Time of concentration in hours,TOC,hours,2.01
+10283,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,28
+10283,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,120
+10283,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,171
+10283,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10283,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11051
+10283,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14000
+10283,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.17
+10283,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.55
+10283,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.17
+10283,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.91
+10283,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.10675
+10283,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,5.8
+10283,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.3
+10283,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.5
+10283,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,56.5
+10283,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,31.9
+10283,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,0.8
+10283,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.3
+10283,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10283,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+10283,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,4.4
+10283,LFP length,Length of longest flow path,LFPLENGTH,miles,24.4
+10283,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.034974
+10283,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8820
+10283,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8824
+10283,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,25.15
+10283,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,64.07
+10283,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.38
+10283,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,17.1
+10283,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,17.1
+10283,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,44.9
+10283,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,20.2
+10283,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,24.27
+10283,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.1
+10283,Time of concentration in hours,Time of concentration in hours,TOC,hours,7.62
+10322,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,19
+10322,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,57.5
+10322,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,379
+10322,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10322,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10045
+10322,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14000
+10322,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,2.76
+10322,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.35
+10322,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.91
+10322,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.84
+10322,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.437191
+10322,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,1.7
+10322,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.9
+10322,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.3
+10322,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,48.1
+10322,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,31.7
+10322,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.9
+10322,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,14
+10322,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10322,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+10322,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,2.4
+10322,LFP length,Length of longest flow path,LFPLENGTH,miles,51.4
+10322,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.762383
+10322,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8000
+10322,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7998
+10322,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,19.09
+10322,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,70.68
+10322,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.37
+10322,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,3.61
+10322,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,15.9
+10322,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,56.4
+10322,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,22.5
+10322,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,20.49
+10322,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.1
+10322,Time of concentration in hours,Time of concentration in hours,TOC,hours,14.08
+10324,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,20
+10324,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,
+10324,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,162
+10324,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10324,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10539
+10324,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,
+10324,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,
+10324,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,
+10324,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,
+10324,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,
+10324,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.223896
+10324,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,
+10324,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,
+10324,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,
+10324,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,
+10324,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,
+10324,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,
+10324,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,
+10324,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,
+10324,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,
+10324,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,
+10324,LFP length,Length of longest flow path,LFPLENGTH,miles,29.4
+10324,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.743972
+10324,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,
+10324,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,9019
+10324,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,
+10324,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,
+10324,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,
+10324,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,
+10324,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,
+10324,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,
+10324,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,
+10324,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,
+10324,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,
+10324,Time of concentration in hours,Time of concentration in hours,TOC,hours,
+10329,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,43
+10329,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,390.4
+10329,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,5.56
+10329,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10329,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11986
+10329,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13800
+10329,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.77
+10329,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.86
+10329,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.52
+10329,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.05
+10329,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,38.023875
+10329,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,15.6
+10329,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+10329,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+10329,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,40.9
+10329,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,38.2
+10329,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.5
+10329,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0
+10329,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10329,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+10329,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,4.9
+10329,LFP length,Length of longest flow path,LFPLENGTH,miles,5.87
+10329,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.841863
+10329,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,10400
+10329,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,10427
+10329,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,30.93
+10329,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,70.75
+10329,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.35
+10329,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,11.6
+10329,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,12.5
+10329,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,19.1
+10329,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,56.7
+10329,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,18.4
+10329,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.2
+10329,Time of concentration in hours,Time of concentration in hours,TOC,hours,1.65
+10767B,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,36
+10767B,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,
+10767B,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,19.6
+10767B,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10767B,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10143
+10767B,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,
+10767B,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,
+10767B,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,
+10767B,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,
+10767B,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,
+10767B,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.598675
+10767B,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,
+10767B,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,
+10767B,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,
+10767B,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,
+10767B,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,
+10767B,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,
+10767B,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,
+10767B,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,
+10767B,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,
+10767B,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,
+10767B,LFP length,Length of longest flow path,LFPLENGTH,miles,9.25
+10767B,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-108.112483
+10767B,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,
+10767B,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8173
+10767B,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,
+10767B,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,
+10767B,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,
+10767B,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,
+10767B,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,
+10767B,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,
+10767B,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,
+10767B,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,
+10767B,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,
+10767B,Time of concentration in hours,Time of concentration in hours,TOC,hours,
+10769,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,31
+10769,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,209.4
+10769,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,35.5
+10769,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10769,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10152
+10769,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13300
+10769,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.76
+10769,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.79
+10769,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.51
+10769,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.06
+10769,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.746251
+10769,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,4.5
+10769,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.1
+10769,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+10769,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,71.9
+10769,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,14.6
+10769,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.8
+10769,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.2
+10769,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10769,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+10769,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,0.2
+10769,LFP length,Length of longest flow path,LFPLENGTH,miles,13.5
+10769,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-108.236435
+10769,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8240
+10769,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8244
+10769,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,32.13
+10769,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,56.03
+10769,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.44
+10769,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,30.3
+10769,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,35.7
+10769,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,30.5
+10769,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0.73
+10769,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,22.27
+10769,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0
+10769,Time of concentration in hours,Time of concentration in hours,TOC,hours,5.52
+10770A,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,31
+10770A,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,150
+10770A,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,131
+10770A,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10770A,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9960
+10770A,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14200
+10770A,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.72
+10770A,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.77
+10770A,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.49
+10770A,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.05
+10770A,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.705351
+10770A,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,5.1
+10770A,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.5
+10770A,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+10770A,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,73.4
+10770A,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,13.4
+10770A,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.6
+10770A,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.7
+10770A,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10770A,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.7
+10770A,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,0.3
+10770A,LFP length,Length of longest flow path,LFPLENGTH,miles,24.5
+10770A,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-108.246108
+10770A,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7940
+10770A,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7944
+10770A,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,31.95
+10770A,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,65.26
+10770A,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.45
+10770A,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,11.8
+10770A,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,28.9
+10770A,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,51
+10770A,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,2.74
+10770A,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,24.38
+10770A,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.7
+10770A,Time of concentration in hours,Time of concentration in hours,TOC,hours,7.03
+10814,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,53
+10814,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,386.7
+10814,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,42.9
+10814,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10814,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11174
+10814,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13800
+10814,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.86
+10814,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.85
+10814,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.29
+10814,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.01
+10814,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.948222
+10814,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,27.3
+10814,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.1
+10814,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,2.5
+10814,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,40.8
+10814,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,23.7
+10814,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,3.4
+10814,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.2
+10814,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10814,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.2
+10814,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,2.2
+10814,LFP length,Length of longest flow path,LFPLENGTH,miles,11.5
+10814,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.876983
+10814,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8620
+10814,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8639
+10814,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,36.67
+10814,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,68.88
+10814,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.37
+10814,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,19.2
+10814,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,24.3
+10814,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,25.5
+10814,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,26.8
+10814,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,14.94
+10814,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.5
+10814,Time of concentration in hours,Time of concentration in hours,TOC,hours,2.68
+10815,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,55
+10815,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,405.7
+10815,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,37.1
+10815,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10815,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11291
+10815,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13800
+10815,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.91
+10815,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.88
+10815,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.31
+10815,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.02
+10815,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.948597
+10815,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,30.5
+10815,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.2
+10815,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,1.3
+10815,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,36.6
+10815,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,25.8
+10815,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.2
+10815,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.2
+10815,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10815,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.3
+10815,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,2.4
+10815,LFP length,Length of longest flow path,LFPLENGTH,miles,11
+10815,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.869032
+10815,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8640
+10815,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8638
+10815,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,37.52
+10815,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,69.98
+10815,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.36
+10815,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,21.2
+10815,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,18.4
+10815,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,25.4
+10815,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,30.2
+10815,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,13.94
+10815,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.5
+10815,Time of concentration in hours,Time of concentration in hours,TOC,hours,2.46
+10818,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,59
+10818,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,1109.1
+10818,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,3.82
+10818,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+10818,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,12007
+10818,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13500
+10818,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.07
+10818,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.95
+10818,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.37
+10818,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.05
+10818,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.931208
+10818,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,59.4
+10818,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+10818,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+10818,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,9.5
+10818,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,30.3
+10818,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.7
+10818,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0
+10818,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+10818,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+10818,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,0.7
+10818,LFP length,Length of longest flow path,LFPLENGTH,miles,3.5
+10818,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.778942
+10818,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8980
+10818,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8981
+10818,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,41.01
+10818,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,73.44
+10818,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.29
+10818,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,32.7
+10818,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,24.8
+10818,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,0.0809
+10818,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,42.4
+10818,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,11.13
+10818,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.1
+10818,Time of concentration in hours,Time of concentration in hours,TOC,hours,0.86
+120,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,16
+120,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,30.7
+120,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,182
+120,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+120,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9275
+120,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12900
+120,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.2
+120,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.31
+120,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.92
+120,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.82
+120,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.740985
+120,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,2.9
+120,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,8.6
+120,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.7
+120,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,44.3
+120,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,12.5
+120,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,3.4
+120,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,16.7
+120,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,3.7
+120,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.3
+120,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,10.1
+120,LFP length,Length of longest flow path,LFPLENGTH,miles,51.2
+120,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.282053
+120,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8050
+120,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8053
+120,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,24.32
+120,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,66.62
+120,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.39
+120,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,8.71
+120,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,22.2
+120,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,25.1
+120,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,6.76
+120,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,14.06
+120,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.4
+120,Time of concentration in hours,Time of concentration in hours,TOC,hours,17.04
+12554A,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,42
+12554A,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,165
+12554A,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,77
+12554A,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12554A,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10514
+12554A,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13300
+12554A,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.34
+12554A,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.46
+12554A,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.12
+12554A,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.92
+12554A,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,39.641028
+12554A,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,9.6
+12554A,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.1
+12554A,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,3.4
+12554A,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,57.8
+12554A,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,20.7
+12554A,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,4.1
+12554A,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,1.9
+12554A,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,2.9
+12554A,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+12554A,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.5
+12554A,LFP length,Length of longest flow path,LFPLENGTH,miles,17.4
+12554A,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.394357
+12554A,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8070
+12554A,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8080
+12554A,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,28.8
+12554A,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,98
+12554A,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.41
+12554A,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+12554A,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0
+12554A,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,0
+12554A,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0
+12554A,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,12.8
+12554A,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.2
+12554A,Time of concentration in hours,Time of concentration in hours,TOC,hours,1.27
+12554B,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,40
+12554B,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,163.9
+12554B,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,91.2
+12554B,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12554B,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10431
+12554B,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13300
+12554B,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.31
+12554B,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.45
+12554B,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.1
+12554B,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.91
+12554B,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,39.640155
+12554B,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,8.4
+12554B,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+12554B,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,3.1
+12554B,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,60.9
+12554B,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,19.2
+12554B,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,4.4
+12554B,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,2.2
+12554B,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,2.5
+12554B,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+12554B,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.7
+12554B,LFP length,Length of longest flow path,LFPLENGTH,miles,17.7
+12554B,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.399583
+12554B,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8040
+12554B,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8058
+12554B,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,28.32
+12554B,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,97.25
+12554B,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.41
+12554B,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+12554B,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0
+12554B,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,0.11
+12554B,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0
+12554B,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,12.49
+12554B,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.2
+12554B,Time of concentration in hours,Time of concentration in hours,TOC,hours,1.57
+12555,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,42
+12555,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,229.4
+12555,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,41.8
+12555,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12555,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10710
+12555,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13300
+12555,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.38
+12555,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.47
+12555,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.16
+12555,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.92
+12555,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,39.641522
+12555,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,12.2
+12555,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+12555,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,3.3
+12555,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,55.6
+12555,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,22.1
+12555,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,3.6
+12555,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.5
+12555,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,3.4
+12555,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+12555,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.7
+12555,LFP length,Length of longest flow path,LFPLENGTH,miles,11.8
+12555,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.305332
+12555,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8380
+12555,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8377
+12555,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,29.28
+12555,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,98
+12555,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.4
+12555,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+12555,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0
+12555,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,0
+12555,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0
+12555,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,14.35
+12555,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.3
+12555,Time of concentration in hours,Time of concentration in hours,TOC,hours,0.92
+12783B,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,45
+12783B,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,133.7
+12783B,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,288
+12783B,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12783B,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11010
+12783B,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14300
+12783B,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.18
+12783B,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.49
+12783B,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.79
+12783B,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.9
+12783B,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,39.217793
+12783B,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,18.7
+12783B,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.1
+12783B,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,1.6
+12783B,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,48.5
+12783B,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,26.3
+12783B,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.2
+12783B,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.5
+12783B,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0.6
+12783B,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+12783B,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,2.7
+12783B,LFP length,Length of longest flow path,LFPLENGTH,miles,29.6
+12783B,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.854945
+12783B,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7610
+12783B,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7607
+12783B,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,32.43
+12783B,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,72.04
+12783B,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.38
+12783B,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0.89
+12783B,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0.88
+12783B,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,2.19
+12783B,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0.42
+12783B,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,13.84
+12783B,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.2
+12783B,Time of concentration in hours,Time of concentration in hours,TOC,hours,5.67
+12786B,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,43
+12786B,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,173.3
+12786B,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,93
+12786B,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12786B,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11422
+12786B,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14000
+12786B,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,2.97
+12786B,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.38
+12786B,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.74
+12786B,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.85
+12786B,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,39.148188
+12786B,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,19.2
+12786B,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+12786B,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,1.1
+12786B,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,40.3
+12786B,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,34.4
+12786B,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.3
+12786B,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.1
+12786B,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,1.7
+12786B,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.2
+12786B,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,2.7
+12786B,LFP length,Length of longest flow path,LFPLENGTH,miles,20.5
+12786B,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.782877
+12786B,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8080
+12786B,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8078
+12786B,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,28.91
+12786B,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,98
+12786B,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.35
+12786B,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+12786B,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0
+12786B,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,0
+12786B,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0
+12786B,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,11.68
+12786B,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.3
+12786B,Time of concentration in hours,Time of concentration in hours,TOC,hours,1.43
+12805B,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,21
+12805B,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,49.8
+12805B,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,634
+12805B,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,82
+12805B,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,8688
+12805B,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12300
+12805B,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.19
+12805B,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.47
+12805B,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.12
+12805B,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.93
+12805B,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.491508
+12805B,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,0.5
+12805B,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,6.8
+12805B,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,1.5
+12805B,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,60.4
+12805B,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,7.9
+12805B,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.9
+12805B,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,16.1
+12805B,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+12805B,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.5
+12805B,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,3.6
+12805B,LFP length,Length of longest flow path,LFPLENGTH,miles,74.7
+12805B,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.948089
+12805B,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,6540
+12805B,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,6545
+12805B,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,31.52
+12805B,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,73.68
+12805B,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.43
+12805B,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0.24
+12805B,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,15.6
+12805B,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,20.7
+12805B,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,5.39
+12805B,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,20.03
+12805B,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.7
+12805B,Time of concentration in hours,Time of concentration in hours,TOC,hours,16.64
+12809,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,18
+12809,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,99
+12809,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,208
+12809,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,97
+12809,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,8994
+12809,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12300
+12809,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,2.84
+12809,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.33
+12809,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.82
+12809,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.85
+12809,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.269209
+12809,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,1.3
+12809,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,8
+12809,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.4
+12809,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,48
+12809,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,11.5
+12809,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.1
+12809,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,23.7
+12809,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+12809,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.5
+12809,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,3.1
+12809,LFP length,Length of longest flow path,LFPLENGTH,miles,39.7
+12809,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.881129
+12809,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7200
+12809,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7195
+12809,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,28.67
+12809,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,74.69
+12809,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.4
+12809,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0.7
+12809,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,16.2
+12809,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,23.3
+12809,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,9.39
+12809,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,22.94
+12809,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.8
+12809,Time of concentration in hours,Time of concentration in hours,TOC,hours,10.53
+12811,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,21
+12811,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,65.1
+12811,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,411
+12811,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,90
+12811,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,8862
+12811,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12300
+12811,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.03
+12811,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.41
+12811,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.97
+12811,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.89
+12811,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.398879
+12811,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,0.7
+12811,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,6.7
+12811,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.4
+12811,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,60
+12811,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,7.6
+12811,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1.8
+12811,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,17.6
+12811,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+12811,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.7
+12811,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,3.2
+12811,LFP length,Length of longest flow path,LFPLENGTH,miles,58.3
+12811,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.833949
+12811,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,6800
+12811,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,6804
+12811,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,29.97
+12811,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,74
+12811,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.43
+12811,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0.37
+12811,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,13.4
+12811,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,20.2
+12811,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,5.87
+12811,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,19.6
+12811,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.9
+12811,Time of concentration in hours,Time of concentration in hours,TOC,hours,13.51
+12815,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,18
+12815,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,130.9
+12815,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,101
+12815,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12815,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9460
+12815,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12300
+12815,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,2.89
+12815,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.37
+12815,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.81
+12815,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.87
+12815,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.182975
+12815,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,2.3
+12815,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,6.7
+12815,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.4
+12815,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,45.3
+12815,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,18.7
+12815,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2
+12815,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,19.3
+12815,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+12815,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.7
+12815,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,4
+12815,LFP length,Length of longest flow path,LFPLENGTH,miles,26.6
+12815,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.91539
+12815,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7670
+12815,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7673
+12815,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,32.53
+12815,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,75.24
+12815,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.39
+12815,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0.0232
+12815,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,14
+12815,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,15
+12815,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,8.57
+12815,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,21.44
+12815,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,1.1
+12815,Time of concentration in hours,Time of concentration in hours,TOC,hours,7.51
+12940,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,16
+12940,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,30.3
+12940,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,183
+12940,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12940,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9270
+12940,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12900
+12940,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.19
+12940,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.31
+12940,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,1.92
+12940,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.82
+12940,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.745325
+12940,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,2.9
+12940,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,8.8
+12940,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.8
+12940,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,44.2
+12940,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,12.5
+12940,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,3.5
+12940,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,16.7
+12940,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,3.7
+12940,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.3
+12940,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,10.1
+12940,LFP length,Length of longest flow path,LFPLENGTH,miles,52.5
+12940,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.296705
+12940,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8030
+12940,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8030
+12940,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,24.27
+12940,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,66.64
+12940,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.39
+12940,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,8.68
+12940,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,22.3
+12940,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,25
+12940,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,6.75
+12940,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,14.06
+12940,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.4
+12940,Time of concentration in hours,Time of concentration in hours,TOC,hours,17.39
+12946,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,30
+12946,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,103.8
+12946,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,60.2
+12946,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+12946,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10175
+12946,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12900
+12946,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.69
+12946,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.5
+12946,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.15
+12946,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,0.93
+12946,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.553396
+12946,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,8.2
+12946,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.4
+12946,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0.8
+12946,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,67.6
+12946,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,7
+12946,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,2.7
+12946,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,1
+12946,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,10.5
+12946,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+12946,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,4.5
+12946,LFP length,Length of longest flow path,LFPLENGTH,miles,17.9
+12946,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.043672
+12946,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8750
+12946,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8745
+12946,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,34.06
+12946,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,63.7
+12946,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.44
+12946,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,12.4
+12946,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,14.8
+12946,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,1.07
+12946,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,6.02
+12946,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,12.37
+12946,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.2
+12946,Time of concentration in hours,Time of concentration in hours,TOC,hours,5.81
+138A,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,33
+138A,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,258.8
+138A,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,52.5
+138A,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+138A,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10949
+138A,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13300
+138A,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.26
+138A,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,2.22
+138A,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.79
+138A,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.25
+138A,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.427652
+138A,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,2.9
+138A,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.2
+138A,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+138A,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,54.2
+138A,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,35.6
+138A,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,0.7
+138A,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.1
+138A,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+138A,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.2
+138A,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.1
+138A,LFP length,Length of longest flow path,LFPLENGTH,miles,16.4
+138A,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.675237
+138A,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,8130
+138A,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,8137
+138A,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,37.74
+138A,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,71.25
+138A,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.38
+138A,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0.8
+138A,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,11.4
+138A,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,44.3
+138A,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,29.7
+138A,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,19.86
+138A,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.4
+138A,Time of concentration in hours,Time of concentration in hours,TOC,hours,4.21
+5574,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,28
+5574,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,104.6
+5574,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,310
+5574,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,68
+5574,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,8372
+5574,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13500
+5574,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.96
+5574,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.92
+5574,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,3.04
+5574,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.19
+5574,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.049802
+5574,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,2.8
+5574,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,1.4
+5574,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,8.1
+5574,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,59.9
+5574,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,11.2
+5574,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,10.2
+5574,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,7.9
+5574,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,4.4
+5574,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,1.1
+5574,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,3.2
+5574,LFP length,Length of longest flow path,LFPLENGTH,miles,48.4
+5574,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-105.145901
+5574,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,5070
+5574,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,5068
+5574,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,24.86
+5574,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,70.47
+5574,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.43
+5574,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,9.5
+5574,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,23
+5574,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,27.6
+5574,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,30.2
+5574,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,15.99
+5574,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,1.4
+5574,Time of concentration in hours,Time of concentration in hours,TOC,hours,11.12
+5577,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,31
+5577,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,167.1
+5577,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,152
+5577,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,72
+5577,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,8658
+5577,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13500
+5577,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.9
+5577,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.89
+5577,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,3.01
+5577,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.18
+5577,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,40.027063
+5577,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,4.1
+5577,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.1
+5577,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,9
+5577,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,57.7
+5577,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,12.7
+5577,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,10.9
+5577,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,7.9
+5577,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,6.1
+5577,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.7
+5577,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.7
+5577,LFP length,Length of longest flow path,LFPLENGTH,miles,36
+5577,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-105.22414
+5577,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,5190
+5577,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,5193
+5577,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,26.05
+5577,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,70.39
+5577,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.43
+5577,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,11.8
+5577,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,21.8
+5577,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,26
+5577,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,28.8
+5577,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,14.44
+5577,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.9
+5577,Time of concentration in hours,Time of concentration in hours,TOC,hours,8.35
+5580,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,34
+5580,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,190.4
+5580,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,41.2
+5580,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+5580,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10122
+5580,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,13400
+5580,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.64
+5580,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.8
+5580,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.69
+5580,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.13
+5580,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,39.980618
+5580,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,8
+5580,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+5580,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,2.6
+5580,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,53.9
+5580,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,16.3
+5580,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,3.7
+5580,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,1.7
+5580,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,14.5
+5580,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,1.1
+5580,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.6
+5580,LFP length,Length of longest flow path,LFPLENGTH,miles,18.5
+5580,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-105.454593
+5580,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7750
+5580,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7749
+5580,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,31.72
+5580,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,70.46
+5580,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.41
+5580,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,19.3
+5580,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,10.5
+5580,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,32.3
+5580,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,15.3
+5580,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,13.34
+5580,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,1.6
+5580,Time of concentration in hours,Time of concentration in hours,TOC,hours,4.67
+9240,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,30
+9240,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,296.6
+9240,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,55.2
+9240,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,98
+9240,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9325
+9240,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12500
+9240,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4
+9240,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.99
+9240,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,3.06
+9240,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.17
+9240,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.353694
+9240,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,0.1
+9240,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+9240,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+9240,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,83.4
+9240,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,4.2
+9240,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,0.7
+9240,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0.3
+9240,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+9240,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0
+9240,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,0
+9240,LFP length,Length of longest flow path,LFPLENGTH,miles,12.8
+9240,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.324692
+9240,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7080
+9240,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7083
+9240,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,30.73
+9240,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,70.93
+9240,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.48
+9240,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+9240,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0.0788
+9240,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,83.8
+9240,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0.87
+9240,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,28.18
+9240,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0
+9240,Time of concentration in hours,Time of concentration in hours,TOC,hours,3.67
+9245,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,18
+9245,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,60.6
+9245,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,107
+9245,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,57
+9245,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,7591
+9245,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,11000
+9245,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,3.58
+9245,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,1.74
+9245,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.94
+9245,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.11
+9245,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.172585
+9245,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,0
+9245,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0.9
+9245,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,2.6
+9245,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,47.8
+9245,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,11.6
+9245,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,6.6
+9245,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,33.5
+9245,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+9245,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.7
+9245,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,2
+9245,LFP length,Length of longest flow path,LFPLENGTH,miles,31.7
+9245,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.295254
+9245,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,6530
+9245,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,6531
+9245,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,22.56
+9245,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,77.8
+9245,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.39
+9245,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,0
+9245,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,0.9
+9245,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,41.3
+9245,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,52.8
+9245,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,32.96
+9245,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.7
+9245,Time of concentration in hours,Time of concentration in hours,TOC,hours,8.03
+9274,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,40
+9274,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,158.2
+9274,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,45.1
+9274,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+9274,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9853
+9274,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12700
+9274,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.42
+9274,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,2.16
+9274,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.93
+9274,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.2
+9274,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.455866
+9274,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,3.2
+9274,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,1.8
+9274,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+9274,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,62.8
+9274,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,17.1
+9274,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,0.8
+9274,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,1.8
+9274,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+9274,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,1.1
+9274,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,3.4
+9274,LFP length,Length of longest flow path,LFPLENGTH,miles,19.2
+9274,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.198755
+9274,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7780
+9274,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7778
+9274,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,33.26
+9274,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,62.86
+9274,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.43
+9274,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,13.9
+9274,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,1.33
+9274,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,31
+9274,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,8.41
+9274,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,19.37
+9274,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,1.3
+9274,Time of concentration in hours,Time of concentration in hours,TOC,hours,5.43
+9372,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,57
+9372,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,193.9
+9372,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,80.5
+9372,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+9372,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,11267
+9372,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,14100
+9372,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.1
+9372,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,2.14
+9372,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.75
+9372,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.18
+9372,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.47402
+9372,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,25.5
+9372,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,0
+9372,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+9372,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,44.3
+9372,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,26.8
+9372,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,0
+9372,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,0
+9372,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+9372,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.4
+9372,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,1.5
+9372,LFP length,Length of longest flow path,LFPLENGTH,miles,20.7
+9372,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-107.546639
+9372,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7880
+9372,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7877
+9372,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,39.25
+9372,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,74.9
+9372,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.36
+9372,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,6.86
+9372,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,12.4
+9372,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,23.5
+9372,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,44.1
+9372,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,16.38
+9372,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.6
+9372,Time of concentration in hours,Time of concentration in hours,TOC,hours,3.49
+9717,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,22
+9717,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,
+9717,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,115
+9717,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,80
+9717,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,8793
+9717,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,
+9717,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,
+9717,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,
+9717,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,
+9717,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,
+9717,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.304255
+9717,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,
+9717,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,
+9717,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,
+9717,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,
+9717,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,
+9717,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,
+9717,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,
+9717,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,
+9717,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,
+9717,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,
+9717,LFP length,Length of longest flow path,LFPLENGTH,miles,26.7
+9717,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-108.35814
+9717,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,
+9717,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,6595
+9717,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,
+9717,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,
+9717,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,
+9717,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,
+9717,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,
+9717,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,
+9717,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,
+9717,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,
+9717,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,
+9717,Time of concentration in hours,Time of concentration in hours,TOC,hours,
+9853,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,42
+9853,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,195
+9853,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,77.4
+9853,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,100
+9853,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,10171
+9853,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12800
+9853,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.68
+9853,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,2.35
+9853,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,3.02
+9853,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.32
+9853,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.060414
+9853,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,4.7
+9853,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,1.1
+9853,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+9853,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,58.5
+9853,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,21.2
+9853,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,1
+9853,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,1
+9853,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+9853,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+9853,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,5.5
+9853,LFP length,Length of longest flow path,LFPLENGTH,miles,18
+9853,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.693132
+9853,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7840
+9853,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7844
+9853,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,39.25
+9853,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,59
+9853,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.42
+9853,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,10.3
+9853,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,39.3
+9853,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,22.1
+9853,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,3.48
+9853,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,18.96
+9853,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.1
+9853,Time of concentration in hours,Time of concentration in hours,TOC,hours,5.56
+9862,Mean Basin Slope from 10m DEM,Mean basin slope computed from 10 m DEM,BSLDEM10M,percent,37
+9862,Stream Slope 10 and 85 Longest Flow Path,"Change in elevation divided by length between points 10 and 85 percent of distance along the longest flow path to the basin divide, LFP from 2D grid",CSL1085LFP,feet per mi,110.8
+9862,Drainage Area,Area that drains to a point on a stream,DRNAREA,square miles,92.8
+9862,Percent above 7500 ft,Percent of area above 7500 ft,EL7500,percent,99
+9862,Mean Basin Elevation,Mean Basin Elevation,ELEV,feet,9530
+9862,Maximum Basin Elevation,Maximum basin elevation,ELEVMAX,feet,12800
+9862,24 Hour 100 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 100 years,I24H100Y,inches,4.35
+9862,24 Hour 2 Year Precipitation,Maximum 24-hour precipitation that occurs on average once in 2 years - Equivalent to precipitation intensity index,I24H2Y,inches,2.19
+9862,6 Hour 100 Year Precipitation,6-hour precipitation that is expected to occur on average once in 100 years,I6H100Y,inches,2.88
+9862,6 Hour 2 Year Precipitation,Maximum 6-hour precipitation that occurs on average once in 2 years,I6H2Y,inches,1.25
+9862,Latitude of Basin Outlet,Latitude of Basin Outlet,LAT_OUT,degrees,37.143676
+9862,LC11BARE,Percentage of barren from NLCD 2011 class 31,LC11BARE,percent,5
+9862,Percent_Crops_and_Hay_from_NLCD2011,"Percentage of cultivated crops and hay, classes 81 and 82, from NLCD 2011",LC11CRPHAY,percent,1.5
+9862,Percent Developed from NLCD2011,Percentage of developed (urban) land from NLCD 2011 classes 21-24,LC11DEV,percent,0
+9862,LC11FOREST,Percentage of forest from NLCD 2011 classes 41-43,LC11FOREST,percent,58.8
+9862,LC11GRASS,Percent of area covered by grassland/herbaceous using 2011 NLCD,LC11GRASS,percent,10.6
+9862,Percent_Impervious_NLCD2011,Average percentage of impervious area determined from NLCD 2011 impervious dataset,LC11IMP,percent,0.7
+9862,LC11SHRUB,Percent of area covered by shrubland using 2011 NLCD,LC11SHRUB,percent,7
+9862,Percent snow and ice from NLCD 2011 class 12,Percent snow and ice from NLCD 2011 class 12,LC11SNOIC,percent,0
+9862,LC11WATER,"Percent of open water, class 11, from NLCD 2011",LC11WATER,percent,0.1
+9862,LC11WETLND,"Percentage of wetlands, classes 90 and 95,  from NLCD 2011",LC11WETLND,percent,3.2
+9862,LFP length,Length of longest flow path,LFPLENGTH,miles,22.1
+9862,Longitude of Basin Outlet,Longitude of Basin Outlet,LONG_OUT,degrees,-106.885484
+9862,Minimum Basin Elevation,Minimum basin elevation,MINBELEV,feet,7240
+9862,Elevation of Gage,Elevation of the stream outlet in feet above NAVD88,OUTLETELEV,feet,7244
+9862,Mean Annual Precipitation,Mean Annual Precipitation,PRECIP,inches,34.73
+9862,Runoff-Curve Number,Runoff-curve number as defined by NRCS (http://policy.nrcs.usda.gov/OpenNonWebContent.aspx?content=17758.wba),RCN,dimensionless,65.34
+9862,Soil Runoff Coefficient,Soil runoff coefficient as defined by Verdin and Gross (2017),RUNCO_CO,dimensionless,0.43
+9862,SSURGO Percent Hydrologic Soil Type A,Percentage of area of Hydrologic Soil Type A from SSURGO,SSURGOA,percent,10.8
+9862,SSURGO Percent Hydrologic Soil Type B,Percentage of area of Hydrologic Soil Type B from SSURGO,SSURGOB,percent,6.16
+9862,SSURGO Percent Hydrologic Soil Type C,Percentage of area of Hydrologic Soil Type C from SSURGO,SSURGOC,percent,55
+9862,SSURGO Percent Hydrologic Soil Type D,Percentage of area of Hydrologic Soil Type D from SSURGO,SSURGOD,percent,0.82
+9862,STATSGO Percentage of Clay Soils,Percentage of clay soils from STATSGO,STATSCLAY,percent,20.9
+9862,Percent Storage from NHD,Percent storage (wetlands and waterbodies) determined from 1:24K NHD,STORNHD,percent,0.2
+9862,Time of concentration in hours,Time of concentration in hours,TOC,hours,5.92

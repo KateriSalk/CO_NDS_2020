@@ -1,0 +1,1125 @@
+SiteID,SiteType,StreamID,HUC08,Year,variable,value
+10118,,East River,14020001,2014,CatchmentArea_sqKm,44.02983
+10118,,East River,14020001,2014,Chla_C_Avg_mgM2,17.6915384908973
+10118,,East River,14020001,2014,Chla_NP_Avg_mgM2,43.991603373917
+10118,,East River,14020001,2014,Chla_N_Avg_mgM2,27.4523873134613
+10118,,East River,14020001,2014,Chla_P_Avg_mgM2,25.2155261249571
+10118,,East River,14020001,2014,DO_mgL,7.61
+10118,,East River,14020001,2014,Eco3ID,21
+10118,,East River,14020001,2014,Elev_AvgBasinwide_ft,11084
+10118,,East River,14020001,2014,Elev_Outlet_ft,9553
+10118,,East River,14020001,2014,Flow_7dayMax_10yr_cfs,422
+10118,,East River,14020001,2014,Flow_7dayMin_10yr_cfs,3.8
+10118,,East River,14020001,2014,Flow_AnnualAvg_cfs,41.3
+10118,,East River,14020001,2014,Flow_Peak_100yr_cfs,869
+10118,,East River,14020001,2014,Flow_Peak_10yr_cfs,664
+10118,,East River,14020001,2014,Lat,38.963317
+10118,,East River,14020001,2014,Long,-106.994384
+10118,,East River,14020001,2014,NH3_mgL,0.0155
+10118,,East River,14020001,2014,NO23_mgL,0.025
+10118,,East River,14020001,2014,NRR,1.15292496893946
+10118,,East River,14020001,2014,PRR,1.12334242291968
+10118,,East River,14020001,2014,Slope_AvgBasinwide_pct,45
+10118,,East River,14020001,2014,SpecCond_uScm,197.9
+10118,,East River,14020001,2014,TN_mgL,0.113
+10118,,East River,14020001,2014,TP_mgL,0.0076
+10118,,East River,14020001,2014,WaterTemp_C,14.5
+10118,,East River,14020001,2014,pH,8.26
+10231,,Blue Creek,14020002,2014,CatchmentArea_sqKm,237.502083
+10231,,Blue Creek,14020002,2014,Chla_C_Avg_mgM2,29.4181138124499
+10231,,Blue Creek,14020002,2014,Chla_NP_Avg_mgM2,82.4249456127629
+10231,,Blue Creek,14020002,2014,Chla_N_Avg_mgM2,88.7966108163811
+10231,,Blue Creek,14020002,2014,Chla_P_Avg_mgM2,18.7082935765811
+10231,,Blue Creek,14020002,2014,DO_mgL,7.17
+10231,,Blue Creek,14020002,2014,Eco3ID,21
+10231,,Blue Creek,14020002,2014,Elev_AvgBasinwide_ft,10315
+10231,,Blue Creek,14020002,2014,Elev_MaxBasinwide_ft,14300
+10231,,Blue Creek,14020002,2014,Elev_MinBasinwide_ft,8170
+10231,,Blue Creek,14020002,2014,Elev_Outlet_ft,8172
+10231,,Blue Creek,14020002,2014,Flow_7dayMax_10yr_cfs,540
+10231,,Blue Creek,14020002,2014,Flow_7dayMin_10yr_cfs,3.82
+10231,,Blue Creek,14020002,2014,Flow_AnnualAvg_cfs,58.2
+10231,,Blue Creek,14020002,2014,Flow_Peak_100yr_cfs,1180
+10231,,Blue Creek,14020002,2014,Flow_Peak_10yr_cfs,731
+10231,,Blue Creek,14020002,2014,Lat,38.405278
+10231,,Blue Creek,14020002,2014,Long,-107.408333
+10231,,Blue Creek,14020002,2014,NH3_mgL,0.019
+10231,,Blue Creek,14020002,2014,NO23_mgL,0.025
+10231,,Blue Creek,14020002,2014,NRR,1.32668985656375
+10231,,Blue Creek,14020002,2014,PRR,0.866145537782936
+10231,,Blue Creek,14020002,2014,Precip_AnnualAvgBasinwide_in,23.62
+10231,,Blue Creek,14020002,2014,Slope_AvgBasinwide_pct,29
+10231,,Blue Creek,14020002,2014,Slope_Streamflow_ftMi,107.7
+10231,,Blue Creek,14020002,2014,SpecCond_uScm,67.28
+10231,,Blue Creek,14020002,2014,TN_mgL,0.1525
+10231,,Blue Creek,14020002,2014,TP_mgL,0.076
+10231,,Blue Creek,14020002,2014,WaterTemp_C,17.65
+10231,,Blue Creek,14020002,2014,pH,8.235
+10232,,Pine Creek,14020002,2014,CatchmentArea_sqKm,70.188729
+10232,,Pine Creek,14020002,2014,Chla_C_Avg_mgM2,28.6047097439029
+10232,,Pine Creek,14020002,2014,Chla_NP_Avg_mgM2,61.140872485783
+10232,,Pine Creek,14020002,2014,Chla_N_Avg_mgM2,62.5643296057403
+10232,,Pine Creek,14020002,2014,Chla_P_Avg_mgM2,17.6237548185184
+10232,,Pine Creek,14020002,2014,DO_mgL,7.925
+10232,,Pine Creek,14020002,2014,Eco3ID,21
+10232,,Pine Creek,14020002,2014,Elev_AvgBasinwide_ft,9172
+10232,,Pine Creek,14020002,2014,Elev_MaxBasinwide_ft,11100
+10232,,Pine Creek,14020002,2014,Elev_MinBasinwide_ft,7470
+10232,,Pine Creek,14020002,2014,Elev_Outlet_ft,7470
+10232,,Pine Creek,14020002,2014,Flow_7dayMax_10yr_cfs,103
+10232,,Pine Creek,14020002,2014,Flow_7dayMin_10yr_cfs,0.173
+10232,,Pine Creek,14020002,2014,Flow_AnnualAvg_cfs,11
+10232,,Pine Creek,14020002,2014,Flow_Peak_100yr_cfs,268
+10232,,Pine Creek,14020002,2014,Flow_Peak_10yr_cfs,143
+10232,,Pine Creek,14020002,2014,Lat,38.44651
+10232,,Pine Creek,14020002,2014,Long,-107.344228
+10232,,Pine Creek,14020002,2014,NH3_mgL,0.018
+10232,,Pine Creek,14020002,2014,NO23_mgL,0.053
+10232,,Pine Creek,14020002,2014,NRR,1.23337028845952
+10232,,Pine Creek,14020002,2014,PRR,0.855579730368008
+10232,,Pine Creek,14020002,2014,Precip_AnnualAvgBasinwide_in,16.64
+10232,,Pine Creek,14020002,2014,Slope_AvgBasinwide_pct,15
+10232,,Pine Creek,14020002,2014,Slope_Streamflow_ftMi,138.8
+10232,,Pine Creek,14020002,2014,SpecCond_uScm,106.4
+10232,,Pine Creek,14020002,2014,TN_mgL,0.18
+10232,,Pine Creek,14020002,2014,TP_mgL,0.115
+10232,,Pine Creek,14020002,2014,WaterTemp_C,14.4
+10232,,Pine Creek,14020002,2014,pH,8.08
+10240,,Lake Fork Gunnison River,14020002,2014,CatchmentArea_sqKm,960.88629
+10240,,Lake Fork Gunnison River,14020002,2014,Chla_C_Avg_mgM2,15.7935956642876
+10240,,Lake Fork Gunnison River,14020002,2014,Chla_NP_Avg_mgM2,66.7126903553299
+10240,,Lake Fork Gunnison River,14020002,2014,Chla_N_Avg_mgM2,72.0540437387886
+10240,,Lake Fork Gunnison River,14020002,2014,Chla_P_Avg_mgM2,12.201061028205
+10240,,Lake Fork Gunnison River,14020002,2014,DO_mgL,7.73
+10240,,Lake Fork Gunnison River,14020002,2014,Eco3ID,21
+10240,,Lake Fork Gunnison River,14020002,2014,Elev_AvgBasinwide_ft,10736
+10240,,Lake Fork Gunnison River,14020002,2014,Elev_MaxBasinwide_ft,14200
+10240,,Lake Fork Gunnison River,14020002,2014,Elev_MinBasinwide_ft,7650
+10240,,Lake Fork Gunnison River,14020002,2014,Elev_Outlet_ft,7649
+10240,,Lake Fork Gunnison River,14020002,2014,Flow_7dayMax_10yr_cfs,2250
+10240,,Lake Fork Gunnison River,14020002,2014,Flow_7dayMin_10yr_cfs,36.9
+10240,,Lake Fork Gunnison River,14020002,2014,Flow_AnnualAvg_cfs,251
+10240,,Lake Fork Gunnison River,14020002,2014,Flow_Peak_100yr_cfs,4230
+10240,,Lake Fork Gunnison River,14020002,2014,Flow_Peak_10yr_cfs,2840
+10240,,Lake Fork Gunnison River,14020002,2014,Lat,38.351807
+10240,,Lake Fork Gunnison River,14020002,2014,Long,-107.236365
+10240,,Lake Fork Gunnison River,14020002,2014,NH3_mgL,0.018
+10240,,Lake Fork Gunnison River,14020002,2014,NO23_mgL,0.025
+10240,,Lake Fork Gunnison River,14020002,2014,NRR,1.55001066772035
+10240,,Lake Fork Gunnison River,14020002,2014,PRR,0.906478772305857
+10240,,Lake Fork Gunnison River,14020002,2014,Precip_AnnualAvgBasinwide_in,27.05
+10240,,Lake Fork Gunnison River,14020002,2014,Slope_AvgBasinwide_pct,41
+10240,,Lake Fork Gunnison River,14020002,2014,Slope_Streamflow_ftMi,52.2
+10240,,Lake Fork Gunnison River,14020002,2014,SpecCond_uScm,129.15
+10240,,Lake Fork Gunnison River,14020002,2014,TN_mgL,0.105
+10240,,Lake Fork Gunnison River,14020002,2014,TP_mgL,0.0235
+10240,,Lake Fork Gunnison River,14020002,2014,WaterTemp_C,15.97
+10240,,Lake Fork Gunnison River,14020002,2014,pH,8.085
+10267A,,Mill Creek,14020002,2014,CatchmentArea_sqKm,24.4495056
+10267A,,Mill Creek,14020002,2014,Chla_C_Avg_mgM2,7.38842028930194
+10267A,,Mill Creek,14020002,2014,Chla_NP_Avg_mgM2,40.9413381168658
+10267A,,Mill Creek,14020002,2014,Chla_N_Avg_mgM2,56.3960154192588
+10267A,,Mill Creek,14020002,2014,Chla_P_Avg_mgM2,6.37166520361818
+10267A,,Mill Creek,14020002,2014,DO_mgL,8.34
+10267A,,Mill Creek,14020002,2014,Eco3ID,21
+10267A,,Mill Creek,14020002,2014,Elev_AvgBasinwide_ft,10737
+10267A,,Mill Creek,14020002,2014,Elev_MaxBasinwide_ft,13000
+10267A,,Mill Creek,14020002,2014,Elev_MinBasinwide_ft,8980
+10267A,,Mill Creek,14020002,2014,Elev_Outlet_ft,8977
+10267A,,Mill Creek,14020002,2014,Flow_7dayMax_10yr_cfs,116
+10267A,,Mill Creek,14020002,2014,Flow_7dayMin_10yr_cfs,0.546
+10267A,,Mill Creek,14020002,2014,Flow_AnnualAvg_cfs,11.5
+10267A,,Mill Creek,14020002,2014,Flow_Peak_100yr_cfs,314
+10267A,,Mill Creek,14020002,2014,Flow_Peak_10yr_cfs,202
+10267A,,Mill Creek,14020002,2014,Lat,38.695605
+10267A,,Mill Creek,14020002,2014,Long,-107.0714
+10267A,,Mill Creek,14020002,2014,NH3_mgL,0.02175
+10267A,,Mill Creek,14020002,2014,NO23_mgL,0.025
+10267A,,Mill Creek,14020002,2014,NRR,2.01628600560026
+10267A,,Mill Creek,14020002,2014,PRR,0.925970264847454
+10267A,,Mill Creek,14020002,2014,Precip_AnnualAvgBasinwide_in,29.45
+10267A,,Mill Creek,14020002,2014,Slope_AvgBasinwide_pct,54
+10267A,,Mill Creek,14020002,2014,Slope_Streamflow_ftMi,413.6
+10267A,,Mill Creek,14020002,2014,SpecCond_uScm,53.92
+10267A,,Mill Creek,14020002,2014,TN_mgL,0.1305
+10267A,,Mill Creek,14020002,2014,TP_mgL,0.0525
+10267A,,Mill Creek,14020002,2014,WaterTemp_C,10.975
+10267A,,Mill Creek,14020002,2014,pH,7.735
+10268B,,Ohio Creek,14020002,2014,CatchmentArea_sqKm,20.6163204
+10268B,,Ohio Creek,14020002,2014,Chla_C_Avg_mgM2,13.895652837678
+10268B,,Ohio Creek,14020002,2014,Chla_NP_Avg_mgM2,80.9337048204267
+10268B,,Ohio Creek,14020002,2014,Chla_N_Avg_mgM2,62.2931949162246
+10268B,,Ohio Creek,14020002,2014,Chla_P_Avg_mgM2,13.014465096752
+10268B,,Ohio Creek,14020002,2014,DO_mgL,7.675
+10268B,,Ohio Creek,14020002,2014,Eco3ID,21
+10268B,,Ohio Creek,14020002,2014,Elev_AvgBasinwide_ft,10205
+10268B,,Ohio Creek,14020002,2014,Elev_MaxBasinwide_ft,12100
+10268B,,Ohio Creek,14020002,2014,Elev_MinBasinwide_ft,8910
+10268B,,Ohio Creek,14020002,2014,Elev_Outlet_ft,8909
+10268B,,Ohio Creek,14020002,2014,Flow_7dayMax_10yr_cfs,117
+10268B,,Ohio Creek,14020002,2014,Flow_7dayMin_10yr_cfs,0.376
+10268B,,Ohio Creek,14020002,2014,Flow_AnnualAvg_cfs,11.5
+10268B,,Ohio Creek,14020002,2014,Flow_Peak_100yr_cfs,292
+10268B,,Ohio Creek,14020002,2014,Flow_Peak_10yr_cfs,193
+10268B,,Ohio Creek,14020002,2014,Lat,38.795644
+10268B,,Ohio Creek,14020002,2014,Long,-107.087673
+10268B,,Ohio Creek,14020002,2014,NH3_mgL,0.0195
+10268B,,Ohio Creek,14020002,2014,NO23_mgL,0.025
+10268B,,Ohio Creek,14020002,2014,NRR,1.57010556303368
+10268B,,Ohio Creek,14020002,2014,PRR,0.975104421847542
+10268B,,Ohio Creek,14020002,2014,Precip_AnnualAvgBasinwide_in,32.14
+10268B,,Ohio Creek,14020002,2014,Slope_AvgBasinwide_pct,34
+10268B,,Ohio Creek,14020002,2014,Slope_Streamflow_ftMi,470
+10268B,,Ohio Creek,14020002,2014,SpecCond_uScm,50.26
+10268B,,Ohio Creek,14020002,2014,TN_mgL,0.1205
+10268B,,Ohio Creek,14020002,2014,TP_mgL,0.0135
+10268B,,Ohio Creek,14020002,2014,WaterTemp_C,13.95
+10268B,,Ohio Creek,14020002,2014,pH,7.62
+10283,,Cebolla Creek,14020002,2014,CatchmentArea_sqKm,442.88829
+10283,,Cebolla Creek,14020002,2014,Chla_C_Avg_mgM2,38.1848021067898
+10283,,Cebolla Creek,14020002,2014,Chla_NP_Avg_mgM2,66.9928628678295
+10283,,Cebolla Creek,14020002,2014,Chla_N_Avg_mgM2,60.4121980077096
+10283,,Cebolla Creek,14020002,2014,Chla_P_Avg_mgM2,20.0639670241594
+10283,,Cebolla Creek,14020002,2014,DO_mgL,8.115
+10283,,Cebolla Creek,14020002,2014,Eco3ID,21
+10283,,Cebolla Creek,14020002,2014,Elev_AvgBasinwide_ft,11051
+10283,,Cebolla Creek,14020002,2014,Elev_MaxBasinwide_ft,14000
+10283,,Cebolla Creek,14020002,2014,Elev_MinBasinwide_ft,8820
+10283,,Cebolla Creek,14020002,2014,Elev_Outlet_ft,8824
+10283,,Cebolla Creek,14020002,2014,Flow_7dayMax_10yr_cfs,1030
+10283,,Cebolla Creek,14020002,2014,Flow_7dayMin_10yr_cfs,15.3
+10283,,Cebolla Creek,14020002,2014,Flow_AnnualAvg_cfs,112
+10283,,Cebolla Creek,14020002,2014,Flow_Peak_100yr_cfs,2040
+10283,,Cebolla Creek,14020002,2014,Flow_Peak_10yr_cfs,1310
+10283,,Cebolla Creek,14020002,2014,Lat,38.106759
+10283,,Cebolla Creek,14020002,2014,Long,-107.034974
+10283,,Cebolla Creek,14020002,2014,NH3_mgL,0.0195
+10283,,Cebolla Creek,14020002,2014,NO23_mgL,0.0485
+10283,,Cebolla Creek,14020002,2014,NRR,1.12594682590108
+10283,,Cebolla Creek,14020002,2014,PRR,0.82332928162548
+10283,,Cebolla Creek,14020002,2014,Precip_AnnualAvgBasinwide_in,25.15
+10283,,Cebolla Creek,14020002,2014,Slope_AvgBasinwide_pct,28
+10283,,Cebolla Creek,14020002,2014,Slope_Streamflow_ftMi,120
+10283,,Cebolla Creek,14020002,2014,SpecCond_uScm,107.8
+10283,,Cebolla Creek,14020002,2014,TN_mgL,0.1555
+10283,,Cebolla Creek,14020002,2014,TP_mgL,0.0655
+10283,,Cebolla Creek,14020002,2014,WaterTemp_C,13.125
+10283,,Cebolla Creek,14020002,2014,pH,7.675
+10322,,Cochetopa Creek,14020003,2014,CatchmentArea_sqKm,981.60621
+10322,,Cochetopa Creek,14020003,2014,Chla_C_Avg_mgM2,34.4341055684898
+10322,,Cochetopa Creek,14020003,2014,Chla_NP_Avg_mgM2,64.7334071218656
+10322,,Cochetopa Creek,14020003,2014,Chla_N_Avg_mgM2,66.7669172932331
+10322,,Cochetopa Creek,14020003,2014,Chla_P_Avg_mgM2,18.77607724896
+10322,,Cochetopa Creek,14020003,2014,DO_mgL,7.045
+10322,,Cochetopa Creek,14020003,2014,Eco3ID,21
+10322,,Cochetopa Creek,14020003,2014,Elev_AvgBasinwide_ft,10045
+10322,,Cochetopa Creek,14020003,2014,Elev_MaxBasinwide_ft,14000
+10322,,Cochetopa Creek,14020003,2014,Elev_MinBasinwide_ft,8000
+10322,,Cochetopa Creek,14020003,2014,Elev_Outlet_ft,7998
+10322,,Cochetopa Creek,14020003,2014,Flow_7dayMax_10yr_cfs,1240
+10322,,Cochetopa Creek,14020003,2014,Flow_7dayMin_10yr_cfs,10.7
+10322,,Cochetopa Creek,14020003,2014,Flow_AnnualAvg_cfs,141
+10322,,Cochetopa Creek,14020003,2014,Flow_Peak_100yr_cfs,2410
+10322,,Cochetopa Creek,14020003,2014,Flow_Peak_10yr_cfs,1430
+10322,,Cochetopa Creek,14020003,2014,Lat,38.43725
+10322,,Cochetopa Creek,14020003,2014,Long,-106.7625
+10322,,Cochetopa Creek,14020003,2014,NH3_mgL,0.021
+10322,,Cochetopa Creek,14020003,2014,NO23_mgL,0.025
+10322,,Cochetopa Creek,14020003,2014,NRR,1.18710124431566
+10322,,Cochetopa Creek,14020003,2014,PRR,0.82863639469016
+10322,,Cochetopa Creek,14020003,2014,Precip_AnnualAvgBasinwide_in,19.09
+10322,,Cochetopa Creek,14020003,2014,Slope_AvgBasinwide_pct,19
+10322,,Cochetopa Creek,14020003,2014,Slope_Streamflow_ftMi,57.5
+10322,,Cochetopa Creek,14020003,2014,SpecCond_uScm,183.155
+10322,,Cochetopa Creek,14020003,2014,TN_mgL,0.235
+10322,,Cochetopa Creek,14020003,2014,TP_mgL,0.135
+10322,,Cochetopa Creek,14020003,2014,WaterTemp_C,19.915
+10322,,Cochetopa Creek,14020003,2014,pH,8.285
+10324,,Cochetopa Creek,14020003,2014,CatchmentArea_sqKm,419.57838
+10324,,Cochetopa Creek,14020003,2014,Chla_C_Avg_mgM2,31.1804892943018
+10324,,Cochetopa Creek,14020003,2014,Chla_NP_Avg_mgM2,152.089614900195
+10324,,Cochetopa Creek,14020003,2014,Chla_N_Avg_mgM2,171.718636693256
+10324,,Cochetopa Creek,14020003,2014,Chla_P_Avg_mgM2,19.9961833517805
+10324,,Cochetopa Creek,14020003,2014,DO_mgL,7.905
+10324,,Cochetopa Creek,14020003,2014,Eco3ID,21
+10324,,Cochetopa Creek,14020003,2014,Elev_AvgBasinwide_ft,10539
+10324,,Cochetopa Creek,14020003,2014,Elev_Outlet_ft,9019
+10324,,Cochetopa Creek,14020003,2014,Flow_7dayMax_10yr_cfs,774
+10324,,Cochetopa Creek,14020003,2014,Flow_7dayMin_10yr_cfs,7.55
+10324,,Cochetopa Creek,14020003,2014,Flow_AnnualAvg_cfs,85.3
+10324,,Cochetopa Creek,14020003,2014,Flow_Peak_100yr_cfs,1560
+10324,,Cochetopa Creek,14020003,2014,Flow_Peak_10yr_cfs,955
+10324,,Cochetopa Creek,14020003,2014,Lat,38.22389
+10324,,Cochetopa Creek,14020003,2014,Long,-106.743961
+10324,,Cochetopa Creek,14020003,2014,NH3_mgL,0.0235
+10324,,Cochetopa Creek,14020003,2014,NO23_mgL,0.025
+10324,,Cochetopa Creek,14020003,2014,NRR,1.49597896393777
+10324,,Cochetopa Creek,14020003,2014,PRR,0.87084944051098
+10324,,Cochetopa Creek,14020003,2014,Slope_AvgBasinwide_pct,20
+10324,,Cochetopa Creek,14020003,2014,SpecCond_uScm,133.55
+10324,,Cochetopa Creek,14020003,2014,TN_mgL,0.1555
+10324,,Cochetopa Creek,14020003,2014,TP_mgL,0.125
+10324,,Cochetopa Creek,14020003,2014,WaterTemp_C,21.025
+10324,,Cochetopa Creek,14020003,2014,pH,8.8
+10329,,Stewart Creek,14020003,2014,CatchmentArea_sqKm,14.4003444
+10329,,Stewart Creek,14020003,2014,Chla_C_Avg_mgM2,41.3819319873287
+10329,,Stewart Creek,14020003,2014,Chla_NP_Avg_mgM2,56.5315827640166
+10329,,Stewart Creek,14020003,2014,Chla_N_Avg_mgM2,58.0228235563528
+10329,,Stewart Creek,14020003,2014,Chla_P_Avg_mgM2,34.5018892408687
+10329,,Stewart Creek,14020003,2014,DO_mgL,7.67
+10329,,Stewart Creek,14020003,2014,Eco3ID,21
+10329,,Stewart Creek,14020003,2014,Elev_AvgBasinwide_ft,11986
+10329,,Stewart Creek,14020003,2014,Elev_MaxBasinwide_ft,13800
+10329,,Stewart Creek,14020003,2014,Elev_MinBasinwide_ft,10400
+10329,,Stewart Creek,14020003,2014,Elev_Outlet_ft,10427
+10329,,Stewart Creek,14020003,2014,Flow_7dayMax_10yr_cfs,80.6
+10329,,Stewart Creek,14020003,2014,Flow_7dayMin_10yr_cfs,0.714
+10329,,Stewart Creek,14020003,2014,Flow_AnnualAvg_cfs,7.84
+10329,,Stewart Creek,14020003,2014,Flow_Peak_100yr_cfs,219
+10329,,Stewart Creek,14020003,2014,Flow_Peak_10yr_cfs,142
+10329,,Stewart Creek,14020003,2014,Lat,38.023889
+10329,,Stewart Creek,14020003,2014,Long,-106.841944
+10329,,Stewart Creek,14020003,2014,NH3_mgL,0.0205
+10329,,Stewart Creek,14020003,2014,NO23_mgL,0.0915
+10329,,Stewart Creek,14020003,2014,NRR,1.09078866852709
+10329,,Stewart Creek,14020003,2014,PRR,0.95115823832258
+10329,,Stewart Creek,14020003,2014,Precip_AnnualAvgBasinwide_in,30.93
+10329,,Stewart Creek,14020003,2014,Slope_AvgBasinwide_pct,43
+10329,,Stewart Creek,14020003,2014,Slope_Streamflow_ftMi,390.4
+10329,,Stewart Creek,14020003,2014,SpecCond_uScm,65.25
+10329,,Stewart Creek,14020003,2014,TN_mgL,0.2025
+10329,,Stewart Creek,14020003,2014,TP_mgL,0.0765
+10329,,Stewart Creek,14020003,2014,WaterTemp_C,12.895
+10329,,Stewart Creek,14020003,2014,pH,7.825
+10767B,,Roaring Forks Creek,14030002,2014,CatchmentArea_sqKm,50.763804
+10767B,,Roaring Forks Creek,14030002,2014,Chla_C_Avg_mgM2,12.3027365367734
+10767B,,Roaring Forks Creek,14030002,2014,Chla_NP_Avg_mgM2,151.665966947826
+10767B,,Roaring Forks Creek,14030002,2014,Chla_N_Avg_mgM2,89.9489332468226
+10767B,,Roaring Forks Creek,14030002,2014,Chla_P_Avg_mgM2,11.7604671577421
+10767B,,Roaring Forks Creek,14030002,2014,DO_mgL,6.78
+10767B,,Roaring Forks Creek,14030002,2014,Eco3ID,21
+10767B,,Roaring Forks Creek,14030002,2014,Elev_AvgBasinwide_ft,10143
+10767B,,Roaring Forks Creek,14030002,2014,Elev_Outlet_ft,8173
+10767B,,Roaring Forks Creek,14030002,2014,Flow_7dayMax_10yr_cfs,182
+10767B,,Roaring Forks Creek,14030002,2014,Flow_7dayMin_10yr_cfs,1.34
+10767B,,Roaring Forks Creek,14030002,2014,Flow_AnnualAvg_cfs,23.6
+10767B,,Roaring Forks Creek,14030002,2014,Flow_Peak_100yr_cfs,1030
+10767B,,Roaring Forks Creek,14030002,2014,Flow_Peak_10yr_cfs,487
+10767B,,Roaring Forks Creek,14030002,2014,Lat,37.598635
+10767B,,Roaring Forks Creek,14030002,2014,Long,-108.112647
+10767B,,Roaring Forks Creek,14030002,2014,NH3_mgL,0.0185
+10767B,,Roaring Forks Creek,14030002,2014,NO23_mgL,0.025
+10767B,,Roaring Forks Creek,14030002,2014,NRR,1.79265406165648
+10767B,,Roaring Forks Creek,14030002,2014,PRR,0.982039340103945
+10767B,,Roaring Forks Creek,14030002,2014,Slope_AvgBasinwide_pct,36
+10767B,,Roaring Forks Creek,14030002,2014,SpecCond_uScm,224.95
+10767B,,Roaring Forks Creek,14030002,2014,TN_mgL,0.1585
+10767B,,Roaring Forks Creek,14030002,2014,TP_mgL,0.0155
+10767B,,Roaring Forks Creek,14030002,2014,WaterTemp_C,19.37
+10767B,,Roaring Forks Creek,14030002,2014,pH,8.62
+10769,,Fish Creek,14030002,2014,CatchmentArea_sqKm,91.944645
+10769,,Fish Creek,14030002,2014,Chla_C_Avg_mgM2,31.0110301133545
+10769,,Fish Creek,14030002,2014,Chla_NP_Avg_mgM2,38.1283157131407
+10769,,Fish Creek,14030002,2014,Chla_N_Avg_mgM2,33.8918361894584
+10769,,Fish Creek,14030002,2014,Chla_P_Avg_mgM2,15.7032174344491
+10769,,Fish Creek,14030002,2014,DO_mgL,7.25
+10769,,Fish Creek,14030002,2014,Eco3ID,21
+10769,,Fish Creek,14030002,2014,Elev_AvgBasinwide_ft,10152
+10769,,Fish Creek,14030002,2014,Elev_MaxBasinwide_ft,13300
+10769,,Fish Creek,14030002,2014,Elev_MinBasinwide_ft,8240
+10769,,Fish Creek,14030002,2014,Elev_Outlet_ft,8244
+10769,,Fish Creek,14030002,2014,Flow_7dayMax_10yr_cfs,274
+10769,,Fish Creek,14030002,2014,Flow_7dayMin_10yr_cfs,2.2
+10769,,Fish Creek,14030002,2014,Flow_AnnualAvg_cfs,34
+10769,,Fish Creek,14030002,2014,Flow_Peak_100yr_cfs,1460
+10769,,Fish Creek,14030002,2014,Flow_Peak_10yr_cfs,699
+10769,,Fish Creek,14030002,2014,Lat,37.7463
+10769,,Fish Creek,14030002,2014,Long,-108.2362
+10769,,Fish Creek,14030002,2014,NH3_mgL,0.016
+10769,,Fish Creek,14030002,2014,NO23_mgL,0.025
+10769,,Fish Creek,14030002,2014,NRR,1.02586556292312
+10769,,Fish Creek,14030002,2014,PRR,0.801860985502412
+10769,,Fish Creek,14030002,2014,Precip_AnnualAvgBasinwide_in,32.13
+10769,,Fish Creek,14030002,2014,Slope_AvgBasinwide_pct,31
+10769,,Fish Creek,14030002,2014,Slope_Streamflow_ftMi,209.4
+10769,,Fish Creek,14030002,2014,SpecCond_uScm,157.25
+10769,,Fish Creek,14030002,2014,TN_mgL,0.1375
+10769,,Fish Creek,14030002,2014,TP_mgL,0.0115
+10769,,Fish Creek,14030002,2014,WaterTemp_C,15.76
+10769,,Fish Creek,14030002,2014,pH,8.035
+10814,Downstream,San Miguel River,14030003,2013,CatchmentArea_sqKm,111.110571
+10814,Downstream,San Miguel River,14030003,2013,Chla_C_Avg_mgM2,55.4131521697645
+10814,Downstream,San Miguel River,14030003,2013,Chla_NP_Avg_mgM2,68.8682111369795
+10814,Downstream,San Miguel River,14030003,2013,Chla_N_Avg_mgM2,75.7143620472501
+10814,Downstream,San Miguel River,14030003,2013,Chla_P_Avg_mgM2,49.8887828708828
+10814,Downstream,San Miguel River,14030003,2013,DO_mgL,7.34
+10814,Downstream,San Miguel River,14030003,2013,Eco3ID,21
+10814,Downstream,San Miguel River,14030003,2013,Elev_AvgBasinwide_ft,11174
+10814,Downstream,San Miguel River,14030003,2013,Elev_MaxBasinwide_ft,13800
+10814,Downstream,San Miguel River,14030003,2013,Elev_MinBasinwide_ft,8620
+10814,Downstream,San Miguel River,14030003,2013,Elev_Outlet_ft,8639
+10814,Downstream,San Miguel River,14030003,2013,Flow_7dayMax_10yr_cfs,452
+10814,Downstream,San Miguel River,14030003,2013,Flow_7dayMin_10yr_cfs,4.59
+10814,Downstream,San Miguel River,14030003,2013,Flow_AnnualAvg_cfs,59.9
+10814,Downstream,San Miguel River,14030003,2013,Flow_Peak_100yr_cfs,1630
+10814,Downstream,San Miguel River,14030003,2013,Flow_Peak_10yr_cfs,785
+10814,Downstream,San Miguel River,14030003,2013,Lat,37.948209
+10814,Downstream,San Miguel River,14030003,2013,Long,-107.877067
+10814,Downstream,San Miguel River,14030003,2013,NH3_mgL,0.01225
+10814,Downstream,San Miguel River,14030003,2013,NO23_mgL,0.76
+10814,Downstream,San Miguel River,14030003,2013,NRR,1.07774972026863
+10814,Downstream,San Miguel River,14030003,2013,PRR,0.973841700669315
+10814,Downstream,San Miguel River,14030003,2013,Precip_AnnualAvgBasinwide_in,36.67
+10814,Downstream,San Miguel River,14030003,2013,Slope_AvgBasinwide_pct,53
+10814,Downstream,San Miguel River,14030003,2013,Slope_Streamflow_ftMi,386.7
+10814,Downstream,San Miguel River,14030003,2013,SpecCond_uScm,228.45
+10814,Downstream,San Miguel River,14030003,2013,TN_mgL,0.975
+10814,Downstream,San Miguel River,14030003,2013,TP_mgL,0.13
+10814,Downstream,San Miguel River,14030003,2013,WaterTemp_C,16.715
+10814,Downstream,San Miguel River,14030003,2013,pH,7.595
+10815,Upstream,San Miguel River,14030003,2013,CatchmentArea_sqKm,96.088629
+10815,Upstream,San Miguel River,14030003,2013,Chla_C_Avg_mgM2,21.0807221098431
+10815,Upstream,San Miguel River,14030003,2013,Chla_NP_Avg_mgM2,24.7410404183046
+10815,Upstream,San Miguel River,14030003,2013,Chla_N_Avg_mgM2,32.2650280523644
+10815,Upstream,San Miguel River,14030003,2013,Chla_P_Avg_mgM2,7.99847334071219
+10815,Upstream,San Miguel River,14030003,2013,DO_mgL,7.295
+10815,Upstream,San Miguel River,14030003,2013,Eco3ID,21
+10815,Upstream,San Miguel River,14030003,2013,Elev_AvgBasinwide_ft,11291
+10815,Upstream,San Miguel River,14030003,2013,Elev_MaxBasinwide_ft,13800
+10815,Upstream,San Miguel River,14030003,2013,Elev_MinBasinwide_ft,8640
+10815,Upstream,San Miguel River,14030003,2013,Elev_Outlet_ft,8638
+10815,Upstream,San Miguel River,14030003,2013,Flow_7dayMax_10yr_cfs,417
+10815,Upstream,San Miguel River,14030003,2013,Flow_7dayMin_10yr_cfs,4.29
+10815,Upstream,San Miguel River,14030003,2013,Flow_AnnualAvg_cfs,56.1
+10815,Upstream,San Miguel River,14030003,2013,Flow_Peak_100yr_cfs,1490
+10815,Upstream,San Miguel River,14030003,2013,Flow_Peak_10yr_cfs,718
+10815,Upstream,San Miguel River,14030003,2013,Lat,37.94972
+10815,Upstream,San Miguel River,14030003,2013,Long,-107.86861
+10815,Upstream,San Miguel River,14030003,2013,NH3_mgL,0.00925
+10815,Upstream,San Miguel River,14030003,2013,NO23_mgL,0.15
+10815,Upstream,San Miguel River,14030003,2013,NRR,1.13962428474343
+10815,Upstream,San Miguel River,14030003,2013,PRR,0.682088528791288
+10815,Upstream,San Miguel River,14030003,2013,Precip_AnnualAvgBasinwide_in,37.52
+10815,Upstream,San Miguel River,14030003,2013,Slope_AvgBasinwide_pct,55
+10815,Upstream,San Miguel River,14030003,2013,Slope_Streamflow_ftMi,405.7
+10815,Upstream,San Miguel River,14030003,2013,SpecCond_uScm,219.8
+10815,Upstream,San Miguel River,14030003,2013,TN_mgL,0.2
+10815,Upstream,San Miguel River,14030003,2013,TP_mgL,0.018
+10815,Upstream,San Miguel River,14030003,2013,WaterTemp_C,16.495
+10815,Upstream,San Miguel River,14030003,2013,pH,7.645
+10818,Undisturbed,San Miguel River,14030003,2013,CatchmentArea_sqKm,9.8937618
+10818,Undisturbed,San Miguel River,14030003,2013,Chla_C_Avg_mgM2,8.54074271974352
+10818,Undisturbed,San Miguel River,14030003,2013,Chla_NP_Avg_mgM2,11.7265753215526
+10818,Undisturbed,San Miguel River,14030003,2013,Chla_N_Avg_mgM2,13.1500324415099
+10818,Undisturbed,San Miguel River,14030003,2013,Chla_P_Avg_mgM2,5.2193427731766
+10818,Undisturbed,San Miguel River,14030003,2013,DO_mgL,7.58
+10818,Undisturbed,San Miguel River,14030003,2013,Eco3ID,21
+10818,Undisturbed,San Miguel River,14030003,2013,Elev_AvgBasinwide_ft,12007
+10818,Undisturbed,San Miguel River,14030003,2013,Elev_MaxBasinwide_ft,13500
+10818,Undisturbed,San Miguel River,14030003,2013,Elev_MinBasinwide_ft,8980
+10818,Undisturbed,San Miguel River,14030003,2013,Elev_Outlet_ft,8981
+10818,Undisturbed,San Miguel River,14030003,2013,Flow_7dayMax_10yr_cfs,62.6
+10818,Undisturbed,San Miguel River,14030003,2013,Flow_7dayMin_10yr_cfs,0.676
+10818,Undisturbed,San Miguel River,14030003,2013,Flow_AnnualAvg_cfs,9.24
+10818,Undisturbed,San Miguel River,14030003,2013,Flow_Peak_100yr_cfs,391
+10818,Undisturbed,San Miguel River,14030003,2013,Flow_Peak_10yr_cfs,179
+10818,Undisturbed,San Miguel River,14030003,2013,Lat,37.93111
+10818,Undisturbed,San Miguel River,14030003,2013,Long,-107.77889
+10818,Undisturbed,San Miguel River,14030003,2013,NH3_mgL,0.00775
+10818,Undisturbed,San Miguel River,14030003,2013,NO23_mgL,0.14
+10818,Undisturbed,San Miguel River,14030003,2013,NRR,1.20121531103147
+10818,Undisturbed,San Miguel River,14030003,2013,PRR,0.770390959558736
+10818,Undisturbed,San Miguel River,14030003,2013,Precip_AnnualAvgBasinwide_in,41.01
+10818,Undisturbed,San Miguel River,14030003,2013,Slope_AvgBasinwide_pct,59
+10818,Undisturbed,San Miguel River,14030003,2013,Slope_Streamflow_ftMi,1109.1
+10818,Undisturbed,San Miguel River,14030003,2013,SpecCond_uScm,199
+10818,Undisturbed,San Miguel River,14030003,2013,TN_mgL,0.355
+10818,Undisturbed,San Miguel River,14030003,2013,TP_mgL,0.0093
+10818,Undisturbed,San Miguel River,14030003,2013,WaterTemp_C,11.61
+10818,Undisturbed,San Miguel River,14030003,2013,pH,7.39
+120,Upstream,Michigan River,10180001,2013,CatchmentArea_sqKm,471.37818
+120,Upstream,Michigan River,10180001,2013,Chla_C_Avg_mgM2,89.4744475401702
+120,Upstream,Michigan River,10180001,2013,Chla_NP_Avg_mgM2,168.781344223503
+120,Upstream,Michigan River,10180001,2013,Chla_N_Avg_mgM2,129.466814243731
+120,Upstream,Michigan River,10180001,2013,Chla_P_Avg_mgM2,58.6328766077631
+120,Upstream,Michigan River,10180001,2013,DO_mgL,9.69
+120,Upstream,Michigan River,10180001,2013,Eco3ID,21
+120,Upstream,Michigan River,10180001,2013,Elev_AvgBasinwide_ft,9275
+120,Upstream,Michigan River,10180001,2013,Elev_MaxBasinwide_ft,12900
+120,Upstream,Michigan River,10180001,2013,Elev_MinBasinwide_ft,8050
+120,Upstream,Michigan River,10180001,2013,Elev_Outlet_ft,8053
+120,Upstream,Michigan River,10180001,2013,Flow_7dayMax_10yr_cfs,1020
+120,Upstream,Michigan River,10180001,2013,Flow_7dayMin_10yr_cfs,4.32
+120,Upstream,Michigan River,10180001,2013,Flow_AnnualAvg_cfs,112
+120,Upstream,Michigan River,10180001,2013,Flow_Peak_100yr_cfs,1880
+120,Upstream,Michigan River,10180001,2013,Flow_Peak_10yr_cfs,1200
+120,Upstream,Michigan River,10180001,2013,Lat,40.74101
+120,Upstream,Michigan River,10180001,2013,Long,-106.28196
+120,Upstream,Michigan River,10180001,2013,NH3_mgL,0.00925
+120,Upstream,Michigan River,10180001,2013,NO23_mgL,0.025
+120,Upstream,Michigan River,10180001,2013,NRR,1.08221525652458
+120,Upstream,Michigan River,10180001,2013,PRR,0.905949728241447
+120,Upstream,Michigan River,10180001,2013,Precip_AnnualAvgBasinwide_in,24.32
+120,Upstream,Michigan River,10180001,2013,Slope_AvgBasinwide_pct,16
+120,Upstream,Michigan River,10180001,2013,Slope_Streamflow_ftMi,30.7
+120,Upstream,Michigan River,10180001,2013,SpecCond_uScm,175.5
+120,Upstream,Michigan River,10180001,2013,TN_mgL,0.395
+120,Upstream,Michigan River,10180001,2013,TP_mgL,0.029
+120,Upstream,Michigan River,10180001,2013,WaterTemp_C,17.175
+120,Upstream,Michigan River,10180001,2013,pH,8.115
+12554A,Upstream,Gore Creek,14010003,2013,CatchmentArea_sqKm,199.42923
+12554A,Upstream,Gore Creek,14010003,2013,Chla_C_Avg_mgM2,31.6888668371436
+12554A,Upstream,Gore Creek,14010003,2013,Chla_NP_Avg_mgM2,208.434792565169
+12554A,Upstream,Gore Creek,14010003,2013,Chla_N_Avg_mgM2,80.5495973436128
+12554A,Upstream,Gore Creek,14010003,2013,Chla_P_Avg_mgM2,64.394488759971
+12554A,Upstream,Gore Creek,14010003,2013,DO_mgL,8.58
+12554A,Upstream,Gore Creek,14010003,2013,Eco3ID,21
+12554A,Upstream,Gore Creek,14010003,2013,Elev_AvgBasinwide_ft,10514
+12554A,Upstream,Gore Creek,14010003,2013,Elev_MaxBasinwide_ft,13300
+12554A,Upstream,Gore Creek,14010003,2013,Elev_MinBasinwide_ft,8070
+12554A,Upstream,Gore Creek,14010003,2013,Elev_Outlet_ft,8080
+12554A,Upstream,Gore Creek,14010003,2013,Flow_7dayMax_10yr_cfs,663
+12554A,Upstream,Gore Creek,14010003,2013,Flow_7dayMin_10yr_cfs,5.55
+12554A,Upstream,Gore Creek,14010003,2013,Flow_AnnualAvg_cfs,70.1
+12554A,Upstream,Gore Creek,14010003,2013,Flow_Peak_100yr_cfs,1420
+12554A,Upstream,Gore Creek,14010003,2013,Flow_Peak_10yr_cfs,945
+12554A,Upstream,Gore Creek,14010003,2013,Lat,39.64097
+12554A,Upstream,Gore Creek,14010003,2013,Long,-106.39436
+12554A,Upstream,Gore Creek,14010003,2013,NH3_mgL,0.00725
+12554A,Upstream,Gore Creek,14010003,2013,NO23_mgL,0.1105
+12554A,Upstream,Gore Creek,14010003,2013,NRR,1.26994127062607
+12554A,Upstream,Gore Creek,14010003,2013,PRR,1.20517063993824
+12554A,Upstream,Gore Creek,14010003,2013,Precip_AnnualAvgBasinwide_in,28.8
+12554A,Upstream,Gore Creek,14010003,2013,Slope_AvgBasinwide_pct,42
+12554A,Upstream,Gore Creek,14010003,2013,Slope_Streamflow_ftMi,165
+12554A,Upstream,Gore Creek,14010003,2013,SpecCond_uScm,211.6
+12554A,Upstream,Gore Creek,14010003,2013,TN_mgL,0.2755
+12554A,Upstream,Gore Creek,14010003,2013,TP_mgL,0.0046
+12554A,Upstream,Gore Creek,14010003,2013,WaterTemp_C,13.71
+12554A,Upstream,Gore Creek,14010003,2013,pH,8.35
+12554B,Downstream,Gore Creek,14010003,2013,CatchmentArea_sqKm,236.207088
+12554B,Downstream,Gore Creek,14010003,2013,Chla_C_Avg_mgM2,23.8598526773787
+12554B,Downstream,Gore Creek,14010003,2013,Chla_NP_Avg_mgM2,31.4516239838174
+12554B,Downstream,Gore Creek,14010003,2013,Chla_N_Avg_mgM2,20.402885386054
+12554B,Downstream,Gore Creek,14010003,2013,Chla_P_Avg_mgM2,23.0464486088317
+12554B,Downstream,Gore Creek,14010003,2013,DO_mgL,8.6
+12554B,Downstream,Gore Creek,14010003,2013,Eco3ID,21
+12554B,Downstream,Gore Creek,14010003,2013,Elev_AvgBasinwide_ft,10431
+12554B,Downstream,Gore Creek,14010003,2013,Elev_MaxBasinwide_ft,13300
+12554B,Downstream,Gore Creek,14010003,2013,Elev_MinBasinwide_ft,8040
+12554B,Downstream,Gore Creek,14010003,2013,Elev_Outlet_ft,8058
+12554B,Downstream,Gore Creek,14010003,2013,Flow_7dayMax_10yr_cfs,742
+12554B,Downstream,Gore Creek,14010003,2013,Flow_7dayMin_10yr_cfs,6.18
+12554B,Downstream,Gore Creek,14010003,2013,Flow_AnnualAvg_cfs,79
+12554B,Downstream,Gore Creek,14010003,2013,Flow_Peak_100yr_cfs,1560
+12554B,Downstream,Gore Creek,14010003,2013,Flow_Peak_10yr_cfs,1040
+12554B,Downstream,Gore Creek,14010003,2013,Lat,39.640194
+12554B,Downstream,Gore Creek,14010003,2013,Long,-106.399546
+12554B,Downstream,Gore Creek,14010003,2013,NH3_mgL,0.0195
+12554B,Downstream,Gore Creek,14010003,2013,NO23_mgL,0.605
+12554B,Downstream,Gore Creek,14010003,2013,NRR,0.950658518717726
+12554B,Downstream,Gore Creek,14010003,2013,PRR,0.989065762517359
+12554B,Downstream,Gore Creek,14010003,2013,Precip_AnnualAvgBasinwide_in,28.32
+12554B,Downstream,Gore Creek,14010003,2013,Slope_AvgBasinwide_pct,40
+12554B,Downstream,Gore Creek,14010003,2013,Slope_Streamflow_ftMi,163.9
+12554B,Downstream,Gore Creek,14010003,2013,SpecCond_uScm,223.7
+12554B,Downstream,Gore Creek,14010003,2013,TN_mgL,0.88
+12554B,Downstream,Gore Creek,14010003,2013,TP_mgL,0.065
+12554B,Downstream,Gore Creek,14010003,2013,WaterTemp_C,12.675
+12554B,Downstream,Gore Creek,14010003,2013,pH,8.245
+12555,Undisturbed,Gore Creek,14010003,2013,CatchmentArea_sqKm,108.261582
+12555,Undisturbed,Gore Creek,14010003,2013,Chla_C_Avg_mgM2,7.21896110835464
+12555,Undisturbed,Gore Creek,14010003,2013,Chla_NP_Avg_mgM2,52.3967787489027
+12555,Undisturbed,Gore Creek,14010003,2013,Chla_N_Avg_mgM2,24.7749322544941
+12555,Undisturbed,Gore Creek,14010003,2013,Chla_P_Avg_mgM2,19.5555894813175
+12555,Undisturbed,Gore Creek,14010003,2013,DO_mgL,7.625
+12555,Undisturbed,Gore Creek,14010003,2013,Eco3ID,21
+12555,Undisturbed,Gore Creek,14010003,2013,Elev_AvgBasinwide_ft,10710
+12555,Undisturbed,Gore Creek,14010003,2013,Elev_MaxBasinwide_ft,13300
+12555,Undisturbed,Gore Creek,14010003,2013,Elev_MinBasinwide_ft,8380
+12555,Undisturbed,Gore Creek,14010003,2013,Elev_Outlet_ft,8377
+12555,Undisturbed,Gore Creek,14010003,2013,Flow_7dayMax_10yr_cfs,406
+12555,Undisturbed,Gore Creek,14010003,2013,Flow_7dayMin_10yr_cfs,3.16
+12555,Undisturbed,Gore Creek,14010003,2013,Flow_AnnualAvg_cfs,42.1
+12555,Undisturbed,Gore Creek,14010003,2013,Flow_Peak_100yr_cfs,919
+12555,Undisturbed,Gore Creek,14010003,2013,Flow_Peak_10yr_cfs,608
+12555,Undisturbed,Gore Creek,14010003,2013,Lat,39.64167
+12555,Undisturbed,Gore Creek,14010003,2013,Long,-106.30667
+12555,Undisturbed,Gore Creek,14010003,2013,NH3_mgL,0.00775
+12555,Undisturbed,Gore Creek,14010003,2013,NO23_mgL,0.08
+12555,Undisturbed,Gore Creek,14010003,2013,NRR,1.62382475827903
+12555,Undisturbed,Gore Creek,14010003,2013,PRR,1.50414556033393
+12555,Undisturbed,Gore Creek,14010003,2013,Precip_AnnualAvgBasinwide_in,29.28
+12555,Undisturbed,Gore Creek,14010003,2013,Slope_AvgBasinwide_pct,42
+12555,Undisturbed,Gore Creek,14010003,2013,Slope_Streamflow_ftMi,229.4
+12555,Undisturbed,Gore Creek,14010003,2013,SpecCond_uScm,111.415
+12555,Undisturbed,Gore Creek,14010003,2013,TN_mgL,0.2
+12555,Undisturbed,Gore Creek,14010003,2013,TP_mgL,0.0082
+12555,Undisturbed,Gore Creek,14010003,2013,WaterTemp_C,14.12
+12555,Undisturbed,Gore Creek,14010003,2013,pH,8.15
+12783B,Downstream,Roaring Fork River,14010004,2013,CatchmentArea_sqKm,745.91712
+12783B,Downstream,Roaring Fork River,14010004,2013,Chla_C_Avg_mgM2,23.2497996259685
+12783B,Downstream,Roaring Fork River,14010004,2013,Chla_NP_Avg_mgM2,47.4485706652418
+12783B,Downstream,Roaring Fork River,14010004,2013,Chla_N_Avg_mgM2,31.8583260180909
+12783B,Downstream,Roaring Fork River,14010004,2013,Chla_P_Avg_mgM2,20.8095874203275
+12783B,Downstream,Roaring Fork River,14010004,2013,DO_mgL,8.225
+12783B,Downstream,Roaring Fork River,14010004,2013,Eco3ID,21
+12783B,Downstream,Roaring Fork River,14010004,2013,Elev_AvgBasinwide_ft,11010
+12783B,Downstream,Roaring Fork River,14010004,2013,Elev_MaxBasinwide_ft,14300
+12783B,Downstream,Roaring Fork River,14010004,2013,Elev_MinBasinwide_ft,7610
+12783B,Downstream,Roaring Fork River,14010004,2013,Elev_Outlet_ft,7607
+12783B,Downstream,Roaring Fork River,14010004,2013,Flow_7dayMax_10yr_cfs,2510
+12783B,Downstream,Roaring Fork River,14010004,2013,Flow_7dayMin_10yr_cfs,49.1
+12783B,Downstream,Roaring Fork River,14010004,2013,Flow_AnnualAvg_cfs,274
+12783B,Downstream,Roaring Fork River,14010004,2013,Flow_Peak_100yr_cfs,4520
+12783B,Downstream,Roaring Fork River,14010004,2013,Flow_Peak_10yr_cfs,3220
+12783B,Downstream,Roaring Fork River,14010004,2013,Lat,39.21797
+12783B,Downstream,Roaring Fork River,14010004,2013,Long,-106.854638
+12783B,Downstream,Roaring Fork River,14010004,2013,NH3_mgL,0.00925
+12783B,Downstream,Roaring Fork River,14010004,2013,NO23_mgL,0.0885
+12783B,Downstream,Roaring Fork River,14010004,2013,NRR,1.10011842372793
+12783B,Downstream,Roaring Fork River,14010004,2013,PRR,0.964757708278966
+12783B,Downstream,Roaring Fork River,14010004,2013,Precip_AnnualAvgBasinwide_in,32.43
+12783B,Downstream,Roaring Fork River,14010004,2013,Slope_AvgBasinwide_pct,45
+12783B,Downstream,Roaring Fork River,14010004,2013,Slope_Streamflow_ftMi,133.7
+12783B,Downstream,Roaring Fork River,14010004,2013,SpecCond_uScm,282.45
+12783B,Downstream,Roaring Fork River,14010004,2013,TN_mgL,0.2335
+12783B,Downstream,Roaring Fork River,14010004,2013,TP_mgL,0.00775
+12783B,Downstream,Roaring Fork River,14010004,2013,WaterTemp_C,12.08
+12783B,Downstream,Roaring Fork River,14010004,2013,pH,7.98
+12786B,Undisturbed,Roaring Fork River,14010004,2013,CatchmentArea_sqKm,240.86907
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Chla_C_Avg_mgM2,8.4729590473646
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Chla_NP_Avg_mgM2,31.7227586733331
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Chla_N_Avg_mgM2,28.7402770886607
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Chla_P_Avg_mgM2,6.0327468417236
+12786B,Undisturbed,Roaring Fork River,14010004,2013,DO_mgL,7.76
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Eco3ID,21
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Elev_AvgBasinwide_ft,11422
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Elev_MaxBasinwide_ft,14000
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Elev_MinBasinwide_ft,8080
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Elev_Outlet_ft,8078
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Flow_7dayMax_10yr_cfs,783
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Flow_7dayMin_10yr_cfs,12.7
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Flow_AnnualAvg_cfs,83.3
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Flow_Peak_100yr_cfs,1650
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Flow_Peak_10yr_cfs,1100
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Lat,39.1482
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Long,-106.7828
+12786B,Undisturbed,Roaring Fork River,14010004,2013,NH3_mgL,0.01075
+12786B,Undisturbed,Roaring Fork River,14010004,2013,NO23_mgL,0.025
+12786B,Undisturbed,Roaring Fork River,14010004,2013,NRR,1.57159027648794
+12786B,Undisturbed,Roaring Fork River,14010004,2013,PRR,0.841040489525398
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Precip_AnnualAvgBasinwide_in,28.91
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Slope_AvgBasinwide_pct,43
+12786B,Undisturbed,Roaring Fork River,14010004,2013,Slope_Streamflow_ftMi,173.3
+12786B,Undisturbed,Roaring Fork River,14010004,2013,SpecCond_uScm,58
+12786B,Undisturbed,Roaring Fork River,14010004,2013,TN_mgL,0.175
+12786B,Undisturbed,Roaring Fork River,14010004,2013,TP_mgL,0.0083
+12786B,Undisturbed,Roaring Fork River,14010004,2013,WaterTemp_C,12.83
+12786B,Undisturbed,Roaring Fork River,14010004,2013,pH,7.705
+12805B,Downstream,Yampa River,14050001,2013,CatchmentArea_sqKm,1642.05366
+12805B,Downstream,Yampa River,14050001,2013,Chla_C_Avg_mgM2,246.732567459257
+12805B,Downstream,Yampa River,14050001,2013,Chla_NP_Avg_mgM2,236.395557421473
+12805B,Downstream,Yampa River,14050001,2013,Chla_N_Avg_mgM2,208.773710927064
+12805B,Downstream,Yampa River,14050001,2013,Chla_P_Avg_mgM2,116.248998129842
+12805B,Downstream,Yampa River,14050001,2013,DO_mgL,13.74
+12805B,Downstream,Yampa River,14050001,2013,Eco3ID,21
+12805B,Downstream,Yampa River,14050001,2013,Elev_AvgBasinwide_ft,8688
+12805B,Downstream,Yampa River,14050001,2013,Elev_MaxBasinwide_ft,12300
+12805B,Downstream,Yampa River,14050001,2013,Elev_MinBasinwide_ft,6540
+12805B,Downstream,Yampa River,14050001,2013,Elev_Outlet_ft,6545
+12805B,Downstream,Yampa River,14050001,2013,Flow_7dayMax_10yr_cfs,4700.52261785967
+12805B,Downstream,Yampa River,14050001,2013,Flow_7dayMin_10yr_cfs,19.8093397522325
+12805B,Downstream,Yampa River,14050001,2013,Flow_AnnualAvg_cfs,509.163079903615
+12805B,Downstream,Yampa River,14050001,2013,Flow_Peak_100yr_cfs,7340.45967240255
+12805B,Downstream,Yampa River,14050001,2013,Flow_Peak_10yr_cfs,5031.16381142452
+12805B,Downstream,Yampa River,14050001,2013,Lat,40.491508
+12805B,Downstream,Yampa River,14050001,2013,Long,-106.94801
+12805B,Downstream,Yampa River,14050001,2013,NH3_mgL,0.019
+12805B,Downstream,Yampa River,14050001,2013,NO23_mgL,0.195
+12805B,Downstream,Yampa River,14050001,2013,NRR,0.969672325000604
+12805B,Downstream,Yampa River,14050001,2013,PRR,0.863375285625725
+12805B,Downstream,Yampa River,14050001,2013,Precip_AnnualAvgBasinwide_in,31.52
+12805B,Downstream,Yampa River,14050001,2013,Slope_AvgBasinwide_pct,21
+12805B,Downstream,Yampa River,14050001,2013,Slope_Streamflow_ftMi,49.8
+12805B,Downstream,Yampa River,14050001,2013,SpecCond_uScm,305.85
+12805B,Downstream,Yampa River,14050001,2013,TN_mgL,0.725
+12805B,Downstream,Yampa River,14050001,2013,TP_mgL,0.14
+12805B,Downstream,Yampa River,14050001,2013,WaterTemp_C,22.16
+12805B,Downstream,Yampa River,14050001,2013,pH,9.095
+12809,Downstream,Yampa River,14050001,2013,CatchmentArea_sqKm,538.71792
+12809,Downstream,Yampa River,14050001,2013,Chla_C_Avg_mgM2,47.6519216823786
+12809,Downstream,Yampa River,14050001,2013,Chla_NP_Avg_mgM2,181.321323613603
+12809,Downstream,Yampa River,14050001,2013,Chla_N_Avg_mgM2,104.217396282585
+12809,Downstream,Yampa River,14050001,2013,Chla_P_Avg_mgM2,51.2614022365559
+12809,Downstream,Yampa River,14050001,2013,DO_mgL,10.55
+12809,Downstream,Yampa River,14050001,2013,Eco3ID,21
+12809,Downstream,Yampa River,14050001,2013,Elev_AvgBasinwide_ft,8994
+12809,Downstream,Yampa River,14050001,2013,Elev_MaxBasinwide_ft,12300
+12809,Downstream,Yampa River,14050001,2013,Elev_MinBasinwide_ft,7200
+12809,Downstream,Yampa River,14050001,2013,Elev_Outlet_ft,7195
+12809,Downstream,Yampa River,14050001,2013,Flow_7dayMax_10yr_cfs,1530.45425917979
+12809,Downstream,Yampa River,14050001,2013,Flow_7dayMin_10yr_cfs,5.88408203457351
+12809,Downstream,Yampa River,14050001,2013,Flow_AnnualAvg_cfs,165.818926132544
+12809,Downstream,Yampa River,14050001,2013,Flow_Peak_100yr_cfs,2642.27129589895
+12809,Downstream,Yampa River,14050001,2013,Flow_Peak_10yr_cfs,1785.0031490223
+12809,Downstream,Yampa River,14050001,2013,Lat,40.26933
+12809,Downstream,Yampa River,14050001,2013,Long,-106.88116
+12809,Downstream,Yampa River,14050001,2013,NH3_mgL,0.01125
+12809,Downstream,Yampa River,14050001,2013,NO23_mgL,0.025
+12809,Downstream,Yampa River,14050001,2013,NRR,1.20252891071965
+12809,Downstream,Yampa River,14050001,2013,PRR,1.01889662871657
+12809,Downstream,Yampa River,14050001,2013,Precip_AnnualAvgBasinwide_in,28.67
+12809,Downstream,Yampa River,14050001,2013,Slope_AvgBasinwide_pct,18
+12809,Downstream,Yampa River,14050001,2013,Slope_Streamflow_ftMi,99
+12809,Downstream,Yampa River,14050001,2013,SpecCond_uScm,407.25
+12809,Downstream,Yampa River,14050001,2013,TN_mgL,0.46
+12809,Downstream,Yampa River,14050001,2013,TP_mgL,0.0775
+12809,Downstream,Yampa River,14050001,2013,WaterTemp_C,17.285
+12809,Downstream,Yampa River,14050001,2013,pH,8.33
+12811,Undisturbed,Yampa River,14050001,2013,CatchmentArea_sqKm,1064.48589
+12811,Undisturbed,Yampa River,14050001,2013,Chla_C_Avg_mgM2,52.4306705850922
+12811,Undisturbed,Yampa River,14050001,2013,Chla_NP_Avg_mgM2,157.597038280982
+12811,Undisturbed,Yampa River,14050001,2013,Chla_N_Avg_mgM2,116.113430785085
+12811,Undisturbed,Yampa River,14050001,2013,Chla_P_Avg_mgM2,36.1286973779627
+12811,Undisturbed,Yampa River,14050001,2013,DO_mgL,10.815
+12811,Undisturbed,Yampa River,14050001,2013,Eco3ID,21
+12811,Undisturbed,Yampa River,14050001,2013,Elev_AvgBasinwide_ft,8862
+12811,Undisturbed,Yampa River,14050001,2013,Elev_MaxBasinwide_ft,12300
+12811,Undisturbed,Yampa River,14050001,2013,Elev_MinBasinwide_ft,6800
+12811,Undisturbed,Yampa River,14050001,2013,Elev_Outlet_ft,6804
+12811,Undisturbed,Yampa River,14050001,2013,Flow_7dayMax_10yr_cfs,2966.45900134816
+12811,Undisturbed,Yampa River,14050001,2013,Flow_7dayMin_10yr_cfs,12.9119674764073
+12811,Undisturbed,Yampa River,14050001,2013,Flow_AnnualAvg_cfs,319.490580634905
+12811,Undisturbed,Yampa River,14050001,2013,Flow_Peak_100yr_cfs,4811.14750337039
+12811,Undisturbed,Yampa River,14050001,2013,Flow_Peak_10yr_cfs,3295.02462213517
+12811,Undisturbed,Yampa River,14050001,2013,Lat,40.39889
+12811,Undisturbed,Yampa River,14050001,2013,Long,-106.83417
+12811,Undisturbed,Yampa River,14050001,2013,NH3_mgL,0.0141
+12811,Undisturbed,Yampa River,14050001,2013,NO23_mgL,0.025
+12811,Undisturbed,Yampa River,14050001,2013,NRR,1.20080249718936
+12811,Undisturbed,Yampa River,14050001,2013,PRR,0.905946452064946
+12811,Undisturbed,Yampa River,14050001,2013,Precip_AnnualAvgBasinwide_in,29.97
+12811,Undisturbed,Yampa River,14050001,2013,Slope_AvgBasinwide_pct,21
+12811,Undisturbed,Yampa River,14050001,2013,Slope_Streamflow_ftMi,65.1
+12811,Undisturbed,Yampa River,14050001,2013,SpecCond_uScm,241.55
+12811,Undisturbed,Yampa River,14050001,2013,TN_mgL,0.495
+12811,Undisturbed,Yampa River,14050001,2013,TP_mgL,0.0565
+12811,Undisturbed,Yampa River,14050001,2013,WaterTemp_C,21.055
+12811,Undisturbed,Yampa River,14050001,2013,pH,9.04
+12815,Undisturbed,Yampa River,14050001,2013,CatchmentArea_sqKm,261.58899
+12815,Undisturbed,Yampa River,14050001,2013,Chla_C_Avg_mgM2,37.5521544979199
+12815,Undisturbed,Yampa River,14050001,2013,Chla_NP_Avg_mgM2,106.928743177741
+12815,Undisturbed,Yampa River,14050001,2013,Chla_N_Avg_mgM2,78.7985191404908
+12815,Undisturbed,Yampa River,14050001,2013,Chla_P_Avg_mgM2,30.5026525705126
+12815,Undisturbed,Yampa River,14050001,2013,DO_mgL,8.87
+12815,Undisturbed,Yampa River,14050001,2013,Eco3ID,21
+12815,Undisturbed,Yampa River,14050001,2013,Elev_AvgBasinwide_ft,9460
+12815,Undisturbed,Yampa River,14050001,2013,Elev_MaxBasinwide_ft,12300
+12815,Undisturbed,Yampa River,14050001,2013,Elev_MinBasinwide_ft,7670
+12815,Undisturbed,Yampa River,14050001,2013,Elev_Outlet_ft,7673
+12815,Undisturbed,Yampa River,14050001,2013,Flow_7dayMax_10yr_cfs,1040
+12815,Undisturbed,Yampa River,14050001,2013,Flow_7dayMin_10yr_cfs,4.74
+12815,Undisturbed,Yampa River,14050001,2013,Flow_AnnualAvg_cfs,110
+12815,Undisturbed,Yampa River,14050001,2013,Flow_Peak_100yr_cfs,1820
+12815,Undisturbed,Yampa River,14050001,2013,Flow_Peak_10yr_cfs,1280
+12815,Undisturbed,Yampa River,14050001,2013,Lat,40.183
+12815,Undisturbed,Yampa River,14050001,2013,Long,-106.91533
+12815,Undisturbed,Yampa River,14050001,2013,NH3_mgL,0.014
+12815,Undisturbed,Yampa River,14050001,2013,NO23_mgL,0.025
+12815,Undisturbed,Yampa River,14050001,2013,NRR,1.2044176749836
+12815,Undisturbed,Yampa River,14050001,2013,PRR,0.94265511751213
+12815,Undisturbed,Yampa River,14050001,2013,Precip_AnnualAvgBasinwide_in,32.53
+12815,Undisturbed,Yampa River,14050001,2013,Slope_AvgBasinwide_pct,18
+12815,Undisturbed,Yampa River,14050001,2013,Slope_Streamflow_ftMi,130.9
+12815,Undisturbed,Yampa River,14050001,2013,SpecCond_uScm,315.35
+12815,Undisturbed,Yampa River,14050001,2013,TN_mgL,0.4
+12815,Undisturbed,Yampa River,14050001,2013,TP_mgL,0.087
+12815,Undisturbed,Yampa River,14050001,2013,WaterTemp_C,13.745
+12815,Undisturbed,Yampa River,14050001,2013,pH,7.995
+12940,Downstream,Michigan River,10180001,2013,CatchmentArea_sqKm,473.96817
+12940,Downstream,Michigan River,10180001,2013,Chla_C_Avg_mgM2,62.4287622609824
+12940,Downstream,Michigan River,10180001,2013,Chla_NP_Avg_mgM2,117.265753215526
+12940,Downstream,Michigan River,10180001,2013,Chla_N_Avg_mgM2,124.213579634365
+12940,Downstream,Michigan River,10180001,2013,Chla_P_Avg_mgM2,32.4005953971222
+12940,Downstream,Michigan River,10180001,2013,DO_mgL,9.82
+12940,Downstream,Michigan River,10180001,2013,Eco3ID,21
+12940,Downstream,Michigan River,10180001,2013,Elev_AvgBasinwide_ft,9270
+12940,Downstream,Michigan River,10180001,2013,Elev_MaxBasinwide_ft,12900
+12940,Downstream,Michigan River,10180001,2013,Elev_MinBasinwide_ft,8030
+12940,Downstream,Michigan River,10180001,2013,Elev_Outlet_ft,8030
+12940,Downstream,Michigan River,10180001,2013,Flow_7dayMax_10yr_cfs,1020
+12940,Downstream,Michigan River,10180001,2013,Flow_7dayMin_10yr_cfs,4.31
+12940,Downstream,Michigan River,10180001,2013,Flow_AnnualAvg_cfs,112
+12940,Downstream,Michigan River,10180001,2013,Flow_Peak_100yr_cfs,1880
+12940,Downstream,Michigan River,10180001,2013,Flow_Peak_10yr_cfs,1200
+12940,Downstream,Michigan River,10180001,2013,Lat,40.745373
+12940,Downstream,Michigan River,10180001,2013,Long,-106.29673
+12940,Downstream,Michigan River,10180001,2013,NH3_mgL,0.01415
+12940,Downstream,Michigan River,10180001,2013,NO23_mgL,0.0625
+12940,Downstream,Michigan River,10180001,2013,NRR,1.16641801004391
+12940,Downstream,Michigan River,10180001,2013,PRR,0.841353371399354
+12940,Downstream,Michigan River,10180001,2013,Precip_AnnualAvgBasinwide_in,24.27
+12940,Downstream,Michigan River,10180001,2013,Slope_AvgBasinwide_pct,16
+12940,Downstream,Michigan River,10180001,2013,Slope_Streamflow_ftMi,30.3
+12940,Downstream,Michigan River,10180001,2013,SpecCond_uScm,185.25
+12940,Downstream,Michigan River,10180001,2013,TN_mgL,0.4925
+12940,Downstream,Michigan River,10180001,2013,TP_mgL,0.056
+12940,Downstream,Michigan River,10180001,2013,WaterTemp_C,18.115
+12940,Downstream,Michigan River,10180001,2013,pH,8.16
+12946,Undisturbed,Michigan River,10180001,2013,CatchmentArea_sqKm,155.917398
+12946,Undisturbed,Michigan River,10180001,2013,Chla_C_Avg_mgM2,6.16831418648143
+12946,Undisturbed,Michigan River,10180001,2013,Chla_NP_Avg_mgM2,71.1050723254838
+12946,Undisturbed,Michigan River,10180001,2013,Chla_N_Avg_mgM2,61.8864928819511
+12946,Undisturbed,Michigan River,10180001,2013,Chla_P_Avg_mgM2,8.0662570130911
+12946,Undisturbed,Michigan River,10180001,2013,DO_mgL,8.055
+12946,Undisturbed,Michigan River,10180001,2013,Eco3ID,21
+12946,Undisturbed,Michigan River,10180001,2013,Elev_AvgBasinwide_ft,10175
+12946,Undisturbed,Michigan River,10180001,2013,Elev_MaxBasinwide_ft,12900
+12946,Undisturbed,Michigan River,10180001,2013,Elev_MinBasinwide_ft,8750
+12946,Undisturbed,Michigan River,10180001,2013,Elev_Outlet_ft,8745
+12946,Undisturbed,Michigan River,10180001,2013,Flow_7dayMax_10yr_cfs,725
+12946,Undisturbed,Michigan River,10180001,2013,Flow_7dayMin_10yr_cfs,4.76
+12946,Undisturbed,Michigan River,10180001,2013,Flow_AnnualAvg_cfs,75.2
+12946,Undisturbed,Michigan River,10180001,2013,Flow_Peak_100yr_cfs,1410
+12946,Undisturbed,Michigan River,10180001,2013,Flow_Peak_10yr_cfs,994
+12946,Undisturbed,Michigan River,10180001,2013,Lat,40.55343
+12946,Undisturbed,Michigan River,10180001,2013,Long,-106.04337
+12946,Undisturbed,Michigan River,10180001,2013,NH3_mgL,0.00875
+12946,Undisturbed,Michigan River,10180001,2013,NO23_mgL,0.025
+12946,Undisturbed,Michigan River,10180001,2013,NRR,2.26736504540694
+12946,Undisturbed,Michigan River,10180001,2013,PRR,1.14744433108975
+12946,Undisturbed,Michigan River,10180001,2013,Precip_AnnualAvgBasinwide_in,34.06
+12946,Undisturbed,Michigan River,10180001,2013,Slope_AvgBasinwide_pct,30
+12946,Undisturbed,Michigan River,10180001,2013,Slope_Streamflow_ftMi,103.8
+12946,Undisturbed,Michigan River,10180001,2013,SpecCond_uScm,125.1
+12946,Undisturbed,Michigan River,10180001,2013,TN_mgL,0.245
+12946,Undisturbed,Michigan River,10180001,2013,TP_mgL,0.01565
+12946,Undisturbed,Michigan River,10180001,2013,WaterTemp_C,16.12
+12946,Undisturbed,Michigan River,10180001,2013,pH,7.565
+138A,,Florida River,14080104,2014,CatchmentArea_sqKm,135.974475
+138A,,Florida River,14080104,2014,Chla_C_Avg_mgM2,10.3370100377848
+138A,,Florida River,14080104,2014,Chla_NP_Avg_mgM2,31.6888668371436
+138A,,Florida River,14080104,2014,Chla_N_Avg_mgM2,44.1610625548643
+138A,,Florida River,14080104,2014,Chla_P_Avg_mgM2,3.66031830846151
+138A,,Florida River,14080104,2014,DO_mgL,7.31
+138A,,Florida River,14080104,2014,Eco3ID,21
+138A,,Florida River,14080104,2014,Elev_AvgBasinwide_ft,10949
+138A,,Florida River,14080104,2014,Elev_MaxBasinwide_ft,13300
+138A,,Florida River,14080104,2014,Elev_MinBasinwide_ft,8130
+138A,,Florida River,14080104,2014,Elev_Outlet_ft,8137
+138A,,Florida River,14080104,2014,Flow_7dayMax_10yr_cfs,585
+138A,,Florida River,14080104,2014,Flow_7dayMin_10yr_cfs,5.37
+138A,,Florida River,14080104,2014,Flow_AnnualAvg_cfs,78.4
+138A,,Florida River,14080104,2014,Flow_Peak_100yr_cfs,1830
+138A,,Florida River,14080104,2014,Flow_Peak_10yr_cfs,888
+138A,,Florida River,14080104,2014,Lat,37.4277
+138A,,Florida River,14080104,2014,Long,-107.6752
+138A,,Florida River,14080104,2014,NH3_mgL,0.00825
+138A,,Florida River,14080104,2014,NO23_mgL,0.025
+138A,,Florida River,14080104,2014,NRR,1.62169531091237
+138A,,Florida River,14080104,2014,PRR,0.555522147271106
+138A,,Florida River,14080104,2014,Precip_AnnualAvgBasinwide_in,37.74
+138A,,Florida River,14080104,2014,Slope_AvgBasinwide_pct,33
+138A,,Florida River,14080104,2014,Slope_Streamflow_ftMi,258.8
+138A,,Florida River,14080104,2014,SpecCond_uScm,111.395
+138A,,Florida River,14080104,2014,TN_mgL,0.152
+138A,,Florida River,14080104,2014,TP_mgL,0.0015
+138A,,Florida River,14080104,2014,WaterTemp_C,15.65
+138A,,Florida River,14080104,2014,pH,8.4
+5574,,Boulder Creek,10190005,2012,CatchmentArea_sqKm,802.8969
+5574,,Boulder Creek,10190005,2012,Chla_C_Avg_mgM2,14990.1376924659
+5574,,Boulder Creek,10190005,2012,Chla_NP_Avg_mgM2,7225.56794666659
+5574,,Boulder Creek,10190005,2012,Chla_N_Avg_mgM2,13971.2730381595
+5574,,Boulder Creek,10190005,2012,Chla_P_Avg_mgM2,8166.43601146546
+5574,,Boulder Creek,10190005,2012,DO_mgL,11.34
+5574,,Boulder Creek,10190005,2012,Eco3ID,25
+5574,,Boulder Creek,10190005,2012,Elev_AvgBasinwide_ft,8372
+5574,,Boulder Creek,10190005,2012,Elev_MaxBasinwide_ft,13500
+5574,,Boulder Creek,10190005,2012,Elev_MinBasinwide_ft,5070
+5574,,Boulder Creek,10190005,2012,Elev_Outlet_ft,5068
+5574,,Boulder Creek,10190005,2012,Flow_7dayMax_10yr_cfs,1670
+5574,,Boulder Creek,10190005,2012,Flow_7dayMin_10yr_cfs,4.11
+5574,,Boulder Creek,10190005,2012,Flow_AnnualAvg_cfs,186
+5574,,Boulder Creek,10190005,2012,Flow_Peak_100yr_cfs,5176.36688516958
+5574,,Boulder Creek,10190005,2012,Flow_Peak_10yr_cfs,2398.54000775566
+5574,,Boulder Creek,10190005,2012,Lat,40.049793
+5574,,Boulder Creek,10190005,2012,Long,-105.145877
+5574,,Boulder Creek,10190005,2012,NH3_mgL,0.031
+5574,,Boulder Creek,10190005,2012,NO23_mgL,2.6
+5574,,Boulder Creek,10190005,2012,NRR,0.992679342674366
+5574,,Boulder Creek,10190005,2012,PRR,0.936833013198464
+5574,,Boulder Creek,10190005,2012,Precip_AnnualAvgBasinwide_in,24.86
+5574,,Boulder Creek,10190005,2012,Slope_AvgBasinwide_pct,28
+5574,,Boulder Creek,10190005,2012,Slope_Streamflow_ftMi,104.6
+5574,,Boulder Creek,10190005,2012,SpecCond_uScm,268
+5574,,Boulder Creek,10190005,2012,TN_mgL,3.34
+5574,,Boulder Creek,10190005,2012,TP_mgL,0.91
+5574,,Boulder Creek,10190005,2012,WaterTemp_C,16.915
+5574,,Boulder Creek,10190005,2012,pH,8.015
+5577,,Boulder Creek,10190005,2012,CatchmentArea_sqKm,393.67848
+5577,,Boulder Creek,10190005,2012,Chla_C_Avg_mgM2,7340.8113668262
+5577,,Boulder Creek,10190005,2012,Chla_NP_Avg_mgM2,11985.9929964018
+5577,,Boulder Creek,10190005,2012,Chla_N_Avg_mgM2,10957.8554614569
+5577,,Boulder Creek,10190005,2012,Chla_P_Avg_mgM2,7127.81958477589
+5577,,Boulder Creek,10190005,2012,DO_mgL,10.335
+5577,,Boulder Creek,10190005,2012,Eco3ID,25
+5577,,Boulder Creek,10190005,2012,Elev_AvgBasinwide_ft,8658
+5577,,Boulder Creek,10190005,2012,Elev_MaxBasinwide_ft,13500
+5577,,Boulder Creek,10190005,2012,Elev_MinBasinwide_ft,5190
+5577,,Boulder Creek,10190005,2012,Elev_Outlet_ft,5193
+5577,,Boulder Creek,10190005,2012,Flow_7dayMax_10yr_cfs,989
+5577,,Boulder Creek,10190005,2012,Flow_7dayMin_10yr_cfs,2.48
+5577,,Boulder Creek,10190005,2012,Flow_AnnualAvg_cfs,108
+5577,,Boulder Creek,10190005,2012,Flow_Peak_100yr_cfs,2824.79195010141
+5577,,Boulder Creek,10190005,2012,Flow_Peak_10yr_cfs,1405.95183628843
+5577,,Boulder Creek,10190005,2012,Lat,40.027139
+5577,,Boulder Creek,10190005,2012,Long,-105.224334
+5577,,Boulder Creek,10190005,2012,NH3_mgL,0.022
+5577,,Boulder Creek,10190005,2012,NO23_mgL,0.19
+5577,,Boulder Creek,10190005,2012,NRR,1.04500595496081
+5577,,Boulder Creek,10190005,2012,PRR,0.996692133365703
+5577,,Boulder Creek,10190005,2012,Precip_AnnualAvgBasinwide_in,26.05
+5577,,Boulder Creek,10190005,2012,Slope_AvgBasinwide_pct,31
+5577,,Boulder Creek,10190005,2012,Slope_Streamflow_ftMi,167.1
+5577,,Boulder Creek,10190005,2012,SpecCond_uScm,200.7
+5577,,Boulder Creek,10190005,2012,TN_mgL,0.59
+5577,,Boulder Creek,10190005,2012,TP_mgL,0.018
+5577,,Boulder Creek,10190005,2012,WaterTemp_C,12.27
+5577,,Boulder Creek,10190005,2012,pH,7.72
+5580,,Boulder Creek,10190005,2012,CatchmentArea_sqKm,106.707588
+5580,,Boulder Creek,10190005,2012,Chla_C_Avg_mgM2,3034.41467292595
+5580,,Boulder Creek,10190005,2012,Chla_NP_Avg_mgM2,5118.93536351713
+5580,,Boulder Creek,10190005,2012,Chla_N_Avg_mgM2,3748.31513355799
+5580,,Boulder Creek,10190005,2012,Chla_P_Avg_mgM2,1331.60171949519
+5580,,Boulder Creek,10190005,2012,DO_mgL,10.6566666666667
+5580,,Boulder Creek,10190005,2012,Eco3ID,21
+5580,,Boulder Creek,10190005,2012,Elev_AvgBasinwide_ft,10122
+5580,,Boulder Creek,10190005,2012,Elev_MaxBasinwide_ft,13400
+5580,,Boulder Creek,10190005,2012,Elev_MinBasinwide_ft,7750
+5580,,Boulder Creek,10190005,2012,Elev_Outlet_ft,7749
+5580,,Boulder Creek,10190005,2012,Flow_7dayMax_10yr_cfs,462
+5580,,Boulder Creek,10190005,2012,Flow_7dayMin_10yr_cfs,2.48
+5580,,Boulder Creek,10190005,2012,Flow_AnnualAvg_cfs,47.7
+5580,,Boulder Creek,10190005,2012,Flow_Peak_100yr_cfs,983
+5580,,Boulder Creek,10190005,2012,Flow_Peak_10yr_cfs,668
+5580,,Boulder Creek,10190005,2012,Lat,39.980605
+5580,,Boulder Creek,10190005,2012,Long,-105.454816
+5580,,Boulder Creek,10190005,2012,NH3_mgL,0.005
+5580,,Boulder Creek,10190005,2012,NO23_mgL,0.16
+5580,,Boulder Creek,10190005,2012,NRR,1.02635243884143
+5580,,Boulder Creek,10190005,2012,PRR,0.897273726251652
+5580,,Boulder Creek,10190005,2012,Precip_AnnualAvgBasinwide_in,31.72
+5580,,Boulder Creek,10190005,2012,Slope_AvgBasinwide_pct,34
+5580,,Boulder Creek,10190005,2012,Slope_Streamflow_ftMi,190.4
+5580,,Boulder Creek,10190005,2012,SpecCond_uScm,50.3366666666667
+5580,,Boulder Creek,10190005,2012,TN_mgL,0.26
+5580,,Boulder Creek,10190005,2012,TP_mgL,0.0109
+5580,,Boulder Creek,10190005,2012,WaterTemp_C,6.92333333333333
+5580,,Boulder Creek,10190005,2012,pH,7.85333333333333
+9240,,First Fork,14080102,2014,CatchmentArea_sqKm,142.967448
+9240,,First Fork,14080102,2014,Chla_C_Avg_mgM2,10.1675508568375
+9240,,First Fork,14080102,2014,Chla_NP_Avg_mgM2,16.6069997328346
+9240,,First Fork,14080102,2014,Chla_N_Avg_mgM2,25.6900118316095
+9240,,First Fork,14080102,2014,Chla_P_Avg_mgM2,12.7433304072364
+9240,,First Fork,14080102,2014,DO_mgL,7.765
+9240,,First Fork,14080102,2014,Eco3ID,21
+9240,,First Fork,14080102,2014,Elev_AvgBasinwide_ft,9325
+9240,,First Fork,14080102,2014,Elev_MaxBasinwide_ft,12500
+9240,,First Fork,14080102,2014,Elev_MinBasinwide_ft,7080
+9240,,First Fork,14080102,2014,Elev_Outlet_ft,7083
+9240,,First Fork,14080102,2014,Flow_7dayMax_10yr_cfs,371
+9240,,First Fork,14080102,2014,Flow_7dayMin_10yr_cfs,2.29
+9240,,First Fork,14080102,2014,Flow_AnnualAvg_cfs,44.5
+9240,,First Fork,14080102,2014,Flow_Peak_100yr_cfs,1900
+9240,,First Fork,14080102,2014,Flow_Peak_10yr_cfs,920
+9240,,First Fork,14080102,2014,Lat,37.35503
+9240,,First Fork,14080102,2014,Long,-107.325398
+9240,,First Fork,14080102,2014,NH3_mgL,0.016
+9240,,First Fork,14080102,2014,NO23_mgL,0.025
+9240,,First Fork,14080102,2014,NRR,1.39966383544676
+9240,,First Fork,14080102,2014,PRR,1.09736397734203
+9240,,First Fork,14080102,2014,Precip_AnnualAvgBasinwide_in,30.73
+9240,,First Fork,14080102,2014,Slope_AvgBasinwide_pct,30
+9240,,First Fork,14080102,2014,Slope_Streamflow_ftMi,296.6
+9240,,First Fork,14080102,2014,SpecCond_uScm,417.15
+9240,,First Fork,14080102,2014,TN_mgL,0.176
+9240,,First Fork,14080102,2014,TP_mgL,0.011
+9240,,First Fork,14080102,2014,WaterTemp_C,14.36
+9240,,First Fork,14080102,2014,pH,8.325
+9245,,Stollsteimer Creek,14080102,2014,CatchmentArea_sqKm,277.12893
+9245,,Stollsteimer Creek,14080102,2014,Chla_C_Avg_mgM2,54.7014236097859
+9245,,Stollsteimer Creek,14080102,2014,Chla_NP_Avg_mgM2,15.1835426128774
+9245,,Stollsteimer Creek,14080102,2014,Chla_N_Avg_mgM2,21.216289454601
+9245,,Stollsteimer Creek,14080102,2014,Chla_P_Avg_mgM2,9.55749780542727
+9245,,Stollsteimer Creek,14080102,2014,DO_mgL,6.525
+9245,,Stollsteimer Creek,14080102,2014,Eco3ID,21
+9245,,Stollsteimer Creek,14080102,2014,Elev_AvgBasinwide_ft,7591
+9245,,Stollsteimer Creek,14080102,2014,Elev_MaxBasinwide_ft,11000
+9245,,Stollsteimer Creek,14080102,2014,Elev_MinBasinwide_ft,6530
+9245,,Stollsteimer Creek,14080102,2014,Elev_Outlet_ft,6531
+9245,,Stollsteimer Creek,14080102,2014,Flow_7dayMax_10yr_cfs,324
+9245,,Stollsteimer Creek,14080102,2014,Flow_7dayMin_10yr_cfs,1.29
+9245,,Stollsteimer Creek,14080102,2014,Flow_AnnualAvg_cfs,32.4
+9245,,Stollsteimer Creek,14080102,2014,Flow_Peak_100yr_cfs,3360
+9245,,Stollsteimer Creek,14080102,2014,Flow_Peak_10yr_cfs,1560
+9245,,Stollsteimer Creek,14080102,2014,Lat,37.172523
+9245,,Stollsteimer Creek,14080102,2014,Long,-107.295287
+9245,,Stollsteimer Creek,14080102,2014,NH3_mgL,0.0765
+9245,,Stollsteimer Creek,14080102,2014,NO23_mgL,0.765
+9245,,Stollsteimer Creek,14080102,2014,NRR,0.763331690656295
+9245,,Stollsteimer Creek,14080102,2014,PRR,0.564065005916062
+9245,,Stollsteimer Creek,14080102,2014,Precip_AnnualAvgBasinwide_in,22.56
+9245,,Stollsteimer Creek,14080102,2014,Slope_AvgBasinwide_pct,18
+9245,,Stollsteimer Creek,14080102,2014,Slope_Streamflow_ftMi,60.6
+9245,,Stollsteimer Creek,14080102,2014,SpecCond_uScm,619.3
+9245,,Stollsteimer Creek,14080102,2014,TN_mgL,0.9985
+9245,,Stollsteimer Creek,14080102,2014,TP_mgL,0.665
+9245,,Stollsteimer Creek,14080102,2014,WaterTemp_C,17.59
+9245,,Stollsteimer Creek,14080102,2014,pH,8.015
+9274,,Williams Creek,14080102,2014,CatchmentArea_sqKm,116.808549
+9274,,Williams Creek,14080102,2014,Chla_C_Avg_mgM2,30.2767069959162
+9274,,Williams Creek,14080102,2014,Chla_NP_Avg_mgM2,69.9866417312316
+9274,,Williams Creek,14080102,2014,Chla_N_Avg_mgM2,120.587153162093
+9274,,Williams Creek,14080102,2014,Chla_P_Avg_mgM2,12.1163314377314
+9274,,Williams Creek,14080102,2014,DO_mgL,6.48
+9274,,Williams Creek,14080102,2014,Eco3ID,21
+9274,,Williams Creek,14080102,2014,Elev_AvgBasinwide_ft,9853
+9274,,Williams Creek,14080102,2014,Elev_MaxBasinwide_ft,12700
+9274,,Williams Creek,14080102,2014,Elev_MinBasinwide_ft,7780
+9274,,Williams Creek,14080102,2014,Elev_Outlet_ft,7778
+9274,,Williams Creek,14080102,2014,Flow_7dayMax_10yr_cfs,373
+9274,,Williams Creek,14080102,2014,Flow_7dayMin_10yr_cfs,2.59
+9274,,Williams Creek,14080102,2014,Flow_AnnualAvg_cfs,46.8
+9274,,Williams Creek,14080102,2014,Flow_Peak_100yr_cfs,1680
+9274,,Williams Creek,14080102,2014,Flow_Peak_10yr_cfs,809
+9274,,Williams Creek,14080102,2014,Lat,37.455877
+9274,,Williams Creek,14080102,2014,Long,-107.198972
+9274,,Williams Creek,14080102,2014,NH3_mgL,0.021
+9274,,Williams Creek,14080102,2014,NO23_mgL,0.025
+9274,,Williams Creek,14080102,2014,NRR,1.40523185744554
+9274,,Williams Creek,14080102,2014,PRR,0.731459608715735
+9274,,Williams Creek,14080102,2014,Precip_AnnualAvgBasinwide_in,33.26
+9274,,Williams Creek,14080102,2014,Slope_AvgBasinwide_pct,40
+9274,,Williams Creek,14080102,2014,Slope_Streamflow_ftMi,158.2
+9274,,Williams Creek,14080102,2014,SpecCond_uScm,64.21
+9274,,Williams Creek,14080102,2014,TN_mgL,0.1875
+9274,,Williams Creek,14080102,2014,TP_mgL,0.0465
+9274,,Williams Creek,14080102,2014,WaterTemp_C,22.175
+9274,,Williams Creek,14080102,2014,pH,8.715
+9372,,Vallecito Creek,14080101,2014,CatchmentArea_sqKm,208.494195
+9372,,Vallecito Creek,14080101,2014,Chla_C_Avg_mgM2,37.4504789893516
+9372,,Vallecito Creek,14080101,2014,Chla_NP_Avg_mgM2,40.1618258845082
+9372,,Vallecito Creek,14080101,2014,Chla_N_Avg_mgM2,42.7037135987176
+9372,,Vallecito Creek,14080101,2014,Chla_P_Avg_mgM2,21.5778023739552
+9372,,Vallecito Creek,14080101,2014,DO_mgL,7.465
+9372,,Vallecito Creek,14080101,2014,Eco3ID,21
+9372,,Vallecito Creek,14080101,2014,Elev_AvgBasinwide_ft,11267
+9372,,Vallecito Creek,14080101,2014,Elev_MaxBasinwide_ft,14100
+9372,,Vallecito Creek,14080101,2014,Elev_MinBasinwide_ft,7880
+9372,,Vallecito Creek,14080101,2014,Elev_Outlet_ft,7877
+9372,,Vallecito Creek,14080101,2014,Flow_7dayMax_10yr_cfs,957
+9372,,Vallecito Creek,14080101,2014,Flow_7dayMin_10yr_cfs,9.57
+9372,,Vallecito Creek,14080101,2014,Flow_AnnualAvg_cfs,130
+9372,,Vallecito Creek,14080101,2014,Flow_Peak_100yr_cfs,2360
+9372,,Vallecito Creek,14080101,2014,Flow_Peak_10yr_cfs,1150
+9372,,Vallecito Creek,14080101,2014,Lat,37.473985
+9372,,Vallecito Creek,14080101,2014,Long,-107.546542
+9372,,Vallecito Creek,14080101,2014,NH3_mgL,0.014
+9372,,Vallecito Creek,14080101,2014,NO23_mgL,0.0955
+9372,,Vallecito Creek,14080101,2014,NRR,1.03623121156103
+9372,,Vallecito Creek,14080101,2014,PRR,0.847819096314088
+9372,,Vallecito Creek,14080101,2014,Precip_AnnualAvgBasinwide_in,39.25
+9372,,Vallecito Creek,14080101,2014,Slope_AvgBasinwide_pct,57
+9372,,Vallecito Creek,14080101,2014,Slope_Streamflow_ftMi,193.9
+9372,,Vallecito Creek,14080101,2014,SpecCond_uScm,45.59
+9372,,Vallecito Creek,14080101,2014,TN_mgL,0.1905
+9372,,Vallecito Creek,14080101,2014,TP_mgL,0.01035
+9372,,Vallecito Creek,14080101,2014,WaterTemp_C,13.1
+9372,,Vallecito Creek,14080101,2014,pH,7.7
+9717,,Mancos River,14080107,2014,CatchmentArea_sqKm,297.84885
+9717,,Mancos River,14080107,2014,Chla_C_Avg_mgM2,57.0060684706691
+9717,,Mancos River,14080107,2014,Chla_NP_Avg_mgM2,181.321323613603
+9717,,Mancos River,14080107,2014,Chla_N_Avg_mgM2,175.2207930995
+9717,,Mancos River,14080107,2014,Chla_P_Avg_mgM2,18.1999160337392
+9717,,Mancos River,14080107,2014,DO_mgL,7.995
+9717,,Mancos River,14080107,2014,Eco3ID,20
+9717,,Mancos River,14080107,2014,Elev_AvgBasinwide_ft,8793
+9717,,Mancos River,14080107,2014,Elev_Outlet_ft,6595
+9717,,Mancos River,14080107,2014,Flow_7dayMax_10yr_cfs,581
+9717,,Mancos River,14080107,2014,Flow_7dayMin_10yr_cfs,3.26
+9717,,Mancos River,14080107,2014,Flow_AnnualAvg_cfs,65.1
+9717,,Mancos River,14080107,2014,Flow_Peak_100yr_cfs,3130
+9717,,Mancos River,14080107,2014,Flow_Peak_10yr_cfs,1500
+9717,,Mancos River,14080107,2014,Lat,37.304149
+9717,,Mancos River,14080107,2014,Long,-108.357838
+9717,,Mancos River,14080107,2014,NH3_mgL,0.0335
+9717,,Mancos River,14080107,2014,NO23_mgL,0.025
+9717,,Mancos River,14080107,2014,NRR,1.27772577844087
+9717,,Mancos River,14080107,2014,PRR,0.717611623577708
+9717,,Mancos River,14080107,2014,Slope_AvgBasinwide_pct,22
+9717,,Mancos River,14080107,2014,SpecCond_uScm,692.61
+9717,,Mancos River,14080107,2014,TN_mgL,0.3075
+9717,,Mancos River,14080107,2014,TP_mgL,0.0175
+9717,,Mancos River,14080107,2014,WaterTemp_C,22.515
+9717,,Mancos River,14080107,2014,pH,7.795
+9853,,Navajo River,14080101,2014,CatchmentArea_sqKm,200.465226
+9853,,Navajo River,14080101,2014,Chla_C_Avg_mgM2,18.1321323613603
+9853,,Navajo River,14080101,2014,Chla_NP_Avg_mgM2,120.316018472577
+9853,,Navajo River,14080101,2014,Chla_N_Avg_mgM2,128.788977519942
+9853,,Navajo River,14080101,2014,Chla_P_Avg_mgM2,6.4394488759971
+9853,,Navajo River,14080101,2014,DO_mgL,6.835
+9853,,Navajo River,14080101,2014,Eco3ID,21
+9853,,Navajo River,14080101,2014,Elev_AvgBasinwide_ft,10171
+9853,,Navajo River,14080101,2014,Elev_MaxBasinwide_ft,12800
+9853,,Navajo River,14080101,2014,Elev_MinBasinwide_ft,7840
+9853,,Navajo River,14080101,2014,Elev_Outlet_ft,7844
+9853,,Navajo River,14080101,2014,Flow_7dayMax_10yr_cfs,924
+9853,,Navajo River,14080101,2014,Flow_7dayMin_10yr_cfs,6.2
+9853,,Navajo River,14080101,2014,Flow_AnnualAvg_cfs,125
+9853,,Navajo River,14080101,2014,Flow_Peak_100yr_cfs,2310
+9853,,Navajo River,14080101,2014,Flow_Peak_10yr_cfs,1130
+9853,,Navajo River,14080101,2014,Lat,37.060503
+9853,,Navajo River,14080101,2014,Long,-106.693152
+9853,,Navajo River,14080101,2014,NH3_mgL,0.025
+9853,,Navajo River,14080101,2014,NO23_mgL,0.025
+9853,,Navajo River,14080101,2014,NRR,1.67657083865139
+9853,,Navajo River,14080101,2014,PRR,0.642734649000108
+9853,,Navajo River,14080101,2014,Precip_AnnualAvgBasinwide_in,39.25
+9853,,Navajo River,14080101,2014,Slope_AvgBasinwide_pct,42
+9853,,Navajo River,14080101,2014,Slope_Streamflow_ftMi,195
+9853,,Navajo River,14080101,2014,SpecCond_uScm,120.15
+9853,,Navajo River,14080101,2014,TN_mgL,0.1055
+9853,,Navajo River,14080101,2014,TP_mgL,0.059
+9853,,Navajo River,14080101,2014,WaterTemp_C,16.43
+9853,,Navajo River,14080101,2014,pH,7.76
+9862,,Rio Blanco River,14080101,2014,CatchmentArea_sqKm,240.351072
+9862,,Rio Blanco River,14080101,2014,Chla_C_Avg_mgM2,32.3667035609328
+9862,,Rio Blanco River,14080101,2014,Chla_NP_Avg_mgM2,71.6247471470555
+9862,,Rio Blanco River,14080101,2014,Chla_N_Avg_mgM2,72.1218274111675
+9862,,Rio Blanco River,14080101,2014,Chla_P_Avg_mgM2,16.6069997328346
+9862,,Rio Blanco River,14080101,2014,DO_mgL,6.28
+9862,,Rio Blanco River,14080101,2014,Eco3ID,21
+9862,,Rio Blanco River,14080101,2014,Elev_AvgBasinwide_ft,9530
+9862,,Rio Blanco River,14080101,2014,Elev_MaxBasinwide_ft,12800
+9862,,Rio Blanco River,14080101,2014,Elev_MinBasinwide_ft,7240
+9862,,Rio Blanco River,14080101,2014,Elev_Outlet_ft,7244
+9862,,Rio Blanco River,14080101,2014,Flow_7dayMax_10yr_cfs,811
+9862,,Rio Blanco River,14080101,2014,Flow_7dayMin_10yr_cfs,4.87
+9862,,Rio Blanco River,14080101,2014,Flow_AnnualAvg_cfs,103
+9862,,Rio Blanco River,14080101,2014,Flow_Peak_100yr_cfs,2580
+9862,,Rio Blanco River,14080101,2014,Flow_Peak_10yr_cfs,1260
+9862,,Rio Blanco River,14080101,2014,Lat,37.143698
+9862,,Rio Blanco River,14080101,2014,Long,-106.885506
+9862,,Rio Blanco River,14080101,2014,NH3_mgL,0.0175
+9862,,Rio Blanco River,14080101,2014,NO23_mgL,0.025
+9862,,Rio Blanco River,14080101,2014,NRR,1.23042752436232
+9862,,Rio Blanco River,14080101,2014,PRR,0.808087156388955
+9862,,Rio Blanco River,14080101,2014,Precip_AnnualAvgBasinwide_in,34.73
+9862,,Rio Blanco River,14080101,2014,Slope_AvgBasinwide_pct,37
+9862,,Rio Blanco River,14080101,2014,Slope_Streamflow_ftMi,110.8
+9862,,Rio Blanco River,14080101,2014,SpecCond_uScm,124.3
+9862,,Rio Blanco River,14080101,2014,TN_mgL,0.17
+9862,,Rio Blanco River,14080101,2014,TP_mgL,0.084
+9862,,Rio Blanco River,14080101,2014,WaterTemp_C,22.06
+9862,,Rio Blanco River,14080101,2014,pH,8.305
