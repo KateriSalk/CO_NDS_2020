@@ -1,0 +1,4 @@
+THree samples at NDS #1
+11:20 = Sample 201360050
+11:25 = Duplicate  201360051
+11:30 = Blank  201360052
