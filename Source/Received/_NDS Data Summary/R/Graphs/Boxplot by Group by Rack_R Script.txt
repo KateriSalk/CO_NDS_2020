@@ -1,2 +1,0 @@
- ggplot(NDS_Data_CSV, aes(x = Group, y = Chla, fill = Group)) + geom_boxplot() +
-+     facet_wrap(~ Rack, ncol = 21)
